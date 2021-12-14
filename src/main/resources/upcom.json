@@ -1,0 +1,8210 @@
+[
+  {
+    "Symbol": "A32",
+    "CompanyName": "Công ty cổ phần 32",
+    "TradeCenter": "Upcom",
+    "Price": 30.9,
+    "PE": 4.99,
+    "EPS": 6.19
+  },
+  {
+    "Symbol": "AAS",
+    "CompanyName": "Công ty Cổ phần Chứng Khoán Smart Invest",
+    "TradeCenter": "Upcom",
+    "Price": 13,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "ABB",
+    "CompanyName": "Ngân hàng Thương mại cổ phần An Bình",
+    "TradeCenter": "Upcom",
+    "Price": 20.7,
+    "PE": 21.75,
+    "EPS": 0.95
+  },
+  {
+    "Symbol": "ABC",
+    "CompanyName": "Công ty cổ phần Truyền thông VMG",
+    "TradeCenter": "Upcom",
+    "Price": 11.6,
+    "PE": 5.53,
+    "EPS": 2.1
+  },
+  {
+    "Symbol": "ABI",
+    "CompanyName": "Công ty Cổ phần Bảo hiểm Ngân hàng Nông nghiệp  ",
+    "TradeCenter": "Upcom",
+    "Price": 54.3,
+    "PE": 8.51,
+    "EPS": 6.38
+  },
+  {
+    "Symbol": "ABR",
+    "CompanyName": "Công ty Cổ phần Đầu tư Nhãn hiệu Việt",
+    "TradeCenter": "Upcom",
+    "Price": 22.9,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "AC4",
+    "CompanyName": "Công ty Cổ phần ACC - 244",
+    "TradeCenter": "Upcom",
+    "Price": 4.2,
+    "PE": 1.56,
+    "EPS": 2.7
+  },
+  {
+    "Symbol": "ACE",
+    "CompanyName": "Công ty Cổ phần Bê tông ly tâm An Giang",
+    "TradeCenter": "Upcom",
+    "Price": 36.3,
+    "PE": 5.81,
+    "EPS": 6.25
+  },
+  {
+    "Symbol": "ACG",
+    "CompanyName": "Công ty Cổ phần Gỗ An Cường",
+    "TradeCenter": "Upcom",
+    "Price": 0,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "ACS",
+    "CompanyName": "Công ty Cổ phần Xây lắp Thương mại 2",
+    "TradeCenter": "Upcom",
+    "Price": 11.1,
+    "PE": 10.25,
+    "EPS": 1.08
+  },
+  {
+    "Symbol": "ACV",
+    "CompanyName": "Tổng công ty Cảng hàng không Việt Nam - CTCP",
+    "TradeCenter": "Upcom",
+    "Price": 75.8,
+    "PE": 255.65,
+    "EPS": 0.3
+  },
+  {
+    "Symbol": "ADP",
+    "CompanyName": "Công ty Cổ phần Sơn Á Đông",
+    "TradeCenter": "Upcom",
+    "Price": 27,
+    "PE": 14.69,
+    "EPS": 1.84
+  },
+  {
+    "Symbol": "AFC",
+    "CompanyName": "Công ty Cổ phần Nông Lâm Nghiệp Bình Dương",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 8.51,
+    "EPS": 1.17
+  },
+  {
+    "Symbol": "AFX",
+    "CompanyName": "Công ty Cổ phần Xuất nhập khẩu Nông sản Thực phẩm An Giang",
+    "TradeCenter": "Upcom",
+    "Price": 13.2,
+    "PE": 24.05,
+    "EPS": 0.55
+  },
+  {
+    "Symbol": "AG1",
+    "CompanyName": "Công ty Cổ phần 28.1",
+    "TradeCenter": "Upcom",
+    "Price": 6.3,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "AGF",
+    "CompanyName": "Công ty Cổ phần Xuất nhập khẩu Thủy sản An Giang",
+    "TradeCenter": "Upcom",
+    "Price": 3.2,
+    "PE": 7.43,
+    "EPS": 0.43
+  },
+  {
+    "Symbol": "AGP",
+    "CompanyName": "Công ty cổ phần Dược phẩm Agimexpharm",
+    "TradeCenter": "Upcom",
+    "Price": 18.9,
+    "PE": 6.39,
+    "EPS": 2.96
+  },
+  {
+    "Symbol": "AGX",
+    "CompanyName": "Công ty cổ phần Thực phẩm Nông sản Xuất khẩu Sài Gòn",
+    "TradeCenter": "Upcom",
+    "Price": 30.4,
+    "PE": 9.81,
+    "EPS": 3.1
+  },
+  {
+    "Symbol": "AIC",
+    "CompanyName": "Công ty cổ phần Bảo hiểm Hàng không",
+    "TradeCenter": "Upcom",
+    "Price": 13,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "ALV",
+    "CompanyName": "Công ty Cổ phần Đầu tư phát triển Hạ tầng ALV",
+    "TradeCenter": "Upcom",
+    "Price": 2.6,
+    "PE": 10.76,
+    "EPS": 0.24
+  },
+  {
+    "Symbol": "AMP",
+    "CompanyName": "Công ty Cổ phần Armephaco",
+    "TradeCenter": "Upcom",
+    "Price": 11.5,
+    "PE": 21.5,
+    "EPS": 0.54
+  },
+  {
+    "Symbol": "AMS",
+    "CompanyName": "Công ty Cổ phần Cơ khí xây dựng AMECC",
+    "TradeCenter": "Upcom",
+    "Price": 9.1,
+    "PE": 14.28,
+    "EPS": 0.64
+  },
+  {
+    "Symbol": "ANT",
+    "CompanyName": "CTCP Rau quả Thực phẩm An Giang",
+    "TradeCenter": "Upcom",
+    "Price": 10.3,
+    "PE": 5.06,
+    "EPS": 2.04
+  },
+  {
+    "Symbol": "APF",
+    "CompanyName": "Công ty Cổ phần Nông sản thực phẩm Quảng Ngãi",
+    "TradeCenter": "Upcom",
+    "Price": 48,
+    "PE": 4.97,
+    "EPS": 9.66
+  },
+  {
+    "Symbol": "APL",
+    "CompanyName": "CTCP Cơ khí và Thiết bị áp lực - VVMI",
+    "TradeCenter": "Upcom",
+    "Price": 17.6,
+    "PE": 8.67,
+    "EPS": 2.03
+  },
+  {
+    "Symbol": "APT",
+    "CompanyName": "CTCP Kinh doanh Thủy Hải Sản Sài Gòn",
+    "TradeCenter": "Upcom",
+    "Price": 3.6,
+    "PE": -0.15,
+    "EPS": -23.41
+  },
+  {
+    "Symbol": "AQN",
+    "CompanyName": "Công ty cổ phần 28 Quảng Ngãi",
+    "TradeCenter": "Upcom",
+    "Price": 9.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "ASA",
+    "CompanyName": "Công ty cổ phần Tập đoàn ASA",
+    "TradeCenter": "Upcom",
+    "Price": 4.1,
+    "PE": 394.23,
+    "EPS": 0.01
+  },
+  {
+    "Symbol": "ASD",
+    "CompanyName": "Công ty Cổ phần Sông Đà Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 8,
+    "PE": 18.47,
+    "EPS": 0.43
+  },
+  {
+    "Symbol": "ATA",
+    "CompanyName": "Công ty Cổ phần NTACO",
+    "TradeCenter": "Upcom",
+    "Price": 1.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "ATB",
+    "CompanyName": "Công ty Cổ phần An Thịnh",
+    "TradeCenter": "Upcom",
+    "Price": 1.4,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "ATD",
+    "CompanyName": "Công ty cổ phần 28 Đà Nẵng",
+    "TradeCenter": "Upcom",
+    "Price": 9.6,
+    "PE": 38.59,
+    "EPS": 0.25
+  },
+  {
+    "Symbol": "ATG",
+    "CompanyName": "Công ty Cổ phần An Trường An",
+    "TradeCenter": "Upcom",
+    "Price": 1.4,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "AUM",
+    "CompanyName": "CTCP Vinacafe Sơn Thành",
+    "TradeCenter": "Upcom",
+    "Price": 10.5,
+    "PE": -43.02,
+    "EPS": -0.24
+  },
+  {
+    "Symbol": "AVC",
+    "CompanyName": "Công ty cổ phần Thuỷ điện A Vương",
+    "TradeCenter": "Upcom",
+    "Price": 27.3,
+    "PE": 7.08,
+    "EPS": 3.85
+  },
+  {
+    "Symbol": "AVF",
+    "CompanyName": "Công ty Cổ phần Việt An",
+    "TradeCenter": "Upcom",
+    "Price": 0.6,
+    "PE": -0.2,
+    "EPS": -3.01
+  },
+  {
+    "Symbol": "B82",
+    "CompanyName": "Công ty Cổ phần 482",
+    "TradeCenter": "Upcom",
+    "Price": 0.9,
+    "PE": 7.18,
+    "EPS": 0.13
+  },
+  {
+    "Symbol": "BAL",
+    "CompanyName": "Công ty cổ phần Bao bì Bia – Rượu – Nước giải khát",
+    "TradeCenter": "Upcom",
+    "Price": 9.1,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "BAM",
+    "CompanyName": "CTCP Khoáng sản và Luyện kim Bắc Á",
+    "TradeCenter": "Upcom",
+    "Price": 1.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "BBH",
+    "CompanyName": "CTCP Bao bì Hoàng Thạch",
+    "TradeCenter": "Upcom",
+    "Price": 7.9,
+    "PE": 2.85,
+    "EPS": 2.77
+  },
+  {
+    "Symbol": "BBM",
+    "CompanyName": "Công ty Cổ phần Bia Hà Nội - Nam Định",
+    "TradeCenter": "Upcom",
+    "Price": 11,
+    "PE": 7.83,
+    "EPS": 1.4
+  },
+  {
+    "Symbol": "BBT",
+    "CompanyName": "Công ty Cổ phần Bông Bạch Tuyết",
+    "TradeCenter": "Upcom",
+    "Price": 21,
+    "PE": 12.75,
+    "EPS": 1.65
+  },
+  {
+    "Symbol": "BCB",
+    "CompanyName": "Công ty cổ phần 397",
+    "TradeCenter": "Upcom",
+    "Price": 3.6,
+    "PE": 0.85,
+    "EPS": 4.23
+  },
+  {
+    "Symbol": "BCP",
+    "CompanyName": "Công ty cổ phần Dược Becamex",
+    "TradeCenter": "Upcom",
+    "Price": 11.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "BCV",
+    "CompanyName": "CTCP Du lịch và Thương mại Bằng Giang Cao Bằng - Vimico",
+    "TradeCenter": "Upcom",
+    "Price": 21.5,
+    "PE": -20.63,
+    "EPS": -1.04
+  },
+  {
+    "Symbol": "BDC",
+    "CompanyName": "Tổng Công ty Xây dựng Bạch Đằng - CTCP",
+    "TradeCenter": "Upcom",
+    "Price": 7.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "BDF",
+    "CompanyName": "Công ty cổ phần Giày Bình Định",
+    "TradeCenter": "Upcom",
+    "Price": 16,
+    "PE": 4.07,
+    "EPS": 3.94
+  },
+  {
+    "Symbol": "BDG",
+    "CompanyName": "CTCP May mặc Bình Dương",
+    "TradeCenter": "Upcom",
+    "Price": 43,
+    "PE": 4.7,
+    "EPS": 9.14
+  },
+  {
+    "Symbol": "BDT",
+    "CompanyName": "Công ty Cổ phần Xây lắp và Vật liệu Xây dựng Đồng Tháp",
+    "TradeCenter": "Upcom",
+    "Price": 25.2,
+    "PE": 16.56,
+    "EPS": 1.52
+  },
+  {
+    "Symbol": "BDW",
+    "CompanyName": "Công ty cổ phần Cấp thoát nước Bình Định ",
+    "TradeCenter": "Upcom",
+    "Price": 15.3,
+    "PE": 6.3,
+    "EPS": 2.43
+  },
+  {
+    "Symbol": "BEL",
+    "CompanyName": "CTCP Điện tử Biên Hòa",
+    "TradeCenter": "Upcom",
+    "Price": 11.4,
+    "PE": 12.98,
+    "EPS": 0.88
+  },
+  {
+    "Symbol": "BGW",
+    "CompanyName": "Công ty Cổ phần Nước sạch Bắc Giang",
+    "TradeCenter": "Upcom",
+    "Price": 18,
+    "PE": 29.11,
+    "EPS": 0.62
+  },
+  {
+    "Symbol": "BHA",
+    "CompanyName": "Công ty Cổ phần Thủy điện Bắc Hà",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 28.69,
+    "EPS": 0.35
+  },
+  {
+    "Symbol": "BHC",
+    "CompanyName": "Công ty Cổ phần Bê tông Biên Hòa",
+    "TradeCenter": "Upcom",
+    "Price": 2.2,
+    "PE": 9.02,
+    "EPS": 0.24
+  },
+  {
+    "Symbol": "BHG",
+    "CompanyName": "Công ty cổ phần Chè Biển Hồ",
+    "TradeCenter": "Upcom",
+    "Price": 10.2,
+    "PE": 62.35,
+    "EPS": 0.16
+  },
+  {
+    "Symbol": "BHK",
+    "CompanyName": "Công ty Cổ phần Bia Hà Nội - Kim Bài",
+    "TradeCenter": "Upcom",
+    "Price": 10.5,
+    "PE": 7.16,
+    "EPS": 1.47
+  },
+  {
+    "Symbol": "BHP",
+    "CompanyName": "Công ty Cổ phần Bia Hà Nội - Hải Phòng",
+    "TradeCenter": "Upcom",
+    "Price": 7,
+    "PE": 24.04,
+    "EPS": 0.29
+  },
+  {
+    "Symbol": "BHT",
+    "CompanyName": "Công ty Cổ phần Đầu tư Xây dựng Bạch Đằng TMC",
+    "TradeCenter": "Upcom",
+    "Price": 13.3,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "BHV",
+    "CompanyName": "Công ty Cổ phần Viglacera Bá Hiến",
+    "TradeCenter": "Upcom",
+    "Price": 2.9,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "BIO",
+    "CompanyName": "Công ty cổ phần Vắc xin và Sinh phẩm Nha Trang",
+    "TradeCenter": "Upcom",
+    "Price": 69,
+    "PE": 115.85,
+    "EPS": 0.6
+  },
+  {
+    "Symbol": "BKH",
+    "CompanyName": "Công ty cổ phần Bánh Mứt Kẹo Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 21.3,
+    "PE": 8.02,
+    "EPS": 2.66
+  },
+  {
+    "Symbol": "BLI",
+    "CompanyName": "Tổng Công ty cổ phần Bảo hiểm Bảo Long ",
+    "TradeCenter": "Upcom",
+    "Price": 13,
+    "PE": 18.8,
+    "EPS": 0.69
+  },
+  {
+    "Symbol": "BLN",
+    "CompanyName": "CTCP Vận tải và Dịch vụ Liên Ninh",
+    "TradeCenter": "Upcom",
+    "Price": 9.1,
+    "PE": 161.92,
+    "EPS": 0.06
+  },
+  {
+    "Symbol": "BLT",
+    "CompanyName": "Công ty Cổ phần Lương thực Bình Định",
+    "TradeCenter": "Upcom",
+    "Price": 24.9,
+    "PE": 6.11,
+    "EPS": 4.08
+  },
+  {
+    "Symbol": "BLU",
+    "CompanyName": "Trung tâm Dịch vụ Đô thị tỉnh Bạc Liêu",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "BLW",
+    "CompanyName": "Công ty cổ phần Cấp nước Bạc Liêu",
+    "TradeCenter": "Upcom",
+    "Price": 17.1,
+    "PE": 21.67,
+    "EPS": 0.79
+  },
+  {
+    "Symbol": "BM9",
+    "CompanyName": "CTCP Đầu tư Xây dựng 319 Miền Nam",
+    "TradeCenter": "Upcom",
+    "Price": 10.2,
+    "PE": 14.32,
+    "EPS": 0.71
+  },
+  {
+    "Symbol": "BMD",
+    "CompanyName": "Công ty Cổ phần Môi trường và Dịch vụ đô thị Bình Thuận",
+    "TradeCenter": "Upcom",
+    "Price": 5,
+    "PE": 1.86,
+    "EPS": 2.68
+  },
+  {
+    "Symbol": "BMF",
+    "CompanyName": "Công ty cổ phần Vật liệu Xây dựng và Chất đốt Đồng Nai",
+    "TradeCenter": "Upcom",
+    "Price": 23,
+    "PE": 5.56,
+    "EPS": 4.14
+  },
+  {
+    "Symbol": "BMG",
+    "CompanyName": "Công ty cổ phần May Bình Minh",
+    "TradeCenter": "Upcom",
+    "Price": 26.5,
+    "PE": 10.55,
+    "EPS": 2.51
+  },
+  {
+    "Symbol": "BMJ",
+    "CompanyName": "Công ty Cổ phần Khoáng sản Miền Đông AHP",
+    "TradeCenter": "Upcom",
+    "Price": 12.9,
+    "PE": 50.14,
+    "EPS": 0.26
+  },
+  {
+    "Symbol": "BMN",
+    "CompanyName": "Công ty Cổ phần 715",
+    "TradeCenter": "Upcom",
+    "Price": 15.8,
+    "PE": 9.87,
+    "EPS": 1.6
+  },
+  {
+    "Symbol": "BMS",
+    "CompanyName": "Công ty Cổ phần Chứng khoán Bảo Minh",
+    "TradeCenter": "Upcom",
+    "Price": 11.6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "BMV",
+    "CompanyName": "Công ty Cổ phần Bột mỳ Vinafood 1",
+    "TradeCenter": "Upcom",
+    "Price": 6,
+    "PE": 38.36,
+    "EPS": 0.16
+  },
+  {
+    "Symbol": "BNW",
+    "CompanyName": "Công ty cổ phần Nước sạch Bắc Ninh",
+    "TradeCenter": "Upcom",
+    "Price": 9.2,
+    "PE": 8.61,
+    "EPS": 1.07
+  },
+  {
+    "Symbol": "BOT",
+    "CompanyName": "Công ty cổ phần BOT Cầu Thái Hà",
+    "TradeCenter": "Upcom",
+    "Price": 48.9,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "BPW",
+    "CompanyName": "Công ty Cổ phần Cấp thoát nước Bình Phước",
+    "TradeCenter": "Upcom",
+    "Price": 22.5,
+    "PE": 42.75,
+    "EPS": 0.53
+  },
+  {
+    "Symbol": "BQB",
+    "CompanyName": "Công ty Cổ phần Bia Hà Nội - Quảng Bình",
+    "TradeCenter": "Upcom",
+    "Price": 5.2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "BRR",
+    "CompanyName": "Công ty Cổ phần Cao su Bà Rịa",
+    "TradeCenter": "Upcom",
+    "Price": 15.5,
+    "PE": 14.45,
+    "EPS": 1.07
+  },
+  {
+    "Symbol": "BRS",
+    "CompanyName": "Công ty Cổ phần Dịch vụ đô thị Bà Rịa",
+    "TradeCenter": "Upcom",
+    "Price": 22,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "BSA",
+    "CompanyName": "Công ty cổ phần Thủy điện Buôn Đôn",
+    "TradeCenter": "Upcom",
+    "Price": 13.8,
+    "PE": 4.81,
+    "EPS": 2.87
+  },
+  {
+    "Symbol": "BSD",
+    "CompanyName": "Công ty Cổ phần Bia, Rượu Sài Gòn - Đồng Xuân",
+    "TradeCenter": "Upcom",
+    "Price": 35,
+    "PE": 8.51,
+    "EPS": 4.11
+  },
+  {
+    "Symbol": "BSG",
+    "CompanyName": "Công ty Cổ phần Xe khách Sài Gòn",
+    "TradeCenter": "Upcom",
+    "Price": 9.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "BSH",
+    "CompanyName": "Công ty cổ phần Bia Sài Gòn - Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 19.5,
+    "PE": 10.65,
+    "EPS": 1.83
+  },
+  {
+    "Symbol": "BSL",
+    "CompanyName": "Công ty Cổ phần Bia Sài Gòn - Sông Lam",
+    "TradeCenter": "Upcom",
+    "Price": 9.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "BSP",
+    "CompanyName": "Công ty cổ phần Bia Sài Gòn - Phú Thọ",
+    "TradeCenter": "Upcom",
+    "Price": 18,
+    "PE": 14.48,
+    "EPS": 1.24
+  },
+  {
+    "Symbol": "BSQ",
+    "CompanyName": "Công ty cổ phần Bia Sài Gòn - Quảng Ngãi",
+    "TradeCenter": "Upcom",
+    "Price": 24.5,
+    "PE": 10.24,
+    "EPS": 2.39
+  },
+  {
+    "Symbol": "BSR",
+    "CompanyName": "Công ty Cổ phần Lọc Hóa dầu Bình Sơn",
+    "TradeCenter": "Upcom",
+    "Price": 19.1,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "BT1",
+    "CompanyName": "Công ty cổ phần Bảo vệ Thực vật 1 Trung ương",
+    "TradeCenter": "Upcom",
+    "Price": 16.3,
+    "PE": 7.74,
+    "EPS": 2.11
+  },
+  {
+    "Symbol": "BT6",
+    "CompanyName": "Công ty Cổ phần Beton 6",
+    "TradeCenter": "Upcom",
+    "Price": 2.4,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "BTB",
+    "CompanyName": "Công ty Cổ phần Bia Hà Nội - Thái Bình",
+    "TradeCenter": "Upcom",
+    "Price": 6.5,
+    "PE": 62.8,
+    "EPS": 0.1
+  },
+  {
+    "Symbol": "BTC",
+    "CompanyName": "Công ty Cổ phần Cơ khí và Xây dựng Bình Triệu",
+    "TradeCenter": "Upcom",
+    "Price": 58,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "BTD",
+    "CompanyName": "Công ty Cổ phần Bê tông Ly tâm Thủ Đức",
+    "TradeCenter": "Upcom",
+    "Price": 33.7,
+    "PE": 5.47,
+    "EPS": 6.16
+  },
+  {
+    "Symbol": "BTG",
+    "CompanyName": "Công ty Cổ phần Bao bì Tiền Giang",
+    "TradeCenter": "Upcom",
+    "Price": 5.8,
+    "PE": 49.45,
+    "EPS": 0.12
+  },
+  {
+    "Symbol": "BTH",
+    "CompanyName": "Công ty Cổ phần Chế tạo Biến thế và Vật liệu điện Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 12.1,
+    "PE": 64.06,
+    "EPS": 0.19
+  },
+  {
+    "Symbol": "BTN",
+    "CompanyName": "Công ty Cổ phần Gạch Tuy Nen Bình Định",
+    "TradeCenter": "Upcom",
+    "Price": 3,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "BTR",
+    "CompanyName": "CTCP Đường sắt Bình Trị Thiên",
+    "TradeCenter": "Upcom",
+    "Price": 9.8,
+    "PE": 4.49,
+    "EPS": 2.18
+  },
+  {
+    "Symbol": "BTU",
+    "CompanyName": "CTCP Công trình Đô thị Bến Tre",
+    "TradeCenter": "Upcom",
+    "Price": 12.5,
+    "PE": 5.56,
+    "EPS": 2.25
+  },
+  {
+    "Symbol": "BTV",
+    "CompanyName": "Công ty Cổ phần Dịch vụ Du lịch Bến Thành",
+    "TradeCenter": "Upcom",
+    "Price": 26,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "BUD",
+    "CompanyName": "CTCP Khoa học Công nghệ Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 15.8,
+    "PE": 2.82,
+    "EPS": 5.61
+  },
+  {
+    "Symbol": "BVB",
+    "CompanyName": "Ngân hàng Thương mại cổ phần Bản Việt",
+    "TradeCenter": "Upcom",
+    "Price": 19.3,
+    "PE": 21.75,
+    "EPS": 0.89
+  },
+  {
+    "Symbol": "BVG",
+    "CompanyName": "Công ty Cổ phần Đầu tư BVG",
+    "TradeCenter": "Upcom",
+    "Price": 3.4,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "BVL",
+    "CompanyName": "Công ty cổ phần BV Land",
+    "TradeCenter": "Upcom",
+    "Price": 24.6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "BVN",
+    "CompanyName": "Công ty cổ phần Bông Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 8.3,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "BWA",
+    "CompanyName": "Công ty Cổ phần Cấp thoát nước và Xây dựng Bảo Lộc",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 11.35,
+    "EPS": 0.88
+  },
+  {
+    "Symbol": "BWS",
+    "CompanyName": "Công ty cổ phần Cấp nước Bà Rịa - Vũng Tàu",
+    "TradeCenter": "Upcom",
+    "Price": 35.5,
+    "PE": 33.94,
+    "EPS": 1.05
+  },
+  {
+    "Symbol": "BXD",
+    "CompanyName": "Công ty Cổ phần Vận tải và Quản lý Bến xe Đà Nẵng",
+    "TradeCenter": "Upcom",
+    "Price": 8.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "BXT",
+    "CompanyName": "Ban Quản lý và Điều hành Bến xe tàu",
+    "TradeCenter": "Upcom",
+    "Price": 10.6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "C12",
+    "CompanyName": "Công ty Cổ phần Cầu 12 ",
+    "TradeCenter": "Upcom",
+    "Price": 4.6,
+    "PE": 6.5,
+    "EPS": 0.71
+  },
+  {
+    "Symbol": "C21",
+    "CompanyName": "Công ty cổ phần Thế kỷ 21",
+    "TradeCenter": "Upcom",
+    "Price": 13.8,
+    "PE": 230.77,
+    "EPS": 0.06
+  },
+  {
+    "Symbol": "C22",
+    "CompanyName": "Công ty Cổ phần 22",
+    "TradeCenter": "Upcom",
+    "Price": 13,
+    "PE": 4.97,
+    "EPS": 2.62
+  },
+  {
+    "Symbol": "C36",
+    "CompanyName": "Công ty Cổ phần Quản lý và Xây dựng công trình giao thông 236",
+    "TradeCenter": "Upcom",
+    "Price": 8.8,
+    "PE": 9.87,
+    "EPS": 0.89
+  },
+  {
+    "Symbol": "C4G",
+    "CompanyName": "Công ty cổ phần Tập đoàn CIENCO4",
+    "TradeCenter": "Upcom",
+    "Price": 9.2,
+    "PE": 12.42,
+    "EPS": 0.74
+  },
+  {
+    "Symbol": "C71",
+    "CompanyName": "Công ty Cổ phần 471",
+    "TradeCenter": "Upcom",
+    "Price": 6,
+    "PE": 27.09,
+    "EPS": 0.22
+  },
+  {
+    "Symbol": "CAB",
+    "CompanyName": "CTCP Tổng Công ty Truyền hình Cáp Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 140.9,
+    "PE": 78.21,
+    "EPS": 1.8
+  },
+  {
+    "Symbol": "CAD",
+    "CompanyName": "Công ty Cổ phần Chế biến và Xuất nhập khẩu Thủy sản CADOVIMEX",
+    "TradeCenter": "Upcom",
+    "Price": 1.2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CAM",
+    "CompanyName": "Công ty TNHH MTV Môi trường đô thị Cà Mau",
+    "TradeCenter": "Upcom",
+    "Price": 15.7,
+    "PE": 5.68,
+    "EPS": 2.76
+  },
+  {
+    "Symbol": "CAT",
+    "CompanyName": "Công ty Cổ phần Thủy sản Cà Mau",
+    "TradeCenter": "Upcom",
+    "Price": 23,
+    "PE": 4.77,
+    "EPS": 4.83
+  },
+  {
+    "Symbol": "CBC",
+    "CompanyName": "Công ty cổ phần Chè Bàu Cạn",
+    "TradeCenter": "Upcom",
+    "Price": 9.7,
+    "PE": 127.13,
+    "EPS": 0.08
+  },
+  {
+    "Symbol": "CBI",
+    "CompanyName": "Công ty Cổ phần Gang thép Cao Bằng",
+    "TradeCenter": "Upcom",
+    "Price": 22.4,
+    "PE": 7.16,
+    "EPS": 3.13
+  },
+  {
+    "Symbol": "CBS",
+    "CompanyName": "Công ty Cổ phần Mía đường Cao Bằng",
+    "TradeCenter": "Upcom",
+    "Price": 10.2,
+    "PE": 8.12,
+    "EPS": 1.26
+  },
+  {
+    "Symbol": "CC1",
+    "CompanyName": "Tổng Công ty Xây dựng số 1 - CTCP",
+    "TradeCenter": "Upcom",
+    "Price": 22,
+    "PE": 198.74,
+    "EPS": 0.11
+  },
+  {
+    "Symbol": "CC4",
+    "CompanyName": "Công ty Cổ phần Đầu tư và Xây dựng số 4",
+    "TradeCenter": "Upcom",
+    "Price": 14,
+    "PE": 180.65,
+    "EPS": 0.08
+  },
+  {
+    "Symbol": "CCA",
+    "CompanyName": "CTCP Xuất nhập khẩu Thủy sản Cần Thơ",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 22.37,
+    "EPS": 0.45
+  },
+  {
+    "Symbol": "CCH",
+    "CompanyName": "Công ty Cổ phần Tư vấn và Đầu tư xây dựng CCIC Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 3.9,
+    "PE": 33.91,
+    "EPS": 0.12
+  },
+  {
+    "Symbol": "CCM",
+    "CompanyName": "Công ty Cổ phần Khoáng sản & Xi măng Cần Thơ",
+    "TradeCenter": "Upcom",
+    "Price": 38.1,
+    "PE": 3.16,
+    "EPS": 12.05
+  },
+  {
+    "Symbol": "CCP",
+    "CompanyName": "Công ty cổ phần Cảng Cửa Cấm Hải Phòng",
+    "TradeCenter": "Upcom",
+    "Price": 6.3,
+    "PE": 636.36,
+    "EPS": 0.01
+  },
+  {
+    "Symbol": "CCR",
+    "CompanyName": "Công ty cổ phần Cảng Cam Ranh ",
+    "TradeCenter": "Upcom",
+    "Price": 24.1,
+    "PE": 52.53,
+    "EPS": 0.46
+  },
+  {
+    "Symbol": "CCT",
+    "CompanyName": "Công ty Cổ phần Cảng Cần Thơ",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 143.06,
+    "EPS": 0.07
+  },
+  {
+    "Symbol": "CCV",
+    "CompanyName": "Công ty cổ phần Tư vấn Xây dựng Công nghiệp và Đô thị Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 22,
+    "PE": 3.29,
+    "EPS": 6.69
+  },
+  {
+    "Symbol": "CDG",
+    "CompanyName": "Công ty Cổ phần Cầu Đuống",
+    "TradeCenter": "Upcom",
+    "Price": 3.2,
+    "PE": 2.42,
+    "EPS": 1.32
+  },
+  {
+    "Symbol": "CDH",
+    "CompanyName": "CTCP Công trình công cộng Dịch vụ Du lịch Hải Phòng",
+    "TradeCenter": "Upcom",
+    "Price": 3.1,
+    "PE": 1.78,
+    "EPS": 1.74
+  },
+  {
+    "Symbol": "CDO",
+    "CompanyName": " Công ty Cổ phần Tư vấn thiết kế và Phát triển đô thị",
+    "TradeCenter": "Upcom",
+    "Price": 2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CDP",
+    "CompanyName": "Công ty cổ phần Dược phẩm Trung ương Codupha",
+    "TradeCenter": "Upcom",
+    "Price": 13.5,
+    "PE": 33.46,
+    "EPS": 0.4
+  },
+  {
+    "Symbol": "CDR",
+    "CompanyName": "Công ty Cổ phần Xây dựng Cao su Đồng Nai",
+    "TradeCenter": "Upcom",
+    "Price": 14.4,
+    "PE": 44.64,
+    "EPS": 0.32
+  },
+  {
+    "Symbol": "CE1",
+    "CompanyName": "Công ty Cổ phần Xây dựng và Thiết bị Công nghiệp CIE1",
+    "TradeCenter": "Upcom",
+    "Price": 9,
+    "PE": 16.08,
+    "EPS": 0.56
+  },
+  {
+    "Symbol": "CEC",
+    "CompanyName": "Công ty Cổ phần Thiết kế Công nghiệp Hóa chất",
+    "TradeCenter": "Upcom",
+    "Price": 15,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CEG",
+    "CompanyName": "Công ty Cổ phần Tập đoàn Xây dựng và Thiết bị Công nghiệp",
+    "TradeCenter": "Upcom",
+    "Price": 8.3,
+    "PE": 14.29,
+    "EPS": 0.58
+  },
+  {
+    "Symbol": "CEN",
+    "CompanyName": "Công ty Cổ phần Dịch vụ Hàng không CENCON Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 11.7,
+    "PE": 240.74,
+    "EPS": 0.05
+  },
+  {
+    "Symbol": "CER",
+    "CompanyName": "Công ty Cổ phần Địa chính và Tài nguyên Môi trường",
+    "TradeCenter": "Upcom",
+    "Price": 10.7,
+    "PE": 30.89,
+    "EPS": 0.35
+  },
+  {
+    "Symbol": "CFC",
+    "CompanyName": "Công ty Cổ phần Cafico Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 8,
+    "PE": 8.46,
+    "EPS": 0.95
+  },
+  {
+    "Symbol": "CFM",
+    "CompanyName": "CTCP Đầu tư CFM",
+    "TradeCenter": "Upcom",
+    "Price": 8,
+    "PE": -49.78,
+    "EPS": -0.16
+  },
+  {
+    "Symbol": "CFV",
+    "CompanyName": "Công ty TNHH Một thành viên Cà phê Thắng Lợi",
+    "TradeCenter": "Upcom",
+    "Price": 21.3,
+    "PE": 31.13,
+    "EPS": 0.68
+  },
+  {
+    "Symbol": "CGL",
+    "CompanyName": "CTCP Thương mại Gia Lai",
+    "TradeCenter": "Upcom",
+    "Price": 34,
+    "PE": 78.96,
+    "EPS": 0.43
+  },
+  {
+    "Symbol": "CGP",
+    "CompanyName": "Công ty cổ phần Dược phẩm Cần Giờ",
+    "TradeCenter": "Upcom",
+    "Price": 12,
+    "PE": 7.98,
+    "EPS": 1.5
+  },
+  {
+    "Symbol": "CGV",
+    "CompanyName": "Công ty Cổ phần Sành sứ Thủy tinh Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 3.6,
+    "PE": 339.62,
+    "EPS": 0.01
+  },
+  {
+    "Symbol": "CH5",
+    "CompanyName": "Công ty Cổ phần Xây dựng Số 5 Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 18.8,
+    "PE": 11.41,
+    "EPS": 1.65
+  },
+  {
+    "Symbol": "CHC",
+    "CompanyName": "Công ty Cổ phần Cẩm Hà",
+    "TradeCenter": "Upcom",
+    "Price": 1.5,
+    "PE": 0.44,
+    "EPS": 3.38
+  },
+  {
+    "Symbol": "CHS",
+    "CompanyName": "Công ty Cổ phần Chiếu sáng Công cộng Thành phố Hồ Chí Minh",
+    "TradeCenter": "Upcom",
+    "Price": 9.9,
+    "PE": 6.31,
+    "EPS": 1.57
+  },
+  {
+    "Symbol": "CI5",
+    "CompanyName": "Công ty cổ phần Đầu tư Xây dựng số 5",
+    "TradeCenter": "Upcom",
+    "Price": 4.6,
+    "PE": 99.35,
+    "EPS": 0.05
+  },
+  {
+    "Symbol": "CID",
+    "CompanyName": "Công ty Cổ phần Xây dựng và Phát triển Cơ sở Hạ tầng",
+    "TradeCenter": "Upcom",
+    "Price": 6.2,
+    "PE": 16.59,
+    "EPS": 0.37
+  },
+  {
+    "Symbol": "CIP",
+    "CompanyName": "Công ty Cổ phần Xây lắp và Sản xuất Công nghiệp",
+    "TradeCenter": "Upcom",
+    "Price": 5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CK8",
+    "CompanyName": "Công ty Cổ phần Cơ khí 120",
+    "TradeCenter": "Upcom",
+    "Price": 0,
+    "PE": 0,
+    "EPS": 19.99
+  },
+  {
+    "Symbol": "CKA",
+    "CompanyName": "Công ty cổ phần Cơ khí An Giang",
+    "TradeCenter": "Upcom",
+    "Price": 37,
+    "PE": 6.41,
+    "EPS": 5.77
+  },
+  {
+    "Symbol": "CKD",
+    "CompanyName": "Công ty cổ phần Cơ khí Đông Anh Licogi",
+    "TradeCenter": "Upcom",
+    "Price": 30,
+    "PE": 8.35,
+    "EPS": 3.59
+  },
+  {
+    "Symbol": "CKH",
+    "CompanyName": "Công ty Cổ phần Cơ khí chế tạo Hải Phòng",
+    "TradeCenter": "Upcom",
+    "Price": 2.2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CLG",
+    "CompanyName": "Công ty Cổ phần Đầu tư và Phát triển Nhà đất COTEC",
+    "TradeCenter": "Upcom",
+    "Price": 1,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CLS",
+    "CompanyName": "Công ty Cổ phần Chứng Khoán Chợ Lớn ",
+    "TradeCenter": "Upcom",
+    "Price": 5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CLX",
+    "CompanyName": "Công ty Cổ phần Xuất nhập khẩu và Đầu tư Chợ Lớn (Cholimex)",
+    "TradeCenter": "Upcom",
+    "Price": 16.8,
+    "PE": 7.15,
+    "EPS": 2.35
+  },
+  {
+    "Symbol": "CMD",
+    "CompanyName": "CTCP Vật liệu Xây dựng và Trang trí Nội thất Thành phố Hồ Chí Minh",
+    "TradeCenter": "Upcom",
+    "Price": 27.5,
+    "PE": 4.89,
+    "EPS": 5.62
+  },
+  {
+    "Symbol": "CMF",
+    "CompanyName": "Công ty Cổ phần Thực phẩm Cholimex",
+    "TradeCenter": "Upcom",
+    "Price": 185.6,
+    "PE": 8.42,
+    "EPS": 22.05
+  },
+  {
+    "Symbol": "CMI",
+    "CompanyName": "Công ty cổ phần CMISTONE Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 1.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CMK",
+    "CompanyName": "Công ty cổ phần Cơ khí Mạo khê - Vinacomin",
+    "TradeCenter": "Upcom",
+    "Price": 7.5,
+    "PE": 5.11,
+    "EPS": 1.47
+  },
+  {
+    "Symbol": "CMN",
+    "CompanyName": "Công ty Cổ phần Lương thực Thực phẩm Colusa-Miliket",
+    "TradeCenter": "Upcom",
+    "Price": 58.9,
+    "PE": 12.77,
+    "EPS": 4.61
+  },
+  {
+    "Symbol": "CMP",
+    "CompanyName": "CTCP Cảng Chân Mây",
+    "TradeCenter": "Upcom",
+    "Price": 8.3,
+    "PE": 29.12,
+    "EPS": 0.28
+  },
+  {
+    "Symbol": "CMT",
+    "CompanyName": "Công ty Cổ phần Công nghệ Mạng và Truyền thông",
+    "TradeCenter": "Upcom",
+    "Price": 18.3,
+    "PE": 5.3,
+    "EPS": 3.45
+  },
+  {
+    "Symbol": "CMW",
+    "CompanyName": "Công ty Cổ phần Cấp nước Cà Mau",
+    "TradeCenter": "Upcom",
+    "Price": 15.1,
+    "PE": 22.22,
+    "EPS": 0.68
+  },
+  {
+    "Symbol": "CNC",
+    "CompanyName": "Công ty cổ phần Công nghệ cao Traphaco",
+    "TradeCenter": "Upcom",
+    "Price": 26,
+    "PE": 13.14,
+    "EPS": 1.98
+  },
+  {
+    "Symbol": "CNH",
+    "CompanyName": "Công ty Cổ phần Cảng Nha Trang",
+    "TradeCenter": "Upcom",
+    "Price": 5.1,
+    "PE": 29.98,
+    "EPS": 0.17
+  },
+  {
+    "Symbol": "CNN",
+    "CompanyName": "CTCP Tư vấn công nghệ, thiết bị và kiểm định xây dựng - CONINCO",
+    "TradeCenter": "Upcom",
+    "Price": 19.6,
+    "PE": 26.95,
+    "EPS": 0.73
+  },
+  {
+    "Symbol": "CNT",
+    "CompanyName": "Công ty Cổ phần Xây dựng và Kinh doanh Vật tư ",
+    "TradeCenter": "Upcom",
+    "Price": 9,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CPA",
+    "CompanyName": "CTCP Cà phê Phước An",
+    "TradeCenter": "Upcom",
+    "Price": 8.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CPH",
+    "CompanyName": "Công ty Cổ phần Mai táng Hải Phòng",
+    "TradeCenter": "Upcom",
+    "Price": 1.9,
+    "PE": 0.92,
+    "EPS": 2.06
+  },
+  {
+    "Symbol": "CPI",
+    "CompanyName": "Công ty Cổ phần Đầu tư Cảng Cái Lân",
+    "TradeCenter": "Upcom",
+    "Price": 3.3,
+    "PE": 2538.46,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CPW",
+    "CompanyName": "CTCP Công trình Giao thông Công chánh",
+    "TradeCenter": "Upcom",
+    "Price": 1.9,
+    "PE": 4.26,
+    "EPS": 0.45
+  },
+  {
+    "Symbol": "CQN",
+    "CompanyName": "Công ty cổ phần Cảng Quảng Ninh",
+    "TradeCenter": "Upcom",
+    "Price": 24,
+    "PE": 32.77,
+    "EPS": 0.73
+  },
+  {
+    "Symbol": "CQT",
+    "CompanyName": "Công ty cổ phần Xi măng Quán Triều VVMI",
+    "TradeCenter": "Upcom",
+    "Price": 7.1,
+    "PE": 4.34,
+    "EPS": 1.63
+  },
+  {
+    "Symbol": "CSI",
+    "CompanyName": "Công ty cổ phần Chứng khoán Kiến thiết Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 13.1,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CST",
+    "CompanyName": "Công ty Cổ phần Than Cao Sơn - TKV",
+    "TradeCenter": "Upcom",
+    "Price": 11.2,
+    "PE": 3.15,
+    "EPS": 3.55
+  },
+  {
+    "Symbol": "CT3",
+    "CompanyName": "Công ty Cổ phần Đầu tư và Xây dựng Công trình 3",
+    "TradeCenter": "Upcom",
+    "Price": 8.7,
+    "PE": 50.52,
+    "EPS": 0.17
+  },
+  {
+    "Symbol": "CT5",
+    "CompanyName": "Công ty cổ phần 319.5",
+    "TradeCenter": "Upcom",
+    "Price": 9.9,
+    "PE": 19.77,
+    "EPS": 0.5
+  },
+  {
+    "Symbol": "CT6",
+    "CompanyName": "Công ty Cổ phần Công trình 6",
+    "TradeCenter": "Upcom",
+    "Price": 3.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CTA",
+    "CompanyName": "Công ty Cổ phần Vinavico",
+    "TradeCenter": "Upcom",
+    "Price": 1,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CTN",
+    "CompanyName": "Công ty Cổ phần Xây dựng Công trình ngầm",
+    "TradeCenter": "Upcom",
+    "Price": 1.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CTR",
+    "CompanyName": "Tổng Công ty Cổ phần Công trình Viettel",
+    "TradeCenter": "Upcom",
+    "Price": 80.7,
+    "PE": 56.48,
+    "EPS": 1.43
+  },
+  {
+    "Symbol": "CTW",
+    "CompanyName": "CTCP Cấp thoát nước Cần Thơ",
+    "TradeCenter": "Upcom",
+    "Price": 9,
+    "PE": 13.51,
+    "EPS": 0.67
+  },
+  {
+    "Symbol": "CVC",
+    "CompanyName": "Công ty Cổ Phần Cơ điện Vật tư",
+    "TradeCenter": "Upcom",
+    "Price": 4.4,
+    "PE": 21.55,
+    "EPS": 0.2
+  },
+  {
+    "Symbol": "CVH",
+    "CompanyName": "Công ty Cổ phần Công viên, Cây xanh Hải Phòng",
+    "TradeCenter": "Upcom",
+    "Price": 10.1,
+    "PE": 5.14,
+    "EPS": 1.97
+  },
+  {
+    "Symbol": "CXH",
+    "CompanyName": "CTCP Xe khách Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 7,
+    "PE": 29.95,
+    "EPS": 0.23
+  },
+  {
+    "Symbol": "CYC",
+    "CompanyName": "Công ty Cổ phần Gạch men Chang Yih ",
+    "TradeCenter": "Upcom",
+    "Price": 3.1,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CZC",
+    "CompanyName": "Công ty cổ phần Than miền Trung ",
+    "TradeCenter": "Upcom",
+    "Price": 5,
+    "PE": 9.48,
+    "EPS": 0.53
+  },
+  {
+    "Symbol": "D26",
+    "CompanyName": "Công ty Cổ phần Quản lý và Xây dựng Đường bộ 26",
+    "TradeCenter": "Upcom",
+    "Price": 8.3,
+    "PE": 2.42,
+    "EPS": 3.43
+  },
+  {
+    "Symbol": "DAC",
+    "CompanyName": "Công ty Cổ phần Viglacera Đông Anh",
+    "TradeCenter": "Upcom",
+    "Price": 9.6,
+    "PE": -3.49,
+    "EPS": -2.75
+  },
+  {
+    "Symbol": "DAP",
+    "CompanyName": "Công ty Cổ phần Đông Á",
+    "TradeCenter": "Upcom",
+    "Price": 38,
+    "PE": 3.47,
+    "EPS": 10.95
+  },
+  {
+    "Symbol": "DAR",
+    "CompanyName": "Công ty Cổ phần Xe lửa Dĩ An",
+    "TradeCenter": "Upcom",
+    "Price": 5,
+    "PE": 14.25,
+    "EPS": 0.35
+  },
+  {
+    "Symbol": "DAS",
+    "CompanyName": "Công ty Cổ phần Máy - Thiết bị Dầu khí Đà Nẵng",
+    "TradeCenter": "Upcom",
+    "Price": 15.1,
+    "PE": 97.55,
+    "EPS": 0.15
+  },
+  {
+    "Symbol": "DBH",
+    "CompanyName": "CTCP Đường bộ Hải Phòng",
+    "TradeCenter": "Upcom",
+    "Price": 8.3,
+    "PE": 9.27,
+    "EPS": 0.9
+  },
+  {
+    "Symbol": "DBM",
+    "CompanyName": "Công ty Cổ phần Dược - Vật tư Y tế Đăk Lăk",
+    "TradeCenter": "Upcom",
+    "Price": 28.3,
+    "PE": 13.63,
+    "EPS": 2.08
+  },
+  {
+    "Symbol": "DBW",
+    "CompanyName": "Công ty Cổ phần Cấp nước Điện Biên",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 217.86,
+    "EPS": 0.05
+  },
+  {
+    "Symbol": "DC1",
+    "CompanyName": "Công ty cổ phần Đầu tư Phát triển Xây dựng số 1",
+    "TradeCenter": "Upcom",
+    "Price": 15.6,
+    "PE": 3.87,
+    "EPS": 4.03
+  },
+  {
+    "Symbol": "DCD",
+    "CompanyName": "CTCP Du lịch và Thương mại DIC ",
+    "TradeCenter": "Upcom",
+    "Price": 12.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "DCF",
+    "CompanyName": "Công ty Cổ phần Xây dựng và Thiết kế số 1",
+    "TradeCenter": "Upcom",
+    "Price": 5.3,
+    "PE": 36.33,
+    "EPS": 0.15
+  },
+  {
+    "Symbol": "DCG",
+    "CompanyName": "Công ty cổ phần Tổng công ty May Đáp Cầu",
+    "TradeCenter": "Upcom",
+    "Price": 10.6,
+    "PE": 8.94,
+    "EPS": 1.19
+  },
+  {
+    "Symbol": "DCH",
+    "CompanyName": "Công ty Cổ phần Địa chính Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 4.9,
+    "PE": 14.32,
+    "EPS": 0.34
+  },
+  {
+    "Symbol": "DCI",
+    "CompanyName": "Công ty Cổ phần Công nghiệp Hóa chất Đà Nẵng",
+    "TradeCenter": "Upcom",
+    "Price": 1.3,
+    "PE": 0.09,
+    "EPS": 15.28
+  },
+  {
+    "Symbol": "DCR",
+    "CompanyName": "Công ty cổ phần Gạch men Cosevco",
+    "TradeCenter": "Upcom",
+    "Price": 5.4,
+    "PE": 21.49,
+    "EPS": 0.25
+  },
+  {
+    "Symbol": "DCS",
+    "CompanyName": "Công ty Cổ phần Tập đoàn Đại Châu",
+    "TradeCenter": "Upcom",
+    "Price": 1.7,
+    "PE": 116.44,
+    "EPS": 0.01
+  },
+  {
+    "Symbol": "DCT",
+    "CompanyName": "Công ty Cổ phần Tấm lợp Vật liệu xây dựng Đồng Nai ",
+    "TradeCenter": "Upcom",
+    "Price": 1.2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "DDH",
+    "CompanyName": "CTCP Đảm bảo giao thông đường thủy Hải Phòng",
+    "TradeCenter": "Upcom",
+    "Price": 4.8,
+    "PE": 5.6,
+    "EPS": 0.86
+  },
+  {
+    "Symbol": "DDM",
+    "CompanyName": "Công ty Cổ phần Hàng hải Đông Đô",
+    "TradeCenter": "Upcom",
+    "Price": 3,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "DDN",
+    "CompanyName": "Công ty Cổ phần Dược - Thiết bị Y tế Đà Nẵng",
+    "TradeCenter": "Upcom",
+    "Price": 14.7,
+    "PE": 44.13,
+    "EPS": 0.33
+  },
+  {
+    "Symbol": "DDV",
+    "CompanyName": "Công ty cổ phần DAP - VINACHEM",
+    "TradeCenter": "Upcom",
+    "Price": 14.3,
+    "PE": 40.36,
+    "EPS": 0.35
+  },
+  {
+    "Symbol": "DFC",
+    "CompanyName": "Công ty Cổ phần Xích líp Đông Anh",
+    "TradeCenter": "Upcom",
+    "Price": 21.8,
+    "PE": 8.1,
+    "EPS": 2.69
+  },
+  {
+    "Symbol": "DFF",
+    "CompanyName": "CTCP Tập đoàn Đua Fat",
+    "TradeCenter": "Upcom",
+    "Price": 29.3,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "DGT",
+    "CompanyName": "Công ty cổ phần Công trình Giao thông Đồng Nai",
+    "TradeCenter": "Upcom",
+    "Price": 23.5,
+    "PE": 29.26,
+    "EPS": 0.8
+  },
+  {
+    "Symbol": "DHB",
+    "CompanyName": "Công ty Cổ phần Phân đạm và Hóa chất Hà Bắc",
+    "TradeCenter": "Upcom",
+    "Price": 6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "DHD",
+    "CompanyName": "Công ty cổ phần Dược Vật tư Y tế Hải Dương",
+    "TradeCenter": "Upcom",
+    "Price": 25,
+    "PE": 7.82,
+    "EPS": 3.2
+  },
+  {
+    "Symbol": "DHN",
+    "CompanyName": "Công ty Cổ phần Dược phẩm Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 26.5,
+    "PE": 19.85,
+    "EPS": 1.33
+  },
+  {
+    "Symbol": "DIC",
+    "CompanyName": "Công ty Cổ phần Đầu tư và Thương mại DIC",
+    "TradeCenter": "Upcom",
+    "Price": 1.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "DID",
+    "CompanyName": "Công ty Cổ phần DIC - Đồng Tiến",
+    "TradeCenter": "Upcom",
+    "Price": 6.3,
+    "PE": 40.8,
+    "EPS": 0.15
+  },
+  {
+    "Symbol": "DKC",
+    "CompanyName": "CTCP Chợ Lạng Sơn",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "DKH",
+    "CompanyName": "Trung tâm Đăng kiểm phương tiện Giao thông Thủy bộ",
+    "TradeCenter": "Upcom",
+    "Price": 21,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "DKP",
+    "CompanyName": "Công ty cổ phần Dược khoa",
+    "TradeCenter": "Upcom",
+    "Price": 6.5,
+    "PE": 15,
+    "EPS": 0.43
+  },
+  {
+    "Symbol": "DLC",
+    "CompanyName": "Công ty cổ phần Du lịch Cần Thơ",
+    "TradeCenter": "Upcom",
+    "Price": 38.8,
+    "PE": 20.32,
+    "EPS": 1.91
+  },
+  {
+    "Symbol": "DLD",
+    "CompanyName": "Công ty Cổ phần Du lịch Đắk Lắk ",
+    "TradeCenter": "Upcom",
+    "Price": 22,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "DLR",
+    "CompanyName": "Công ty Cổ phần Địa ốc Đà Lạt",
+    "TradeCenter": "Upcom",
+    "Price": 11,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "DLT",
+    "CompanyName": "CTCP Du lịch và Thương mại – Vinacomin",
+    "TradeCenter": "Upcom",
+    "Price": 8.6,
+    "PE": 3.37,
+    "EPS": 2.55
+  },
+  {
+    "Symbol": "DLV",
+    "CompanyName": "Công ty Cổ phần Du lịch Việt Nam Vitours",
+    "TradeCenter": "Upcom",
+    "Price": 13,
+    "PE": 13.96,
+    "EPS": 0.93
+  },
+  {
+    "Symbol": "DM7",
+    "CompanyName": "Công ty cổ phần Dệt may 7",
+    "TradeCenter": "Upcom",
+    "Price": 6.6,
+    "PE": 2.13,
+    "EPS": 3.1
+  },
+  {
+    "Symbol": "DNA",
+    "CompanyName": "Công ty Cổ phần Điện nước An Giang",
+    "TradeCenter": "Upcom",
+    "Price": 21,
+    "PE": 3.94,
+    "EPS": 5.32
+  },
+  {
+    "Symbol": "DNB",
+    "CompanyName": "Công ty TNHH MTV Sách và Thiết bị trường học tỉnh Đắk Nông",
+    "TradeCenter": "Upcom",
+    "Price": 6.9,
+    "PE": 0.71,
+    "EPS": 9.67
+  },
+  {
+    "Symbol": "DND",
+    "CompanyName": "CTCP Đầu tư Xây dựng và Vật liệu Đồng Nai",
+    "TradeCenter": "Upcom",
+    "Price": 16.5,
+    "PE": 11.43,
+    "EPS": 1.44
+  },
+  {
+    "Symbol": "DNE",
+    "CompanyName": "Công ty Cổ phần Môi trường Đô thị Đà Nẵng",
+    "TradeCenter": "Upcom",
+    "Price": 11.6,
+    "PE": 5.52,
+    "EPS": 2.1
+  },
+  {
+    "Symbol": "DNF",
+    "CompanyName": "Công ty Cổ phần Lương thực Đà Nẵng",
+    "TradeCenter": "Upcom",
+    "Price": 2.2,
+    "PE": 5.22,
+    "EPS": 0.42
+  },
+  {
+    "Symbol": "DNH",
+    "CompanyName": "Công ty Cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi",
+    "TradeCenter": "Upcom",
+    "Price": 36.8,
+    "PE": 15.48,
+    "EPS": 2.38
+  },
+  {
+    "Symbol": "DNL",
+    "CompanyName": "Công ty cổ phần Logistic Cảng Đà Nẵng",
+    "TradeCenter": "Upcom",
+    "Price": 21,
+    "PE": 16.13,
+    "EPS": 1.3
+  },
+  {
+    "Symbol": "DNN",
+    "CompanyName": "Công ty Cổ phần Cấp nước Đà Nẵng",
+    "TradeCenter": "Upcom",
+    "Price": 0.2,
+    "PE": 0.08,
+    "EPS": 2.55
+  },
+  {
+    "Symbol": "DNR",
+    "CompanyName": "CTCP Đường sắt Quảng Nam - Đà Nẵng",
+    "TradeCenter": "Upcom",
+    "Price": 10.9,
+    "PE": 4.44,
+    "EPS": 2.46
+  },
+  {
+    "Symbol": "DNS",
+    "CompanyName": "Công ty Cổ phần Thép Đà Nẵng",
+    "TradeCenter": "Upcom",
+    "Price": 15,
+    "PE": 7.17,
+    "EPS": 2.09
+  },
+  {
+    "Symbol": "DNT",
+    "CompanyName": "Công ty Cổ phần Du lịch Đồng Nai",
+    "TradeCenter": "Upcom",
+    "Price": 13.8,
+    "PE": 15.35,
+    "EPS": 0.9
+  },
+  {
+    "Symbol": "DNW",
+    "CompanyName": "Công ty cổ phần Cấp nước Đồng Nai",
+    "TradeCenter": "Upcom",
+    "Price": 21.9,
+    "PE": 22.51,
+    "EPS": 0.97
+  },
+  {
+    "Symbol": "DNY",
+    "CompanyName": "Công ty Cổ phần Thép Dana - Ý",
+    "TradeCenter": "Upcom",
+    "Price": 2.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "DOC",
+    "CompanyName": "Công ty cổ phần Vật tư nông nghiệp Đồng Nai",
+    "TradeCenter": "Upcom",
+    "Price": 12,
+    "PE": 50.83,
+    "EPS": 0.24
+  },
+  {
+    "Symbol": "DOP",
+    "CompanyName": "CTCP Vận tải Xăng dầu Đồng Tháp ",
+    "TradeCenter": "Upcom",
+    "Price": 11.5,
+    "PE": 6.78,
+    "EPS": 1.7
+  },
+  {
+    "Symbol": "DP1",
+    "CompanyName": "Công ty Cổ phần dược phẩm Trung ương CPC1",
+    "TradeCenter": "Upcom",
+    "Price": 30,
+    "PE": 12.13,
+    "EPS": 2.47
+  },
+  {
+    "Symbol": "DP2",
+    "CompanyName": "Công ty Cổ phần Dược phẩm Trung ương 2",
+    "TradeCenter": "Upcom",
+    "Price": 5.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "DPD",
+    "CompanyName": "CTCP Cao su Đồng Phú - Đắk Nông",
+    "TradeCenter": "Upcom",
+    "Price": 20.9,
+    "PE": 159.18,
+    "EPS": 0.13
+  },
+  {
+    "Symbol": "DPH",
+    "CompanyName": "Công ty Cổ phần Dược phẩm Hải Phòng",
+    "TradeCenter": "Upcom",
+    "Price": 37.3,
+    "PE": 5.76,
+    "EPS": 6.47
+  },
+  {
+    "Symbol": "DPP",
+    "CompanyName": "Công ty Cổ phần Dược Đồng Nai",
+    "TradeCenter": "Upcom",
+    "Price": 18.5,
+    "PE": 14.46,
+    "EPS": 1.28
+  },
+  {
+    "Symbol": "DPS",
+    "CompanyName": "Công ty cổ phần Đầu tư Phát triển Sóc Sơn ",
+    "TradeCenter": "Upcom",
+    "Price": 0.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "DRG",
+    "CompanyName": "Công ty cổ phần Cao su Đắk Lắk",
+    "TradeCenter": "Upcom",
+    "Price": 14.2,
+    "PE": 42.12,
+    "EPS": 0.34
+  },
+  {
+    "Symbol": "DRI",
+    "CompanyName": "Công ty Cổ phần Đầu tư Cao su Đắk Lắk",
+    "TradeCenter": "Upcom",
+    "Price": 10.2,
+    "PE": 17.51,
+    "EPS": 0.58
+  },
+  {
+    "Symbol": "DSC",
+    "CompanyName": "Công ty Cổ phần Chứng khoán Đà Nẵng",
+    "TradeCenter": "Upcom",
+    "Price": 14.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "DSG",
+    "CompanyName": "Công ty Cổ phần Kính Viglacera Đáp Cầu",
+    "TradeCenter": "Upcom",
+    "Price": 6.1,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "DSP",
+    "CompanyName": "Công ty cổ phần Dịch vụ Du lịch Phú Thọ",
+    "TradeCenter": "Upcom",
+    "Price": 9.6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "DSS",
+    "CompanyName": "Công ty Cổ phần Đường sắt Sài Gòn",
+    "TradeCenter": "Upcom",
+    "Price": 6,
+    "PE": 5,
+    "EPS": 1.2
+  },
+  {
+    "Symbol": "DSV",
+    "CompanyName": "Công ty Cổ phần Đường sắt Vĩnh Phú",
+    "TradeCenter": "Upcom",
+    "Price": 7.7,
+    "PE": 3.37,
+    "EPS": 2.28
+  },
+  {
+    "Symbol": "DT4",
+    "CompanyName": "CTCP Quản lý bảo trì đường thủy nội địa số 4",
+    "TradeCenter": "Upcom",
+    "Price": 7.1,
+    "PE": 4.31,
+    "EPS": 1.65
+  },
+  {
+    "Symbol": "DTB",
+    "CompanyName": "Công ty cổ phần Công trình Đô thị Bảo Lộc",
+    "TradeCenter": "Upcom",
+    "Price": 8.8,
+    "PE": 4.45,
+    "EPS": 1.98
+  },
+  {
+    "Symbol": "DTC",
+    "CompanyName": "Công ty Cổ phần Viglacera Đông Triều",
+    "TradeCenter": "Upcom",
+    "Price": 12,
+    "PE": 9.79,
+    "EPS": 1.23
+  },
+  {
+    "Symbol": "DTE",
+    "CompanyName": "CTCP Đầu tư Năng lượng Đại Trường Thành Holdings",
+    "TradeCenter": "Upcom",
+    "Price": 24,
+    "PE": 87.37,
+    "EPS": 0.27
+  },
+  {
+    "Symbol": "DTG",
+    "CompanyName": "Công ty Cổ phần Dược phẩm Tipharco",
+    "TradeCenter": "Upcom",
+    "Price": 9.3,
+    "PE": 32.82,
+    "EPS": 0.28
+  },
+  {
+    "Symbol": "DTI",
+    "CompanyName": "Công ty Cổ phần Đầu tư Đức Trung",
+    "TradeCenter": "Upcom",
+    "Price": 8.5,
+    "PE": 2428.57,
+    "EPS": 0
+  },
+  {
+    "Symbol": "DTN",
+    "CompanyName": "Công ty Cổ phần Diêm Thống Nhất",
+    "TradeCenter": "Upcom",
+    "Price": 62.9,
+    "PE": 154.39,
+    "EPS": 0.41
+  },
+  {
+    "Symbol": "DTP",
+    "CompanyName": "Công ty cổ phần Dược phẩm CPC1 Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 65,
+    "PE": 10.8,
+    "EPS": 6.02
+  },
+  {
+    "Symbol": "DTV",
+    "CompanyName": "Công ty Cổ phần Phát triển điện Nông thôn Trà Vinh",
+    "TradeCenter": "Upcom",
+    "Price": 42.8,
+    "PE": 9.94,
+    "EPS": 4.31
+  },
+  {
+    "Symbol": "DUS",
+    "CompanyName": "CTCP Dịch vụ Đô thị Đà Lạt",
+    "TradeCenter": "Upcom",
+    "Price": 25,
+    "PE": 13.88,
+    "EPS": 1.8
+  },
+  {
+    "Symbol": "DVC",
+    "CompanyName": "Công ty cổ phần Thương mại Dịch vụ Tổng hợp Cảng Hải Phòng",
+    "TradeCenter": "Upcom",
+    "Price": 9,
+    "PE": 5.34,
+    "EPS": 1.69
+  },
+  {
+    "Symbol": "DVH",
+    "CompanyName": "Công ty cổ phần Chế tạo máy điện Việt Nam - Hungari",
+    "TradeCenter": "Upcom",
+    "Price": 11,
+    "PE": 8.12,
+    "EPS": 1.36
+  },
+  {
+    "Symbol": "DVN",
+    "CompanyName": "Tổng Công ty Dược Việt Nam - CTCP",
+    "TradeCenter": "Upcom",
+    "Price": 20.2,
+    "PE": 20.51,
+    "EPS": 0.98
+  },
+  {
+    "Symbol": "DVW",
+    "CompanyName": "Công ty Cổ phần Dịch vụ và Xây dựng Cấp nước Đồng Nai",
+    "TradeCenter": "Upcom",
+    "Price": 14.2,
+    "PE": 10.16,
+    "EPS": 1.4
+  },
+  {
+    "Symbol": "DWS",
+    "CompanyName": "Công ty cổ phần Cấp nước và Môi trường đô thị Đồng Tháp",
+    "TradeCenter": "Upcom",
+    "Price": 11,
+    "PE": 8.76,
+    "EPS": 1.26
+  },
+  {
+    "Symbol": "DX2",
+    "CompanyName": "Công ty cổ phần Đầu tư và Xây dựng 319.2",
+    "TradeCenter": "Upcom",
+    "Price": 10.2,
+    "PE": 48.39,
+    "EPS": 0.21
+  },
+  {
+    "Symbol": "DXD",
+    "CompanyName": "Công ty cổ phần Đầu tư và Xây dựng - VVMI",
+    "TradeCenter": "Upcom",
+    "Price": 9.9,
+    "PE": 139.24,
+    "EPS": 0.07
+  },
+  {
+    "Symbol": "DXL",
+    "CompanyName": "Công ty Cổ phần Du lịch và Xuất nhập khẩu Lạng Sơn",
+    "TradeCenter": "Upcom",
+    "Price": 5,
+    "PE": 41.02,
+    "EPS": 0.12
+  },
+  {
+    "Symbol": "E12",
+    "CompanyName": "CTCP Xây dựng điện Vneco12",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 113.12,
+    "EPS": 0.09
+  },
+  {
+    "Symbol": "E29",
+    "CompanyName": "CTCP Đầu tư xây dựng và kỹ thuật 29",
+    "TradeCenter": "Upcom",
+    "Price": 5.2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "EAD",
+    "CompanyName": "CTCP Thủy điện Điện lực Đắk Lắk",
+    "TradeCenter": "Upcom",
+    "Price": 23.1,
+    "PE": 17.19,
+    "EPS": 1.34
+  },
+  {
+    "Symbol": "EFI",
+    "CompanyName": "Công ty Cổ phần Đầu tư Tài chính Giáo dục",
+    "TradeCenter": "Upcom",
+    "Price": 2.4,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "EIC",
+    "CompanyName": "Công ty cổ phần EVN Quốc tế",
+    "TradeCenter": "Upcom",
+    "Price": 13.6,
+    "PE": 10.62,
+    "EPS": 1.28
+  },
+  {
+    "Symbol": "EIN",
+    "CompanyName": "Công ty cổ phần Đầu tư - Thương mại - Dịch vụ Điện lực",
+    "TradeCenter": "Upcom",
+    "Price": 12.7,
+    "PE": 41.45,
+    "EPS": 0.31
+  },
+  {
+    "Symbol": "EME",
+    "CompanyName": "Công ty Cổ phần Điện cơ",
+    "TradeCenter": "Upcom",
+    "Price": 55,
+    "PE": 150.56,
+    "EPS": 0.37
+  },
+  {
+    "Symbol": "EMG",
+    "CompanyName": "Công ty Cổ phần Thiết bị Phụ tùng Cơ điện",
+    "TradeCenter": "Upcom",
+    "Price": 15.5,
+    "PE": 3.65,
+    "EPS": 4.25
+  },
+  {
+    "Symbol": "EMS",
+    "CompanyName": "Tổng Công ty Chuyển phát nhanh Bưu Điện - CTCP",
+    "TradeCenter": "Upcom",
+    "Price": 39,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "EPC",
+    "CompanyName": "Công ty TNHH Một thành viên Cà phê Ea Pốk",
+    "TradeCenter": "Upcom",
+    "Price": 6.2,
+    "PE": 849.32,
+    "EPS": 0.01
+  },
+  {
+    "Symbol": "EPH",
+    "CompanyName": "Công ty Cổ phần dịch vụ xuất bản giáo dục Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 9.3,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "EVF",
+    "CompanyName": "Công ty Tài chính cổ phần Điện lực",
+    "TradeCenter": "Upcom",
+    "Price": 10.2,
+    "PE": 6.53,
+    "EPS": 1.56
+  },
+  {
+    "Symbol": "FBA",
+    "CompanyName": "Công ty Cổ phần Tập đoàn Quốc tế FBA",
+    "TradeCenter": "Upcom",
+    "Price": 0.9,
+    "PE": 1.62,
+    "EPS": 0.56
+  },
+  {
+    "Symbol": "FBC",
+    "CompanyName": "Công ty Cổ phần Cơ khí Phổ Yên",
+    "TradeCenter": "Upcom",
+    "Price": 4.6,
+    "PE": 0.36,
+    "EPS": 12.65
+  },
+  {
+    "Symbol": "FCC",
+    "CompanyName": "CTCP Liên hợp Thực phẩm",
+    "TradeCenter": "Upcom",
+    "Price": 11,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "FCS",
+    "CompanyName": "Công ty Cổ phần Lương thực Thành phố Hồ Chí Minh",
+    "TradeCenter": "Upcom",
+    "Price": 4.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "FDG",
+    "CompanyName": "Công ty Cổ phần Docimexco",
+    "TradeCenter": "Upcom",
+    "Price": 1.1,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "FGL",
+    "CompanyName": "Công ty cổ phần Cà phê Gia Lai",
+    "TradeCenter": "Upcom",
+    "Price": 10.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "FHN",
+    "CompanyName": "Công Ty Cổ phần Xuất Nhập Khẩu Lương Thực - Thực Phẩm Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 13,
+    "PE": 24.2,
+    "EPS": 0.54
+  },
+  {
+    "Symbol": "FHS",
+    "CompanyName": "Công ty cổ phần Phát hành sách T.P Hồ Chí Minh",
+    "TradeCenter": "Upcom",
+    "Price": 19.4,
+    "PE": 13.1,
+    "EPS": 1.48
+  },
+  {
+    "Symbol": "FIC",
+    "CompanyName": "Tổng công ty Vật Liệu Xây Dựng Số 1 - CTCP",
+    "TradeCenter": "Upcom",
+    "Price": 9.4,
+    "PE": 16.36,
+    "EPS": 0.57
+  },
+  {
+    "Symbol": "FOC",
+    "CompanyName": "Công ty cổ phần Dịch vụ Trực tuyến FPT",
+    "TradeCenter": "Upcom",
+    "Price": 110,
+    "PE": 8.28,
+    "EPS": 13.28
+  },
+  {
+    "Symbol": "FOX",
+    "CompanyName": "Công ty Cổ phần Viễn thông FPT",
+    "TradeCenter": "Upcom",
+    "Price": 81.9,
+    "PE": 16.32,
+    "EPS": 5.02
+  },
+  {
+    "Symbol": "FRC",
+    "CompanyName": "Công ty cổ phần Lâm đặc sản Xuất khẩu Quảng Nam",
+    "TradeCenter": "Upcom",
+    "Price": 25,
+    "PE": 3.46,
+    "EPS": 7.22
+  },
+  {
+    "Symbol": "FRM",
+    "CompanyName": "Công ty cổ phần Lâm nghiệp Sài Gòn",
+    "TradeCenter": "Upcom",
+    "Price": 20,
+    "PE": 47.21,
+    "EPS": 0.42
+  },
+  {
+    "Symbol": "FSC",
+    "CompanyName": "Công ty TNHH Chứng khoán Yuanta Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 11.2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "FSO",
+    "CompanyName": "Công ty Cổ phần Cơ khí đóng tàu thủy sản Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 11.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "FT1",
+    "CompanyName": "Công ty Cổ phần Phụ tùng máy số 1",
+    "TradeCenter": "Upcom",
+    "Price": 50,
+    "PE": 7.71,
+    "EPS": 6.49
+  },
+  {
+    "Symbol": "FTI",
+    "CompanyName": "Công ty Cổ phần Công nghiệp - Thương mại Hữu Nghị",
+    "TradeCenter": "Upcom",
+    "Price": 3.5,
+    "PE": 2.95,
+    "EPS": 1.19
+  },
+  {
+    "Symbol": "G20",
+    "CompanyName": "Công ty cổ phần Đầu tư Dệt may G.Home",
+    "TradeCenter": "Upcom",
+    "Price": 0.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "G36",
+    "CompanyName": "Tổng Công ty 36 - CTCP",
+    "TradeCenter": "Upcom",
+    "Price": 8.9,
+    "PE": 14.4,
+    "EPS": 0.62
+  },
+  {
+    "Symbol": "GCB",
+    "CompanyName": "Công ty Cổ Phần Petec Bình Định",
+    "TradeCenter": "Upcom",
+    "Price": 11.5,
+    "PE": 44.92,
+    "EPS": 0.26
+  },
+  {
+    "Symbol": "GE2",
+    "CompanyName": "Tổng công ty Phát điện 2 - Công ty TNHH MTV",
+    "TradeCenter": "Upcom",
+    "Price": 32.3,
+    "PE": 0,
+    "EPS": 6466.32
+  },
+  {
+    "Symbol": "GER",
+    "CompanyName": "Công ty Cổ phần Thể thao Ngôi sao Geru",
+    "TradeCenter": "Upcom",
+    "Price": 3,
+    "PE": 16.07,
+    "EPS": 0.19
+  },
+  {
+    "Symbol": "GGG",
+    "CompanyName": "Công ty cổ phần Ô tô Giải Phóng ",
+    "TradeCenter": "Upcom",
+    "Price": 2.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "GGS",
+    "CompanyName": "Công ty Cổ phần Giống Gia súc Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 3.1,
+    "PE": 8.17,
+    "EPS": 0.38
+  },
+  {
+    "Symbol": "GH3",
+    "CompanyName": "CTCP Công trình Giao thông Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 0,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "GHC",
+    "CompanyName": " Công ty Cổ phần Thủy điện Gia Lai",
+    "TradeCenter": "Upcom",
+    "Price": 29.5,
+    "PE": 11.74,
+    "EPS": 2.51
+  },
+  {
+    "Symbol": "GLC",
+    "CompanyName": "Công ty cổ phần Vàng Lào Cai",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "GLW",
+    "CompanyName": "Công ty Cổ phần Cấp thoát nước Gia Lai",
+    "TradeCenter": "Upcom",
+    "Price": 4.1,
+    "PE": 7.41,
+    "EPS": 0.55
+  },
+  {
+    "Symbol": "GND",
+    "CompanyName": "Công ty Cổ phần Gạch ngói Đồng Nai",
+    "TradeCenter": "Upcom",
+    "Price": 31,
+    "PE": 18.24,
+    "EPS": 1.7
+  },
+  {
+    "Symbol": "GQN",
+    "CompanyName": "Trung tâm Giống Thủy sản Quảng Nam",
+    "TradeCenter": "Upcom",
+    "Price": 10.1,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "GSM",
+    "CompanyName": "Công ty cổ phần Thủy điện Hương Sơn",
+    "TradeCenter": "Upcom",
+    "Price": 11.3,
+    "PE": 9.59,
+    "EPS": 1.18
+  },
+  {
+    "Symbol": "GTC",
+    "CompanyName": "Công ty Cổ phần Trà Rồng Vàng",
+    "TradeCenter": "Upcom",
+    "Price": 2.1,
+    "PE": 0.21,
+    "EPS": 9.93
+  },
+  {
+    "Symbol": "GTD",
+    "CompanyName": "Công ty Cổ phần Giầy Thượng Đình",
+    "TradeCenter": "Upcom",
+    "Price": 20.4,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "GTH",
+    "CompanyName": "Công ty Cổ phần Xây dựng Giao thông Thừa Thiên Huế",
+    "TradeCenter": "Upcom",
+    "Price": 5.3,
+    "PE": 14.23,
+    "EPS": 0.37
+  },
+  {
+    "Symbol": "GTK",
+    "CompanyName": "Công ty cổ phần Giầy Thụy Khuê",
+    "TradeCenter": "Upcom",
+    "Price": 12,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "GTS",
+    "CompanyName": "Công ty cổ phần Công trình Giao thông Sài Gòn",
+    "TradeCenter": "Upcom",
+    "Price": 9.5,
+    "PE": 5.64,
+    "EPS": 1.69
+  },
+  {
+    "Symbol": "GTT",
+    "CompanyName": "Công ty Cổ phần Thuận Thảo",
+    "TradeCenter": "Upcom",
+    "Price": 0.6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "GVT",
+    "CompanyName": "Công ty Cổ phần Giấy Việt Trì",
+    "TradeCenter": "Upcom",
+    "Price": 76,
+    "PE": 11.84,
+    "EPS": 6.42
+  },
+  {
+    "Symbol": "H11",
+    "CompanyName": "Công ty Cổ phần Xây dựng HUD101",
+    "TradeCenter": "Upcom",
+    "Price": 5.2,
+    "PE": 27.54,
+    "EPS": 0.19
+  },
+  {
+    "Symbol": "HAB",
+    "CompanyName": "Công ty Cổ phần Sách và Thiết bị Trường học Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 76,
+    "PE": 140.64,
+    "EPS": 0.54
+  },
+  {
+    "Symbol": "HAC",
+    "CompanyName": "Công ty Cổ phần Chứng khoán Hải Phòng",
+    "TradeCenter": "Upcom",
+    "Price": 8.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HAF",
+    "CompanyName": "Công ty Cổ phần Thực phẩm Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 30.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HAM",
+    "CompanyName": "Công ty Cổ phần Vật tư Hậu Giang",
+    "TradeCenter": "Upcom",
+    "Price": 24,
+    "PE": 10.05,
+    "EPS": 2.39
+  },
+  {
+    "Symbol": "HAN",
+    "CompanyName": "Tổng công ty Xây dựng Hà Nội - CTCP",
+    "TradeCenter": "Upcom",
+    "Price": 11.5,
+    "PE": 70.9,
+    "EPS": 0.16
+  },
+  {
+    "Symbol": "HAV",
+    "CompanyName": "Công ty Cổ phần rượu Hapro",
+    "TradeCenter": "Upcom",
+    "Price": 3.2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HAW",
+    "CompanyName": "Trung tâm Nước sạch và Vệ sinh môi trường nông thôn",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HBD",
+    "CompanyName": "Công ty Cổ phần Bao bì PP Bình Dương",
+    "TradeCenter": "Upcom",
+    "Price": 15.4,
+    "PE": 15.7,
+    "EPS": 0.98
+  },
+  {
+    "Symbol": "HBH",
+    "CompanyName": "Công ty Cổ phần Habeco - Hải Phòng",
+    "TradeCenter": "Upcom",
+    "Price": 6.3,
+    "PE": 7.41,
+    "EPS": 0.85
+  },
+  {
+    "Symbol": "HBI",
+    "CompanyName": "Công ty Cổ phần HBI\t",
+    "TradeCenter": "Upcom",
+    "Price": 26,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HBW",
+    "CompanyName": "Công ty cổ phần Nước sạch Hòa Bình",
+    "TradeCenter": "Upcom",
+    "Price": 7.1,
+    "PE": 61.63,
+    "EPS": 0.12
+  },
+  {
+    "Symbol": "HC1",
+    "CompanyName": "CTCP Xây dựng số 1 Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 14.3,
+    "PE": 9.08,
+    "EPS": 1.57
+  },
+  {
+    "Symbol": "HC3",
+    "CompanyName": "Công ty Cổ phần Xây dựng Số 3 Hải Phòng",
+    "TradeCenter": "Upcom",
+    "Price": 27,
+    "PE": 2.54,
+    "EPS": 10.61
+  },
+  {
+    "Symbol": "HCB",
+    "CompanyName": "Công ty cổ phần Dệt may 29/3",
+    "TradeCenter": "Upcom",
+    "Price": 19,
+    "PE": 9.96,
+    "EPS": 1.91
+  },
+  {
+    "Symbol": "HCI",
+    "CompanyName": "Công ty Cổ phần Đầu tư - Xây dựng Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 19.2,
+    "PE": 5.03,
+    "EPS": 3.81
+  },
+  {
+    "Symbol": "HCS",
+    "CompanyName": "Công ty Cổ phần Thông tin Tín hiệu Đường sắt Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 14.3,
+    "PE": 4.83,
+    "EPS": 2.96
+  },
+  {
+    "Symbol": "HD2",
+    "CompanyName": "CTCP Đầu tư Phát triển nhà HUD2",
+    "TradeCenter": "Upcom",
+    "Price": 7.1,
+    "PE": 132.96,
+    "EPS": 0.05
+  },
+  {
+    "Symbol": "HD3",
+    "CompanyName": "CTCP Đầu tư Phát triển Nhà và Đô thị MHDI3",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 4000,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HD6",
+    "CompanyName": "CTCP Đầu tư và Phát triển Nhà số 6 Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 12.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HD8",
+    "CompanyName": "CTCP Đầu tư Phát triển Nhà và Đô thị HUD8",
+    "TradeCenter": "Upcom",
+    "Price": 8.4,
+    "PE": 15.48,
+    "EPS": 0.54
+  },
+  {
+    "Symbol": "HDM",
+    "CompanyName": "Công ty Cổ phần Dệt May Huế",
+    "TradeCenter": "Upcom",
+    "Price": 17.1,
+    "PE": 14.36,
+    "EPS": 1.19
+  },
+  {
+    "Symbol": "HDO",
+    "CompanyName": "Công ty Cổ phần Hưng Đạo Container",
+    "TradeCenter": "Upcom",
+    "Price": 0.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HDP",
+    "CompanyName": "Công ty Cổ phần Dược Hà Tĩnh",
+    "TradeCenter": "Upcom",
+    "Price": 11.8,
+    "PE": 3.58,
+    "EPS": 3.29
+  },
+  {
+    "Symbol": "HDW",
+    "CompanyName": "Công ty cổ phần Kinh doanh nước sạch Hải Dương",
+    "TradeCenter": "Upcom",
+    "Price": 14,
+    "PE": 6.91,
+    "EPS": 2.03
+  },
+  {
+    "Symbol": "HEC",
+    "CompanyName": "Công ty Cổ phần Tư vấn Xây dựng Thủy lợi II",
+    "TradeCenter": "Upcom",
+    "Price": 61,
+    "PE": 5.51,
+    "EPS": 11.08
+  },
+  {
+    "Symbol": "HEJ",
+    "CompanyName": "Tổng Công ty Tư vấn xây dựng Thủy lợi Việt Nam - Công ty Cổ phần",
+    "TradeCenter": "Upcom",
+    "Price": 22,
+    "PE": 21.73,
+    "EPS": 1.01
+  },
+  {
+    "Symbol": "HEM",
+    "CompanyName": "Công ty cổ phần Chế tạo Điện Cơ Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 14.9,
+    "PE": 110.13,
+    "EPS": 0.14
+  },
+  {
+    "Symbol": "HEP",
+    "CompanyName": "Công ty Cổ phần Môi trường và Công trình Đô thị Huế",
+    "TradeCenter": "Upcom",
+    "Price": 11.8,
+    "PE": 7.09,
+    "EPS": 1.66
+  },
+  {
+    "Symbol": "HES",
+    "CompanyName": "Công ty Cổ phần Dịch vụ Giải trí Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 24.3,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HFB",
+    "CompanyName": "Công ty Cổ phần Công trình Cầu phà Thành phố Hồ Chí Minh",
+    "TradeCenter": "Upcom",
+    "Price": 11,
+    "PE": 8.54,
+    "EPS": 1.29
+  },
+  {
+    "Symbol": "HFC",
+    "CompanyName": "Công ty Cổ phần Xăng dầu HFC",
+    "TradeCenter": "Upcom",
+    "Price": 14.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HFS",
+    "CompanyName": "Công ty Cổ phần Thương mại dịch vụ Thời trang Hà Nội ",
+    "TradeCenter": "Upcom",
+    "Price": 28.6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HFT",
+    "CompanyName": "Công ty Cổ phần Chứng khoán Pinetree",
+    "TradeCenter": "Upcom",
+    "Price": 11,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HFX",
+    "CompanyName": "Công ty cổ phần Sản xuất - Xuất nhập khẩu Thanh Hà",
+    "TradeCenter": "Upcom",
+    "Price": 1.4,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HGA",
+    "CompanyName": "Trung tâm Giống Nông nghiệp tỉnh Hậu Giang",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HGC",
+    "CompanyName": "Trung tâm Quy hoạch - Kiến trúc tỉnh Hậu Giang",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HGR",
+    "CompanyName": "Trung tâm Kỹ thuật Tài nguyên và Môi trường",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HGT",
+    "CompanyName": "Công ty cổ phần Du lịch Hương Giang",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HGW",
+    "CompanyName": "Công ty Cổ phần Cấp thoát nước - Công trình đô thị Hậu Giang",
+    "TradeCenter": "Upcom",
+    "Price": 8,
+    "PE": 7.65,
+    "EPS": 1.05
+  },
+  {
+    "Symbol": "HHA",
+    "CompanyName": "Công ty cổ phần Văn phòng phẩm Hồng Hà",
+    "TradeCenter": "Upcom",
+    "Price": 71.1,
+    "PE": 11.99,
+    "EPS": 5.93
+  },
+  {
+    "Symbol": "HHN",
+    "CompanyName": "Công ty Cổ Phần Vận tải và Dịch vụ Hàng hóa Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 6.6,
+    "PE": 136.65,
+    "EPS": 0.05
+  },
+  {
+    "Symbol": "HHR",
+    "CompanyName": "Công ty Cổ phần Đường sắt Hà Hải",
+    "TradeCenter": "Upcom",
+    "Price": 0.4,
+    "PE": 0.16,
+    "EPS": 2.51
+  },
+  {
+    "Symbol": "HHV",
+    "CompanyName": "CTCP Đầu tư hạ tầng giao thông Đèo Cả",
+    "TradeCenter": "Upcom",
+    "Price": 17.6,
+    "PE": 53.22,
+    "EPS": 0.33
+  },
+  {
+    "Symbol": "HIG",
+    "CompanyName": "Công ty Cổ phần Tập đoàn HIPT",
+    "TradeCenter": "Upcom",
+    "Price": 9.2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HIZ",
+    "CompanyName": "Công ty cổ phần Khu công nghiệp Hố Nai",
+    "TradeCenter": "Upcom",
+    "Price": 57,
+    "PE": 17.59,
+    "EPS": 3.24
+  },
+  {
+    "Symbol": "HJC",
+    "CompanyName": "Công ty Cổ phần Hòa Việt",
+    "TradeCenter": "Upcom",
+    "Price": 4,
+    "PE": 7.41,
+    "EPS": 0.54
+  },
+  {
+    "Symbol": "HKB",
+    "CompanyName": "Công ty Cổ phần Nông nghiệp và Thực phẩm Hà Nội - Kinh Bắc  ",
+    "TradeCenter": "Upcom",
+    "Price": 1.1,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HKC",
+    "CompanyName": "CTCP Dệt Kim Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 35,
+    "PE": 4.45,
+    "EPS": 7.87
+  },
+  {
+    "Symbol": "HKP",
+    "CompanyName": "CTCP Bao bì Hà Tiên",
+    "TradeCenter": "Upcom",
+    "Price": 21,
+    "PE": 12.37,
+    "EPS": 1.7
+  },
+  {
+    "Symbol": "HLA",
+    "CompanyName": "Công ty Cổ phần Hữu Liên Á Châu",
+    "TradeCenter": "Upcom",
+    "Price": 0.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HLB",
+    "CompanyName": "Công ty Cổ phần Bia và Nước giải khát Hạ Long",
+    "TradeCenter": "Upcom",
+    "Price": 147,
+    "PE": 6.81,
+    "EPS": 21.6
+  },
+  {
+    "Symbol": "HLE",
+    "CompanyName": "Công ty Cổ phần Điện chiếu sáng Hải Phòng",
+    "TradeCenter": "Upcom",
+    "Price": 3.1,
+    "PE": 2.01,
+    "EPS": 1.55
+  },
+  {
+    "Symbol": "HLG",
+    "CompanyName": "Công ty Cổ phần Tập đoàn Hoàng Long",
+    "TradeCenter": "Upcom",
+    "Price": 5.9,
+    "PE": 4.25,
+    "EPS": 1.39
+  },
+  {
+    "Symbol": "HLR",
+    "CompanyName": "Công ty Cổ phần Đường sắt Hà Lạng",
+    "TradeCenter": "Upcom",
+    "Price": 4.9,
+    "PE": 2.66,
+    "EPS": 1.84
+  },
+  {
+    "Symbol": "HLS",
+    "CompanyName": "Công ty Cổ phần Sứ kỹ thuật Hoàng Liên Sơn",
+    "TradeCenter": "Upcom",
+    "Price": 18.3,
+    "PE": 8.56,
+    "EPS": 2.14
+  },
+  {
+    "Symbol": "HLT",
+    "CompanyName": "CTCP Dệt may Hoàng Thị Loan",
+    "TradeCenter": "Upcom",
+    "Price": 18.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HLY",
+    "CompanyName": "Công ty Cổ phần Viglacera Hạ Long I ",
+    "TradeCenter": "Upcom",
+    "Price": 15.4,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HMG",
+    "CompanyName": "CTCP Kim khí Hà Nội - VNSTEEL",
+    "TradeCenter": "Upcom",
+    "Price": 8.6,
+    "PE": 69.41,
+    "EPS": 0.12
+  },
+  {
+    "Symbol": "HMS",
+    "CompanyName": "Công ty Cổ phần Xây dựng bảo tàng Hồ Chí Minh",
+    "TradeCenter": "Upcom",
+    "Price": 24,
+    "PE": 6.21,
+    "EPS": 3.87
+  },
+  {
+    "Symbol": "HNA",
+    "CompanyName": "Công ty Cổ phần Thủy điện Hủa Na",
+    "TradeCenter": "Upcom",
+    "Price": 12,
+    "PE": 45.85,
+    "EPS": 0.26
+  },
+  {
+    "Symbol": "HNB",
+    "CompanyName": "CTCP Bến xe Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 16.7,
+    "PE": 14.59,
+    "EPS": 1.14
+  },
+  {
+    "Symbol": "HND",
+    "CompanyName": "CTCP Nhiệt điện Hải Phòng",
+    "TradeCenter": "Upcom",
+    "Price": 17.2,
+    "PE": 5.97,
+    "EPS": 2.88
+  },
+  {
+    "Symbol": "HNE",
+    "CompanyName": "Công ty cổ phần Hanel",
+    "TradeCenter": "Upcom",
+    "Price": 12,
+    "PE": 63.69,
+    "EPS": 0.19
+  },
+  {
+    "Symbol": "HNF",
+    "CompanyName": "CTCP Thực phẩm Hữu Nghị",
+    "TradeCenter": "Upcom",
+    "Price": 18.9,
+    "PE": 53.25,
+    "EPS": 0.35
+  },
+  {
+    "Symbol": "HNI",
+    "CompanyName": "Công ty Cổ phần May Hữu Nghị",
+    "TradeCenter": "Upcom",
+    "Price": 43.7,
+    "PE": 4.12,
+    "EPS": 10.6
+  },
+  {
+    "Symbol": "HNP",
+    "CompanyName": "Công ty Cổ phần Hanel Xốp nhựa",
+    "TradeCenter": "Upcom",
+    "Price": 19.9,
+    "PE": 8.07,
+    "EPS": 2.47
+  },
+  {
+    "Symbol": "HNR",
+    "CompanyName": "Công ty cổ phần Rượu và Nước giải khát Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 12,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HNT",
+    "CompanyName": "Công ty Cổ phần Xe điện Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 16,
+    "PE": 829.02,
+    "EPS": 0.02
+  },
+  {
+    "Symbol": "HPB",
+    "CompanyName": "Công ty Cổ phần Bao bì PP",
+    "TradeCenter": "Upcom",
+    "Price": 17,
+    "PE": 5.44,
+    "EPS": 3.13
+  },
+  {
+    "Symbol": "HPD",
+    "CompanyName": "Công ty Công ty Cổ phần Thủy điện Đăk Đoa",
+    "TradeCenter": "Upcom",
+    "Price": 18,
+    "PE": 12.1,
+    "EPS": 1.49
+  },
+  {
+    "Symbol": "HPH",
+    "CompanyName": "Công ty Cổ phần Hóa chất Hưng Phát Hà Bắc",
+    "TradeCenter": "Upcom",
+    "Price": 5.1,
+    "PE": 26.97,
+    "EPS": 0.19
+  },
+  {
+    "Symbol": "HPI",
+    "CompanyName": "Công ty Cổ phần Khu công nghiệp Hiệp Phước",
+    "TradeCenter": "Upcom",
+    "Price": 27.3,
+    "PE": 7.31,
+    "EPS": 3.73
+  },
+  {
+    "Symbol": "HPL",
+    "CompanyName": "Công ty Cổ phần Bến xe Tàu phà Cần Thơ",
+    "TradeCenter": "Upcom",
+    "Price": 6.6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HPP",
+    "CompanyName": "Công ty Cổ phần Sơn Hải Phòng",
+    "TradeCenter": "Upcom",
+    "Price": 67,
+    "PE": 5.35,
+    "EPS": 12.51
+  },
+  {
+    "Symbol": "HPT",
+    "CompanyName": "Công ty Cổ phần Dịch vụ Công nghệ Tin học HPT",
+    "TradeCenter": "Upcom",
+    "Price": 10.7,
+    "PE": 4.75,
+    "EPS": 2.25
+  },
+  {
+    "Symbol": "HPU",
+    "CompanyName": "Công ty cổ phần 28 Hưng Phú",
+    "TradeCenter": "Upcom",
+    "Price": 6.4,
+    "PE": 3.13,
+    "EPS": 2.05
+  },
+  {
+    "Symbol": "HPW",
+    "CompanyName": "Công ty Cổ phần Cấp nước Hải Phòng",
+    "TradeCenter": "Upcom",
+    "Price": 15,
+    "PE": 10.63,
+    "EPS": 1.41
+  },
+  {
+    "Symbol": "HRB",
+    "CompanyName": "Công ty Cổ phần Harec Đầu tư và Thương mại",
+    "TradeCenter": "Upcom",
+    "Price": 23,
+    "PE": 6.64,
+    "EPS": 3.46
+  },
+  {
+    "Symbol": "HRG",
+    "CompanyName": "Công ty cổ phần Cao su Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 6.6,
+    "PE": 20.81,
+    "EPS": 0.32
+  },
+  {
+    "Symbol": "HRT",
+    "CompanyName": "Công ty cổ phần Vận tải Đường sắt Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 3.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HSA",
+    "CompanyName": "Công ty Cổ phần HESTIA",
+    "TradeCenter": "Upcom",
+    "Price": 74,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HSI",
+    "CompanyName": "Công ty Cổ phần Vật tư tổng hợp và Phân bón Hóa sinh",
+    "TradeCenter": "Upcom",
+    "Price": 1.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HSM",
+    "CompanyName": "Tổng Công ty cổ phần Dệt may Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 9.5,
+    "PE": 11.76,
+    "EPS": 0.81
+  },
+  {
+    "Symbol": "HSP",
+    "CompanyName": "CTCP Sơn Tổng hợp Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 12,
+    "PE": 11.74,
+    "EPS": 1.02
+  },
+  {
+    "Symbol": "HSV",
+    "CompanyName": "CTCP Gang thép Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 16.2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HTE",
+    "CompanyName": "Công ty Cổ phần Đầu tư Kinh doanh Điện lực Thành phố Hồ Chí Minh",
+    "TradeCenter": "Upcom",
+    "Price": 4.9,
+    "PE": 66.85,
+    "EPS": 0.07
+  },
+  {
+    "Symbol": "HTG",
+    "CompanyName": "Tổng Công ty cổ phần Dệt may Hòa Thọ",
+    "TradeCenter": "Upcom",
+    "Price": 20,
+    "PE": 5.51,
+    "EPS": 3.63
+  },
+  {
+    "Symbol": "HTH",
+    "CompanyName": "Công ty TNHH MTV Hoa tiêu Hàng hải - TKV",
+    "TradeCenter": "Upcom",
+    "Price": 29.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HTK",
+    "CompanyName": "Trung tâm Đăng kiểm xe cơ giới Hải Dương",
+    "TradeCenter": "Upcom",
+    "Price": 10.3,
+    "PE": 230.43,
+    "EPS": 0.04
+  },
+  {
+    "Symbol": "HTM",
+    "CompanyName": "Tổng Công ty Thương mại Hà Nội - CTCP",
+    "TradeCenter": "Upcom",
+    "Price": 18.4,
+    "PE": 1495.93,
+    "EPS": 0.01
+  },
+  {
+    "Symbol": "HTR",
+    "CompanyName": "Công ty Cổ phần Đường sắt Hà Thái",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 4.88,
+    "EPS": 2.05
+  },
+  {
+    "Symbol": "HTT",
+    "CompanyName": "Công ty cổ phần Thương mại Hà Tây",
+    "TradeCenter": "Upcom",
+    "Price": 1.6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HTU",
+    "CompanyName": "Công ty Cổ phần Môi trường và Công trình Đô thị Hà Tĩnh",
+    "TradeCenter": "Upcom",
+    "Price": 8.8,
+    "PE": 25.35,
+    "EPS": 0.35
+  },
+  {
+    "Symbol": "HTW",
+    "CompanyName": "Công ty Cổ phần Cấp nước Hà Tĩnh",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 43.98,
+    "EPS": 0.23
+  },
+  {
+    "Symbol": "HU4",
+    "CompanyName": "Công ty Cổ phần Đầu tư và Xây dựng HUD4",
+    "TradeCenter": "Upcom",
+    "Price": 13.1,
+    "PE": 9.35,
+    "EPS": 1.4
+  },
+  {
+    "Symbol": "HU6",
+    "CompanyName": "Công ty cổ phần Đầu tư Phát triển nhà và Đô thị HUD 6",
+    "TradeCenter": "Upcom",
+    "Price": 7.3,
+    "PE": 29.59,
+    "EPS": 0.25
+  },
+  {
+    "Symbol": "HUG",
+    "CompanyName": "Tổng Công ty may Hưng Yên - Công ty Cổ phần",
+    "TradeCenter": "Upcom",
+    "Price": 31.8,
+    "PE": 3.74,
+    "EPS": 8.5
+  },
+  {
+    "Symbol": "HUX",
+    "CompanyName": "CTCP Khoáng sản Thừa Thiên Huế",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 462.96,
+    "EPS": 0.02
+  },
+  {
+    "Symbol": "HVA",
+    "CompanyName": "Công ty cổ phần Đầu tư HVA",
+    "TradeCenter": "Upcom",
+    "Price": 5.7,
+    "PE": 43.85,
+    "EPS": 0.13
+  },
+  {
+    "Symbol": "HVC",
+    "CompanyName": "Công ty Cổ phần Hưng Vượng",
+    "TradeCenter": "Upcom",
+    "Price": 14.1,
+    "PE": 3.87,
+    "EPS": 3.64
+  },
+  {
+    "Symbol": "HVG",
+    "CompanyName": "Công ty Cổ phần Hùng Vương",
+    "TradeCenter": "Upcom",
+    "Price": 2.2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HWS",
+    "CompanyName": "Công ty cổ phần Cấp nước Thừa Thiên Huế",
+    "TradeCenter": "Upcom",
+    "Price": 12.2,
+    "PE": 41.16,
+    "EPS": 0.3
+  },
+  {
+    "Symbol": "I10",
+    "CompanyName": "CTCP Đầu tư Xây dựng số 10 IDICO",
+    "TradeCenter": "Upcom",
+    "Price": 0.8,
+    "PE": 1.99,
+    "EPS": 0.4
+  },
+  {
+    "Symbol": "IBD",
+    "CompanyName": "CTCP In Tổng hợp Bình Dương",
+    "TradeCenter": "Upcom",
+    "Price": 12.2,
+    "PE": 13.43,
+    "EPS": 0.91
+  },
+  {
+    "Symbol": "IBN",
+    "CompanyName": "Công ty TNHH MTV In báo Nghệ An",
+    "TradeCenter": "Upcom",
+    "Price": 12,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "ICC",
+    "CompanyName": "CTCP Xây dựng Công nghiệp",
+    "TradeCenter": "Upcom",
+    "Price": 35.9,
+    "PE": 9.46,
+    "EPS": 3.79
+  },
+  {
+    "Symbol": "ICF",
+    "CompanyName": "Công ty Cổ phần Đầu tư Thương mại Thủy Sản",
+    "TradeCenter": "Upcom",
+    "Price": 2.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "ICI",
+    "CompanyName": "Công ty Cổ phần Đầu tư và Xây dựng Công nghiệp",
+    "TradeCenter": "Upcom",
+    "Price": 4,
+    "PE": 53.12,
+    "EPS": 0.08
+  },
+  {
+    "Symbol": "ICN",
+    "CompanyName": "Công ty cổ phần Đầu tư Xây dựng Dầu khí IDICO",
+    "TradeCenter": "Upcom",
+    "Price": 55,
+    "PE": 12.07,
+    "EPS": 4.56
+  },
+  {
+    "Symbol": "IDN",
+    "CompanyName": "Công ty cổ phần In và Dịch vụ Đà Nẵng",
+    "TradeCenter": "Upcom",
+    "Price": 9,
+    "PE": 5.62,
+    "EPS": 1.6
+  },
+  {
+    "Symbol": "IDP",
+    "CompanyName": "Công ty cổ phần Sữa Quốc tế",
+    "TradeCenter": "Upcom",
+    "Price": 101.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "IFC",
+    "CompanyName": "CTCP Thực phẩm Công nghệ Sài Gòn",
+    "TradeCenter": "Upcom",
+    "Price": 7.6,
+    "PE": -30.28,
+    "EPS": -0.25
+  },
+  {
+    "Symbol": "IFS",
+    "CompanyName": "Công ty Cổ phần Thực phẩm Quốc tế",
+    "TradeCenter": "Upcom",
+    "Price": 22.1,
+    "PE": 9.44,
+    "EPS": 2.34
+  },
+  {
+    "Symbol": "IHK",
+    "CompanyName": "Công ty Cổ phần In Hàng không",
+    "TradeCenter": "Upcom",
+    "Price": 13.6,
+    "PE": 14.01,
+    "EPS": 0.97
+  },
+  {
+    "Symbol": "IKH",
+    "CompanyName": "Công ty Cổ phần In Khoa học Kỹ thuật",
+    "TradeCenter": "Upcom",
+    "Price": 7.9,
+    "PE": 124.8,
+    "EPS": 0.06
+  },
+  {
+    "Symbol": "ILA",
+    "CompanyName": "Công ty Cổ phần ILA",
+    "TradeCenter": "Upcom",
+    "Price": 5,
+    "PE": 6.28,
+    "EPS": 0.8
+  },
+  {
+    "Symbol": "ILC",
+    "CompanyName": "Công ty Cổ phần Hợp tác Lao động với Nước ngoài",
+    "TradeCenter": "Upcom",
+    "Price": 6.2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "ILS",
+    "CompanyName": "Công ty Cổ phần Đầu tư Thương mại và Dịch vụ Quốc tế",
+    "TradeCenter": "Upcom",
+    "Price": 17.6,
+    "PE": 56,
+    "EPS": 0.31
+  },
+  {
+    "Symbol": "IME",
+    "CompanyName": "Công ty Cổ phần Cơ khí và Xây lắp Công nghiệp",
+    "TradeCenter": "Upcom",
+    "Price": 40,
+    "PE": 247.37,
+    "EPS": 0.16
+  },
+  {
+    "Symbol": "IMT",
+    "CompanyName": "Công ty Cổ phần Xuất nhập khẩu Đầu tư Thành phố Hồ Chí Minh",
+    "TradeCenter": "Upcom",
+    "Price": 2,
+    "PE": -1,
+    "EPS": -1.99
+  },
+  {
+    "Symbol": "IN4",
+    "CompanyName": "Công ty Cổ phần In số 4",
+    "TradeCenter": "Upcom",
+    "Price": 100,
+    "PE": 14.7,
+    "EPS": 6.8
+  },
+  {
+    "Symbol": "IPA",
+    "CompanyName": "Công ty cổ phần Tập đoàn Đầu tư I.P.A",
+    "TradeCenter": "Upcom",
+    "Price": 38,
+    "PE": 12.2,
+    "EPS": 3.12
+  },
+  {
+    "Symbol": "IPH",
+    "CompanyName": "Công ty TNHH MTV In và Phát hành biểu mẫu Thống kê",
+    "TradeCenter": "Upcom",
+    "Price": 69,
+    "PE": 16.24,
+    "EPS": 4.25
+  },
+  {
+    "Symbol": "IRC",
+    "CompanyName": "Công ty Cổ phần Cao su Công nghiệp",
+    "TradeCenter": "Upcom",
+    "Price": 9.4,
+    "PE": 1.8,
+    "EPS": 5.22
+  },
+  {
+    "Symbol": "ISG",
+    "CompanyName": "CTCP Vận tải biển & Hợp tác Quốc tế",
+    "TradeCenter": "Upcom",
+    "Price": 5.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "ISH",
+    "CompanyName": "Công ty cổ phần Thủy điện Srok Phu Miêng IDICO",
+    "TradeCenter": "Upcom",
+    "Price": 15.8,
+    "PE": 13.84,
+    "EPS": 1.14
+  },
+  {
+    "Symbol": "IST",
+    "CompanyName": "Công ty Cổ phần ICD Tân Cảng Sóng Thần",
+    "TradeCenter": "Upcom",
+    "Price": 32.3,
+    "PE": 9.17,
+    "EPS": 3.52
+  },
+  {
+    "Symbol": "ITS",
+    "CompanyName": "Công ty cổ phần Đầu tư, Thương mại và Dịch vụ - Vinacomin",
+    "TradeCenter": "Upcom",
+    "Price": 3.9,
+    "PE": 77.23,
+    "EPS": 0.05
+  },
+  {
+    "Symbol": "JOS",
+    "CompanyName": "Công ty Cổ phần Chế biến Thủy sản Xuất khẩu Minh Hải",
+    "TradeCenter": "Upcom",
+    "Price": 2.6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "JSC",
+    "CompanyName": "Công ty Cổ phần Xây dựng Cầu đường Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 2.5,
+    "PE": 9.16,
+    "EPS": 0.27
+  },
+  {
+    "Symbol": "KAC",
+    "CompanyName": "Công ty Cổ phần Đầu tư Địa ốc Khang An",
+    "TradeCenter": "Upcom",
+    "Price": 8.9,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "KBE",
+    "CompanyName": "Công ty Cổ phần Sách - Thiết bị Trường học Kiên Giang",
+    "TradeCenter": "Upcom",
+    "Price": 17.5,
+    "PE": 6.15,
+    "EPS": 2.84
+  },
+  {
+    "Symbol": "KCB",
+    "CompanyName": "CTCP Khoáng sản và luyện kim Cao Bằng",
+    "TradeCenter": "Upcom",
+    "Price": 7.8,
+    "PE": 30.66,
+    "EPS": 0.25
+  },
+  {
+    "Symbol": "KCE",
+    "CompanyName": "Công ty Cổ phần Bê tông Ly tâm Điện lực Khánh Hòa",
+    "TradeCenter": "Upcom",
+    "Price": 13.8,
+    "PE": 8.12,
+    "EPS": 1.7
+  },
+  {
+    "Symbol": "KDF",
+    "CompanyName": "Công ty Cổ phần Thực phẩm Đông lạnh KIDO",
+    "TradeCenter": "Upcom",
+    "Price": 46.8,
+    "PE": 27.64,
+    "EPS": 1.69
+  },
+  {
+    "Symbol": "KGM",
+    "CompanyName": "Công ty Cổ phần Xuất nhập khẩu Kiên Giang",
+    "TradeCenter": "Upcom",
+    "Price": 8.1,
+    "PE": 7.65,
+    "EPS": 1.06
+  },
+  {
+    "Symbol": "KGU",
+    "CompanyName": "Công ty Cổ phần Phát triển Đô thị Kiên Giang",
+    "TradeCenter": "Upcom",
+    "Price": 15.9,
+    "PE": 8.24,
+    "EPS": 1.93
+  },
+  {
+    "Symbol": "KHA",
+    "CompanyName": "Công ty Cổ phần Đầu tư và Dịch vụ Khánh Hội",
+    "TradeCenter": "Upcom",
+    "Price": 26.8,
+    "PE": 20.73,
+    "EPS": 1.29
+  },
+  {
+    "Symbol": "KHB",
+    "CompanyName": "Công ty Cổ phần Khoáng sản Hòa Bình",
+    "TradeCenter": "Upcom",
+    "Price": 2.1,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "KHD",
+    "CompanyName": "CTCP Khai thác, Chế biến khoáng sản Hải Dương",
+    "TradeCenter": "Upcom",
+    "Price": 8.9,
+    "PE": 4.71,
+    "EPS": 1.89
+  },
+  {
+    "Symbol": "KHL",
+    "CompanyName": "Công ty cổ phần Khoáng sản và Vật liệu Xây dựng Hưng Long",
+    "TradeCenter": "Upcom",
+    "Price": 0.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "KHW",
+    "CompanyName": "Công ty Cổ phần Cấp nước Khánh Hòa",
+    "TradeCenter": "Upcom",
+    "Price": 16.9,
+    "PE": 21.06,
+    "EPS": 0.8
+  },
+  {
+    "Symbol": "KIP",
+    "CompanyName": "Công ty Cổ phần K.I.P Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 8.5,
+    "PE": 47.46,
+    "EPS": 0.18
+  },
+  {
+    "Symbol": "KLB",
+    "CompanyName": "Ngân hàng TMCP Kiên Long",
+    "TradeCenter": "Upcom",
+    "Price": 21.7,
+    "PE": 10.66,
+    "EPS": 2.03
+  },
+  {
+    "Symbol": "KLM",
+    "CompanyName": "CTCP Kim loại màu Nghệ Tĩnh",
+    "TradeCenter": "Upcom",
+    "Price": 19.6,
+    "PE": 196000,
+    "EPS": 0
+  },
+  {
+    "Symbol": "KSA",
+    "CompanyName": "Công ty Cổ phần Công nghiệp Khoáng sản Bình Thuận",
+    "TradeCenter": "Upcom",
+    "Price": 0.48,
+    "PE": 8.09,
+    "EPS": 0.06
+  },
+  {
+    "Symbol": "KSC",
+    "CompanyName": "Công ty Cổ phần Muối Khánh Hòa",
+    "TradeCenter": "Upcom",
+    "Price": 0.7,
+    "PE": 0.82,
+    "EPS": 0.86
+  },
+  {
+    "Symbol": "KSE",
+    "CompanyName": "Công ty Cổ phần Xuất khẩu Thủy sản Khánh Hòa",
+    "TradeCenter": "Upcom",
+    "Price": 29,
+    "PE": 120.78,
+    "EPS": 0.24
+  },
+  {
+    "Symbol": "KSH",
+    "CompanyName": "Công ty Cổ phần Damac GLS",
+    "TradeCenter": "Upcom",
+    "Price": 2.2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "KSK",
+    "CompanyName": "Công ty cổ phần Khoáng sản Luyện kim màu",
+    "TradeCenter": "Upcom",
+    "Price": 0.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "KSS",
+    "CompanyName": "Công ty Cổ phần Khoáng sản Na Rì Hamico",
+    "TradeCenter": "Upcom",
+    "Price": 0.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "KSV",
+    "CompanyName": "Tổng Công ty Khoáng sản TKV - CTCP",
+    "TradeCenter": "Upcom",
+    "Price": 33.5,
+    "PE": 41.63,
+    "EPS": 0.8
+  },
+  {
+    "Symbol": "KTB",
+    "CompanyName": "Công ty Cổ phần Đầu tư Khoáng sản Tây Bắc",
+    "TradeCenter": "Upcom",
+    "Price": 1.9,
+    "PE": 441.86,
+    "EPS": 0
+  },
+  {
+    "Symbol": "KTC",
+    "CompanyName": "Công ty Cổ phần Thương mại Kiên Giang",
+    "TradeCenter": "Upcom",
+    "Price": 9.5,
+    "PE": 5.86,
+    "EPS": 1.62
+  },
+  {
+    "Symbol": "KTL",
+    "CompanyName": "CTCP Kim khí Thăng Long",
+    "TradeCenter": "Upcom",
+    "Price": 26.5,
+    "PE": 11.99,
+    "EPS": 2.21
+  },
+  {
+    "Symbol": "KTU",
+    "CompanyName": "Công ty Cổ phần Môi trường đô thị Kon Tum",
+    "TradeCenter": "Upcom",
+    "Price": 7.9,
+    "PE": 1.43,
+    "EPS": 5.53
+  },
+  {
+    "Symbol": "L12",
+    "CompanyName": "Công ty cổ phần Licogi 12",
+    "TradeCenter": "Upcom",
+    "Price": 6.5,
+    "PE": 11.93,
+    "EPS": 0.54
+  },
+  {
+    "Symbol": "L44",
+    "CompanyName": "Công ty Cổ phần Lilama 45.4",
+    "TradeCenter": "Upcom",
+    "Price": 0.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "L45",
+    "CompanyName": "CTCP Lilama 45.1",
+    "TradeCenter": "Upcom",
+    "Price": 3.6,
+    "PE": 428.57,
+    "EPS": 0.01
+  },
+  {
+    "Symbol": "L63",
+    "CompanyName": "CTCP Lilama 69-3",
+    "TradeCenter": "Upcom",
+    "Price": 6.8,
+    "PE": 216.56,
+    "EPS": 0.03
+  },
+  {
+    "Symbol": "LAI",
+    "CompanyName": "CTCP Đầu tư xây dựng Long An IDICO",
+    "TradeCenter": "Upcom",
+    "Price": 23.8,
+    "PE": 10.07,
+    "EPS": 2.36
+  },
+  {
+    "Symbol": "LAW",
+    "CompanyName": "Công ty cổ phần Cấp thoát nước Long An",
+    "TradeCenter": "Upcom",
+    "Price": 13.6,
+    "PE": 13.88,
+    "EPS": 0.98
+  },
+  {
+    "Symbol": "LBC",
+    "CompanyName": "Công ty Cổ phần Thương mại - Đầu tư Long Biên",
+    "TradeCenter": "Upcom",
+    "Price": 11.6,
+    "PE": 3.76,
+    "EPS": 3.08
+  },
+  {
+    "Symbol": "LCC",
+    "CompanyName": "Công ty Cổ phần Xi măng Hồng Phong",
+    "TradeCenter": "Upcom",
+    "Price": 3.1,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "LCW",
+    "CompanyName": "Công ty Cổ phần Nước sạch Lai Châu",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 1204.82,
+    "EPS": 0.01
+  },
+  {
+    "Symbol": "LDW",
+    "CompanyName": "Công ty cổ phần Cấp thoát nước Lâm Đồng",
+    "TradeCenter": "Upcom",
+    "Price": 13,
+    "PE": 3.61,
+    "EPS": 3.6
+  },
+  {
+    "Symbol": "LG9",
+    "CompanyName": "Công ty Cổ phần Cơ giới và Xây lắp số 9",
+    "TradeCenter": "Upcom",
+    "Price": 4,
+    "PE": 14.53,
+    "EPS": 0.28
+  },
+  {
+    "Symbol": "LGM",
+    "CompanyName": "CTCP Giày da và May mặc Xuất khẩu (LEGAMEX)",
+    "TradeCenter": "Upcom",
+    "Price": 9.5,
+    "PE": -6.37,
+    "EPS": -1.49
+  },
+  {
+    "Symbol": "LIC",
+    "CompanyName": "Tổng Công ty Licogi - Công ty Cổ phần",
+    "TradeCenter": "Upcom",
+    "Price": 6.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "LKW",
+    "CompanyName": "CTCP Cấp nước Long Khánh",
+    "TradeCenter": "Upcom",
+    "Price": 34,
+    "PE": 6.16,
+    "EPS": 5.52
+  },
+  {
+    "Symbol": "LLM",
+    "CompanyName": "Tổng Công ty Lắp máy Việt Nam - CTCP",
+    "TradeCenter": "Upcom",
+    "Price": 12.8,
+    "PE": 18.51,
+    "EPS": 0.69
+  },
+  {
+    "Symbol": "LM3",
+    "CompanyName": "Công ty Cổ phần Lilama 3",
+    "TradeCenter": "Upcom",
+    "Price": 1.2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "LMC",
+    "CompanyName": "Công ty Cổ phần Khoáng sản Latca",
+    "TradeCenter": "Upcom",
+    "Price": 11,
+    "PE": 15.65,
+    "EPS": 0.7
+  },
+  {
+    "Symbol": "LMH",
+    "CompanyName": "Công ty Cổ phần Landmark Holding",
+    "TradeCenter": "Upcom",
+    "Price": 8.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "LMI",
+    "CompanyName": "Công ty Cổ phần Đầu tư Xây dựng Lắp máy IDICO",
+    "TradeCenter": "Upcom",
+    "Price": 5.5,
+    "PE": 6.28,
+    "EPS": 0.88
+  },
+  {
+    "Symbol": "LNC",
+    "CompanyName": "Công ty cổ phần Lệ Ninh",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 102.77,
+    "EPS": 0.1
+  },
+  {
+    "Symbol": "LO5",
+    "CompanyName": "Công ty Cổ phần Lilama 5",
+    "TradeCenter": "Upcom",
+    "Price": 1.4,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "LPT",
+    "CompanyName": "CTCP Thương mại và Sản xuất Lập Phương Thành",
+    "TradeCenter": "Upcom",
+    "Price": 11.3,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "LQN",
+    "CompanyName": "Công ty cổ phần Licogi Quảng Ngãi",
+    "TradeCenter": "Upcom",
+    "Price": 9,
+    "PE": 125.35,
+    "EPS": 0.07
+  },
+  {
+    "Symbol": "LTC",
+    "CompanyName": "Công ty cổ phần Điện nhẹ Viễn thông",
+    "TradeCenter": "Upcom",
+    "Price": 2.1,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "LTG",
+    "CompanyName": "Công ty Cổ phần Tập đoàn Lộc Trời",
+    "TradeCenter": "Upcom",
+    "Price": 38.1,
+    "PE": 5.61,
+    "EPS": 6.8
+  },
+  {
+    "Symbol": "LWS",
+    "CompanyName": "Công ty Cổ phần Cấp nước tỉnh Lào Cai",
+    "TradeCenter": "Upcom",
+    "Price": 16.8,
+    "PE": 32.28,
+    "EPS": 0.52
+  },
+  {
+    "Symbol": "LYF",
+    "CompanyName": "CTCP Lương Thực Lương Yên",
+    "TradeCenter": "Upcom",
+    "Price": 16.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "M10",
+    "CompanyName": "Tổng Công ty May 10 - CTCP",
+    "TradeCenter": "Upcom",
+    "Price": 19,
+    "PE": 6.76,
+    "EPS": 2.81
+  },
+  {
+    "Symbol": "MA1",
+    "CompanyName": "Công ty cổ phần Thiết bị",
+    "TradeCenter": "Upcom",
+    "Price": 20.7,
+    "PE": 5.15,
+    "EPS": 4.02
+  },
+  {
+    "Symbol": "MBN",
+    "CompanyName": "Công ty cổ phần Môi trường và Công trình Đô thị Bắc Ninh",
+    "TradeCenter": "Upcom",
+    "Price": 8.4,
+    "PE": 7.98,
+    "EPS": 1.05
+  },
+  {
+    "Symbol": "MC3",
+    "CompanyName": "Công ty Cổ phần Khoáng sản 3 - Vimico",
+    "TradeCenter": "Upcom",
+    "Price": 8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "MCH",
+    "CompanyName": "Công ty Cổ phần Hàng tiêu dùng Masan",
+    "TradeCenter": "Upcom",
+    "Price": 126,
+    "PE": 36.95,
+    "EPS": 3.41
+  },
+  {
+    "Symbol": "MCI",
+    "CompanyName": "CTCP Đầu tư Xây dựng và Phát triển Vật liệu IDICO ",
+    "TradeCenter": "Upcom",
+    "Price": 7.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "MCK",
+    "CompanyName": "''",
+    "TradeCenter": "Upcom",
+    "Price": 0,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "MCM",
+    "CompanyName": "Công ty cổ phần Giống bò sữa Mộc Châu",
+    "TradeCenter": "Upcom",
+    "Price": 47.4,
+    "PE": 15.35,
+    "EPS": 3.09
+  },
+  {
+    "Symbol": "MCT",
+    "CompanyName": "Công ty Cổ phần Kinh doanh Vật tư và Xây dựng",
+    "TradeCenter": "Upcom",
+    "Price": 7,
+    "PE": 12.92,
+    "EPS": 0.54
+  },
+  {
+    "Symbol": "MDA",
+    "CompanyName": "Công ty Cổ phần Môi trường Đô thị Đông Anh",
+    "TradeCenter": "Upcom",
+    "Price": 9,
+    "PE": 5.71,
+    "EPS": 1.58
+  },
+  {
+    "Symbol": "MDF",
+    "CompanyName": "Công ty cổ phần Gỗ MDF VRG Quảng Trị",
+    "TradeCenter": "Upcom",
+    "Price": 10.5,
+    "PE": 35.29,
+    "EPS": 0.3
+  },
+  {
+    "Symbol": "MDN",
+    "CompanyName": "CTCP Tổng Công ty May Đồng Nai",
+    "TradeCenter": "Upcom",
+    "Price": 14.7,
+    "PE": 6.17,
+    "EPS": 2.38
+  },
+  {
+    "Symbol": "MDT",
+    "CompanyName": "CTCP Cơ khí mỏ và Đóng tàu - TKV",
+    "TradeCenter": "Upcom",
+    "Price": 7.5,
+    "PE": 4.23,
+    "EPS": 1.77
+  },
+  {
+    "Symbol": "MEC",
+    "CompanyName": "Công ty Cổ phần Cơ khí - lắp máy Sông Đà",
+    "TradeCenter": "Upcom",
+    "Price": 2.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "MEF",
+    "CompanyName": "Công ty cổ phần MEINFA",
+    "TradeCenter": "Upcom",
+    "Price": 1.6,
+    "PE": 0.91,
+    "EPS": 1.77
+  },
+  {
+    "Symbol": "MEG",
+    "CompanyName": "Công ty cổ phần Megram",
+    "TradeCenter": "Upcom",
+    "Price": 21.3,
+    "PE": 17.9,
+    "EPS": 1.19
+  },
+  {
+    "Symbol": "MES",
+    "CompanyName": "Công ty cổ phần Cơ điện Công trình",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "MFS",
+    "CompanyName": "Công ty Cổ phần Dịch vụ Kỹ thuật Mobifone",
+    "TradeCenter": "Upcom",
+    "Price": 27.1,
+    "PE": 6.22,
+    "EPS": 4.36
+  },
+  {
+    "Symbol": "MGC",
+    "CompanyName": "Công ty cổ phần Địa chất mỏ - TKV",
+    "TradeCenter": "Upcom",
+    "Price": 4.3,
+    "PE": 8.74,
+    "EPS": 0.49
+  },
+  {
+    "Symbol": "MGG",
+    "CompanyName": "Tổng Công ty Đức Giang - Công ty Cổ phần",
+    "TradeCenter": "Upcom",
+    "Price": 40,
+    "PE": 21.45,
+    "EPS": 1.86
+  },
+  {
+    "Symbol": "MH3",
+    "CompanyName": "Công ty Cổ phần Khu công nghiệp Cao Su Bình Long",
+    "TradeCenter": "Upcom",
+    "Price": 55,
+    "PE": 9.02,
+    "EPS": 6.1
+  },
+  {
+    "Symbol": "MHP",
+    "CompanyName": "CTCP Môi trường và Dịch vụ đô thị Việt Trì",
+    "TradeCenter": "Upcom",
+    "Price": 11.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "MHY",
+    "CompanyName": "Công ty TNHH MTV Môi trường và Công trình Đô thị Hưng Yên ",
+    "TradeCenter": "Upcom",
+    "Price": 18.8,
+    "PE": 4.99,
+    "EPS": 3.77
+  },
+  {
+    "Symbol": "MIC",
+    "CompanyName": "Công ty Cổ phần Kỹ nghệ Khoáng sản Quảng Nam",
+    "TradeCenter": "Upcom",
+    "Price": 7,
+    "PE": 187.17,
+    "EPS": 0.04
+  },
+  {
+    "Symbol": "MIE",
+    "CompanyName": "Tổng Công ty Máy và Thiết bị Công nghiệp - CTCP",
+    "TradeCenter": "Upcom",
+    "Price": 10.1,
+    "PE": 321.66,
+    "EPS": 0.03
+  },
+  {
+    "Symbol": "MJC",
+    "CompanyName": "Công ty Cổ phần Thương mại Mộc Hóa",
+    "TradeCenter": "Upcom",
+    "Price": 12,
+    "PE": 4.71,
+    "EPS": 2.55
+  },
+  {
+    "Symbol": "MKP",
+    "CompanyName": "Công ty Cổ phần Hóa - Dược phẩm Mekophar",
+    "TradeCenter": "Upcom",
+    "Price": 48,
+    "PE": 27.74,
+    "EPS": 1.73
+  },
+  {
+    "Symbol": "MKT",
+    "CompanyName": "Công ty cổ phần Dệt Minh Khai",
+    "TradeCenter": "Upcom",
+    "Price": 15.3,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "MLC",
+    "CompanyName": "Công ty Cổ phần Môi trường Đô thị Tỉnh Lào Cai",
+    "TradeCenter": "Upcom",
+    "Price": 5.8,
+    "PE": 2.73,
+    "EPS": 2.13
+  },
+  {
+    "Symbol": "MLN",
+    "CompanyName": "Công ty cổ phần Mai Linh Miền Bắc",
+    "TradeCenter": "Upcom",
+    "Price": 2.3,
+    "PE": 4.43,
+    "EPS": 0.52
+  },
+  {
+    "Symbol": "MLS",
+    "CompanyName": "Công ty cổ phần Chăn nuôi - Mitraco",
+    "TradeCenter": "Upcom",
+    "Price": 37.2,
+    "PE": 1.56,
+    "EPS": 23.84
+  },
+  {
+    "Symbol": "MMC",
+    "CompanyName": "Công ty Cổ phần Khoáng sản Mangan",
+    "TradeCenter": "Upcom",
+    "Price": 1.3,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "MML",
+    "CompanyName": "Công ty Cổ phần Masan MEATLife",
+    "TradeCenter": "Upcom",
+    "Price": 78.3,
+    "PE": 94.13,
+    "EPS": 0.83
+  },
+  {
+    "Symbol": "MNB",
+    "CompanyName": "Tổng Công ty May Nhà Bè - Công ty Cổ phần",
+    "TradeCenter": "Upcom",
+    "Price": 27.5,
+    "PE": 16.45,
+    "EPS": 1.67
+  },
+  {
+    "Symbol": "MND",
+    "CompanyName": "Công ty Cổ phần Môi trường Nam Định",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 15.49,
+    "EPS": 0.65
+  },
+  {
+    "Symbol": "MPC",
+    "CompanyName": "Công ty Cổ phần Tập đoàn Thủy sản Minh Phú",
+    "TradeCenter": "Upcom",
+    "Price": 36.1,
+    "PE": 44.81,
+    "EPS": 0.81
+  },
+  {
+    "Symbol": "MPT",
+    "CompanyName": "Công ty cổ phần Tập đoàn Trường Tiền",
+    "TradeCenter": "Upcom",
+    "Price": 1.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "MPY",
+    "CompanyName": "Công ty Cổ phần Môi trường Đô thị Phú Yên",
+    "TradeCenter": "Upcom",
+    "Price": 8,
+    "PE": 7.01,
+    "EPS": 1.14
+  },
+  {
+    "Symbol": "MQB",
+    "CompanyName": "Công ty Cổ phần Môi trường và phát triển Đô thị Quảng Bình",
+    "TradeCenter": "Upcom",
+    "Price": 9.5,
+    "PE": 10.6,
+    "EPS": 0.9
+  },
+  {
+    "Symbol": "MQN",
+    "CompanyName": "Công ty Cổ phần Môi trường đô thị Quảng Ngãi",
+    "TradeCenter": "Upcom",
+    "Price": 35.7,
+    "PE": 5.7,
+    "EPS": 6.27
+  },
+  {
+    "Symbol": "MRF",
+    "CompanyName": "Công ty cổ phần Merufa",
+    "TradeCenter": "Upcom",
+    "Price": 54.5,
+    "PE": 15.39,
+    "EPS": 3.54
+  },
+  {
+    "Symbol": "MSR",
+    "CompanyName": "Công ty cổ phần Masan High-Tech Materials",
+    "TradeCenter": "Upcom",
+    "Price": 19.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "MTA",
+    "CompanyName": "Tổng Công ty Khoáng sản và Thương mại Hà Tĩnh - CTCP",
+    "TradeCenter": "Upcom",
+    "Price": 5.6,
+    "PE": 5.29,
+    "EPS": 1.06
+  },
+  {
+    "Symbol": "MTB",
+    "CompanyName": "CTCP Môi trường và Công trình Đô thị tỉnh Thái Bình",
+    "TradeCenter": "Upcom",
+    "Price": 9.9,
+    "PE": 36.05,
+    "EPS": 0.27
+  },
+  {
+    "Symbol": "MTC",
+    "CompanyName": "CTCP Dịch vụ Du lịch Mỹ Trà",
+    "TradeCenter": "Upcom",
+    "Price": 9.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "MTG",
+    "CompanyName": "Công ty Cổ phần MT Gas",
+    "TradeCenter": "Upcom",
+    "Price": 3.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "MTH",
+    "CompanyName": "Công ty Cổ phần Môi trường Đô thị Hà Đông",
+    "TradeCenter": "Upcom",
+    "Price": 31.8,
+    "PE": 20.83,
+    "EPS": 1.53
+  },
+  {
+    "Symbol": "MTL",
+    "CompanyName": "CTCP Dịch vụ Môi trường Đô thị Từ Liêm",
+    "TradeCenter": "Upcom",
+    "Price": 4.5,
+    "PE": 92.4,
+    "EPS": 0.05
+  },
+  {
+    "Symbol": "MTM",
+    "CompanyName": "CTCP Mỏ và Xuất nhập khẩu Khoáng sản Miền Trung",
+    "TradeCenter": "Upcom",
+    "Price": 2.6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "MTP",
+    "CompanyName": "Công ty Cổ phần Dược Medipharco",
+    "TradeCenter": "Upcom",
+    "Price": 10.7,
+    "PE": 18.51,
+    "EPS": 0.58
+  },
+  {
+    "Symbol": "MTS",
+    "CompanyName": "Công ty cổ phần Vật tư - TKV",
+    "TradeCenter": "Upcom",
+    "Price": 12.4,
+    "PE": 9.31,
+    "EPS": 1.33
+  },
+  {
+    "Symbol": "MTV",
+    "CompanyName": "Công ty Cổ phần Dịch vụ Môi trường và Công trình Đô thị Vũng Tàu",
+    "TradeCenter": "Upcom",
+    "Price": 17,
+    "PE": 11.19,
+    "EPS": 1.52
+  },
+  {
+    "Symbol": "MVC",
+    "CompanyName": "Công ty Cổ phần Vật liệu và Xây dựng Bình Dương",
+    "TradeCenter": "Upcom",
+    "Price": 7.7,
+    "PE": 9.22,
+    "EPS": 0.83
+  },
+  {
+    "Symbol": "MVN",
+    "CompanyName": "Tổng Công ty Hàng hải Việt Nam - CTCP",
+    "TradeCenter": "Upcom",
+    "Price": 17.9,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "MVY",
+    "CompanyName": "Công ty Cổ phần Môi trường và Dịch vụ Đô thị Vĩnh Yên",
+    "TradeCenter": "Upcom",
+    "Price": 23.2,
+    "PE": 46.45,
+    "EPS": 0.5
+  },
+  {
+    "Symbol": "MXC",
+    "CompanyName": "Trung tâm Nông nghiệp Mùa Xuân",
+    "TradeCenter": "Upcom",
+    "Price": 20.3,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "NAB",
+    "CompanyName": "Ngân hàng TMCP Nam Á",
+    "TradeCenter": "Upcom",
+    "Price": 19.6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "NAC",
+    "CompanyName": "Công ty Cổ phần Tư vấn Xây dựng Tổng hợp",
+    "TradeCenter": "Upcom",
+    "Price": 2.9,
+    "PE": 2.16,
+    "EPS": 1.35
+  },
+  {
+    "Symbol": "NAS",
+    "CompanyName": "Công ty Cổ phần Dịch vụ Hàng không Sân bay Nội Bài",
+    "TradeCenter": "Upcom",
+    "Price": 30,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "NAU",
+    "CompanyName": "Công ty cổ phần Môi trường và Công trình đô thị Nghệ An",
+    "TradeCenter": "Upcom",
+    "Price": 9.6,
+    "PE": 58.68,
+    "EPS": 0.16
+  },
+  {
+    "Symbol": "NAW",
+    "CompanyName": "Công ty Cổ phần Cấp nước Nghệ An",
+    "TradeCenter": "Upcom",
+    "Price": 10.6,
+    "PE": 361.77,
+    "EPS": 0.03
+  },
+  {
+    "Symbol": "NBE",
+    "CompanyName": "Công ty Cổ phần Sách và Thiết bị Giáo dục Miền Bắc",
+    "TradeCenter": "Upcom",
+    "Price": 10.9,
+    "PE": 5.31,
+    "EPS": 2.05
+  },
+  {
+    "Symbol": "NBR",
+    "CompanyName": "CTCP Đường sắt Nghĩa Bình",
+    "TradeCenter": "Upcom",
+    "Price": 9,
+    "PE": 4.09,
+    "EPS": 2.2
+  },
+  {
+    "Symbol": "NBS",
+    "CompanyName": "Công ty Cổ phần Bến xe Nghệ An",
+    "TradeCenter": "Upcom",
+    "Price": 40,
+    "PE": 4.4,
+    "EPS": 9.1
+  },
+  {
+    "Symbol": "NBT",
+    "CompanyName": "CTCP Cấp thoát nước Bến Tre",
+    "TradeCenter": "Upcom",
+    "Price": 12.9,
+    "PE": 5.32,
+    "EPS": 2.43
+  },
+  {
+    "Symbol": "NCP",
+    "CompanyName": "Công ty Cổ phần Nhiệt điện Cẩm Phả - TKV",
+    "TradeCenter": "Upcom",
+    "Price": 6.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "NCS",
+    "CompanyName": "Công ty cổ phần Suất ăn Hàng không Nội Bài",
+    "TradeCenter": "Upcom",
+    "Price": 18.9,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "ND2",
+    "CompanyName": "Công ty Cổ phần Đầu tư Phát triển điện Miền Bắc 2",
+    "TradeCenter": "Upcom",
+    "Price": 28,
+    "PE": 17.48,
+    "EPS": 1.6
+  },
+  {
+    "Symbol": "NDC",
+    "CompanyName": "Công ty Cổ phần Nam Dược",
+    "TradeCenter": "Upcom",
+    "Price": 97,
+    "PE": 15.77,
+    "EPS": 6.15
+  },
+  {
+    "Symbol": "NDF",
+    "CompanyName": "CTCP Chế biến thực phẩm nông sản xuất khẩu Nam Định",
+    "TradeCenter": "Upcom",
+    "Price": 1.2,
+    "PE": 1.07,
+    "EPS": 1.12
+  },
+  {
+    "Symbol": "NDP",
+    "CompanyName": "Công ty Cổ phần Dược phẩm 2/9 ",
+    "TradeCenter": "Upcom",
+    "Price": 22.5,
+    "PE": 18.52,
+    "EPS": 1.22
+  },
+  {
+    "Symbol": "NDT",
+    "CompanyName": "Tổng Công ty cổ phần Dệt may Nam Định",
+    "TradeCenter": "Upcom",
+    "Price": 13.7,
+    "PE": 8.98,
+    "EPS": 1.53
+  },
+  {
+    "Symbol": "NDW",
+    "CompanyName": "CTCP Cấp nước Nam Định",
+    "TradeCenter": "Upcom",
+    "Price": 8.8,
+    "PE": 8.56,
+    "EPS": 1.03
+  },
+  {
+    "Symbol": "NED",
+    "CompanyName": "Công ty cổ phần Đầu tư và Phát triển Điện Tây Bắc",
+    "TradeCenter": "Upcom",
+    "Price": 7.7,
+    "PE": 6.24,
+    "EPS": 1.23
+  },
+  {
+    "Symbol": "NGC",
+    "CompanyName": "Công ty Cổ phần Chế biến Thủy sản Xuất khẩu Ngô Quyền ",
+    "TradeCenter": "Upcom",
+    "Price": 6.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "NHN",
+    "CompanyName": "Công ty cổ phần Phát triển đô thị Nam Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 30,
+    "PE": 2.42,
+    "EPS": 12.39
+  },
+  {
+    "Symbol": "NHP",
+    "CompanyName": "Công ty Cổ phần Sản xuất Xuất nhập khẩu NHP",
+    "TradeCenter": "Upcom",
+    "Price": 1.3,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "NHT",
+    "CompanyName": "Công ty Cổ phần Sản xuất và Thương mại Nam Hoa",
+    "TradeCenter": "Upcom",
+    "Price": 35,
+    "PE": 18.86,
+    "EPS": 1.86
+  },
+  {
+    "Symbol": "NHV",
+    "CompanyName": "Công ty cổ phần Đầu tư NHV",
+    "TradeCenter": "Upcom",
+    "Price": 20,
+    "PE": 11.07,
+    "EPS": 1.81
+  },
+  {
+    "Symbol": "NJC",
+    "CompanyName": "Công ty cổ phần May Nam Định",
+    "TradeCenter": "Upcom",
+    "Price": 13.8,
+    "PE": 3.7,
+    "EPS": 3.73
+  },
+  {
+    "Symbol": "NLS",
+    "CompanyName": "Công ty cổ phần Cấp thoát Nước Lạng Sơn",
+    "TradeCenter": "Upcom",
+    "Price": 5.2,
+    "PE": 4.05,
+    "EPS": 1.28
+  },
+  {
+    "Symbol": "NMK",
+    "CompanyName": "Công ty cổ phần Xây dựng Công trình 510",
+    "TradeCenter": "Upcom",
+    "Price": 7.9,
+    "PE": 9.01,
+    "EPS": 0.88
+  },
+  {
+    "Symbol": "NNB",
+    "CompanyName": "CTCP Cấp thoát nước Ninh Bình",
+    "TradeCenter": "Upcom",
+    "Price": 9.9,
+    "PE": 24.35,
+    "EPS": 0.41
+  },
+  {
+    "Symbol": "NNG",
+    "CompanyName": "Công ty Cổ phần Công nghiệp - Dịch vụ - Thương Mại Ngọc Nghĩa",
+    "TradeCenter": "Upcom",
+    "Price": 10.6,
+    "PE": 19.37,
+    "EPS": 0.55
+  },
+  {
+    "Symbol": "NNQ",
+    "CompanyName": "Trung tâm Giống Nông - Lâm nghiệp Quảng Nam",
+    "TradeCenter": "Upcom",
+    "Price": 7.3,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "NNT",
+    "CompanyName": "Công ty cổ phần Cấp nước Ninh Thuận",
+    "TradeCenter": "Upcom",
+    "Price": 28,
+    "PE": 12.81,
+    "EPS": 2.19
+  },
+  {
+    "Symbol": "NOS",
+    "CompanyName": "Công ty Cổ phần Vận tải biển và Thương mại Phương Đông",
+    "TradeCenter": "Upcom",
+    "Price": 1.1,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "NPH",
+    "CompanyName": "CTCP Khách sạn Bưu điện Nha Trang",
+    "TradeCenter": "Upcom",
+    "Price": 11.4,
+    "PE": 36.49,
+    "EPS": 0.31
+  },
+  {
+    "Symbol": "NPS",
+    "CompanyName": "Công ty Cổ phần May Phú Thịnh - Nhà Bè",
+    "TradeCenter": "Upcom",
+    "Price": 26.4,
+    "PE": 87.36,
+    "EPS": 0.3
+  },
+  {
+    "Symbol": "NQB",
+    "CompanyName": "Công ty cổ phần Cấp nước Quảng Bình",
+    "TradeCenter": "Upcom",
+    "Price": 16.8,
+    "PE": 62.55,
+    "EPS": 0.27
+  },
+  {
+    "Symbol": "NQN",
+    "CompanyName": "Công ty Cổ phần Nước sạch Quảng Ninh",
+    "TradeCenter": "Upcom",
+    "Price": 17,
+    "PE": 35.48,
+    "EPS": 0.48
+  },
+  {
+    "Symbol": "NQT",
+    "CompanyName": "Công ty Cổ phần Nước sạch Quảng Trị",
+    "TradeCenter": "Upcom",
+    "Price": 9,
+    "PE": 10.06,
+    "EPS": 0.89
+  },
+  {
+    "Symbol": "NS2",
+    "CompanyName": "Công ty Cổ phần Nước sạch số 2 Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 9,
+    "PE": 32.11,
+    "EPS": 0.28
+  },
+  {
+    "Symbol": "NS3",
+    "CompanyName": "CTCP Sản xuất Kinh doanh Nước sạch số 3 Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 20.6,
+    "PE": 56.89,
+    "EPS": 0.36
+  },
+  {
+    "Symbol": "NSG",
+    "CompanyName": "CTCP Nhựa Sài Gòn",
+    "TradeCenter": "Upcom",
+    "Price": 11,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "NSL",
+    "CompanyName": "Công ty cổ phần Cấp nước Sơn La",
+    "TradeCenter": "Upcom",
+    "Price": 6,
+    "PE": 8.68,
+    "EPS": 0.69
+  },
+  {
+    "Symbol": "NSP",
+    "CompanyName": "Công ty Cổ phần Nhựa Sam Phú",
+    "TradeCenter": "Upcom",
+    "Price": 3.2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "NSS",
+    "CompanyName": "Công ty cổ phần Nông Súc Sản Đồng Nai",
+    "TradeCenter": "Upcom",
+    "Price": 4,
+    "PE": 0.3,
+    "EPS": 13.33
+  },
+  {
+    "Symbol": "NTB",
+    "CompanyName": "Công ty cổ phần Đầu tư Xây dựng và Khai thác Công trình Giao thông 584",
+    "TradeCenter": "Upcom",
+    "Price": 0.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "NTC",
+    "CompanyName": "Công ty Cổ phần Khu Công nghiệp Nam Tân Uyên",
+    "TradeCenter": "Upcom",
+    "Price": 192.7,
+    "PE": 20.38,
+    "EPS": 9.46
+  },
+  {
+    "Symbol": "NTF",
+    "CompanyName": "CTCP Dược - Vật tư Y tế Nghệ An",
+    "TradeCenter": "Upcom",
+    "Price": 40.7,
+    "PE": 99.34,
+    "EPS": 0.41
+  },
+  {
+    "Symbol": "NTR",
+    "CompanyName": "Công ty Cổ Phần Đường sắt Nghệ Tĩnh",
+    "TradeCenter": "Upcom",
+    "Price": 3.6,
+    "PE": 1.47,
+    "EPS": 2.45
+  },
+  {
+    "Symbol": "NTT",
+    "CompanyName": "Công ty Cổ phần Dệt - May Nha Trang",
+    "TradeCenter": "Upcom",
+    "Price": 5.1,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "NTW",
+    "CompanyName": "Công ty cổ phần Cấp nước Nhơn Trạch",
+    "TradeCenter": "Upcom",
+    "Price": 19.4,
+    "PE": 35.98,
+    "EPS": 0.54
+  },
+  {
+    "Symbol": "NUE",
+    "CompanyName": "Công ty Cổ phần Môi trường Đô thị Nha Trang",
+    "TradeCenter": "Upcom",
+    "Price": 10.5,
+    "PE": 10.41,
+    "EPS": 1.01
+  },
+  {
+    "Symbol": "NVP",
+    "CompanyName": "Công ty Cổ phần Nước sạch Vĩnh Phúc",
+    "TradeCenter": "Upcom",
+    "Price": 6.1,
+    "PE": 32.24,
+    "EPS": 0.19
+  },
+  {
+    "Symbol": "NWT",
+    "CompanyName": "CTCP Vận tải Newway",
+    "TradeCenter": "Upcom",
+    "Price": 2.2,
+    "PE": 14.84,
+    "EPS": 0.15
+  },
+  {
+    "Symbol": "OIL",
+    "CompanyName": "Tổng Công ty Dầu Việt Nam - CTCP",
+    "TradeCenter": "Upcom",
+    "Price": 12.6,
+    "PE": 777.78,
+    "EPS": 0.02
+  },
+  {
+    "Symbol": "OLC",
+    "CompanyName": "Công ty cổ phần Xây dựng, Dịch vụ và Hợp tác lao động",
+    "TradeCenter": "Upcom",
+    "Price": 0,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "ONW",
+    "CompanyName": "Công ty Cổ phần Dịch vụ Một Thế giới",
+    "TradeCenter": "Upcom",
+    "Price": 7.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "ORS",
+    "CompanyName": "Công ty Cổ phần Chứng khoán Tiên Phong",
+    "TradeCenter": "Upcom",
+    "Price": 23.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PAI",
+    "CompanyName": "CTCP Công nghệ thông tin, viễn thông và tự động hóa Dầu khí",
+    "TradeCenter": "Upcom",
+    "Price": 9.1,
+    "PE": 11.37,
+    "EPS": 0.8
+  },
+  {
+    "Symbol": "PAP",
+    "CompanyName": "CTCP Dầu khí đầu tư khai thác Cảng Phước An",
+    "TradeCenter": "Upcom",
+    "Price": 13.9,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PAS",
+    "CompanyName": "Công ty cổ phần Quốc tế Phương Anh",
+    "TradeCenter": "Upcom",
+    "Price": 14.2,
+    "PE": 52.07,
+    "EPS": 0.27
+  },
+  {
+    "Symbol": "PBC",
+    "CompanyName": "CTCP Dược phẩm Trung ương I - Pharbaco",
+    "TradeCenter": "Upcom",
+    "Price": 16.2,
+    "PE": 71.37,
+    "EPS": 0.23
+  },
+  {
+    "Symbol": "PBK",
+    "CompanyName": "Công ty cổ phần Điện lực Dầu khí Bắc Kạn ",
+    "TradeCenter": "Upcom",
+    "Price": 10.9,
+    "PE": 52.56,
+    "EPS": 0.21
+  },
+  {
+    "Symbol": "PBT",
+    "CompanyName": "Công ty cổ phần Nhà và Thương mại Dầu khí",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 9.88,
+    "EPS": 1.01
+  },
+  {
+    "Symbol": "PCC",
+    "CompanyName": "Công ty Cổ phần Tập đoàn Xây lắp 1 - Petrolimex",
+    "TradeCenter": "Upcom",
+    "Price": 15.1,
+    "PE": 10.48,
+    "EPS": 1.44
+  },
+  {
+    "Symbol": "PCF",
+    "CompanyName": "Công ty cổ phần Cà Phê Petec",
+    "TradeCenter": "Upcom",
+    "Price": 6.3,
+    "PE": 138.46,
+    "EPS": 0.05
+  },
+  {
+    "Symbol": "PCM",
+    "CompanyName": "Công ty Cổ phần Vật liệu Xây dựng Bưu điện",
+    "TradeCenter": "Upcom",
+    "Price": 11.3,
+    "PE": 339.34,
+    "EPS": 0.03
+  },
+  {
+    "Symbol": "PCN",
+    "CompanyName": "Công ty cổ phần Hóa phẩm dầu khí DMC - miền Bắc",
+    "TradeCenter": "Upcom",
+    "Price": 3.6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PDT",
+    "CompanyName": "Công ty TNHH MTV Thương mại Dầu khí Đồng Tháp",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": -7.9,
+    "EPS": -1.27
+  },
+  {
+    "Symbol": "PDV",
+    "CompanyName": "Công ty cổ phần Vận tải dầu Phương Đông Việt",
+    "TradeCenter": "Upcom",
+    "Price": 6.9,
+    "PE": 57.64,
+    "EPS": 0.12
+  },
+  {
+    "Symbol": "PEC",
+    "CompanyName": "Công ty Cổ phần Cơ khí Điện lực",
+    "TradeCenter": "Upcom",
+    "Price": 6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PEG",
+    "CompanyName": "Tổng Công ty Thương mại Kỹ thuật và Đầu tư - CTCP",
+    "TradeCenter": "Upcom",
+    "Price": 6.1,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PEQ",
+    "CompanyName": "Công ty cổ phần Thiết bị Xăng dầu Petrolimex",
+    "TradeCenter": "Upcom",
+    "Price": 40,
+    "PE": 30.3,
+    "EPS": 1.32
+  },
+  {
+    "Symbol": "PFL",
+    "CompanyName": "Công ty cổ phần Dầu khí Đông Đô",
+    "TradeCenter": "Upcom",
+    "Price": 2.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PFV",
+    "CompanyName": "Công ty Cổ phần Đầu tư và Thương mại PFV",
+    "TradeCenter": "Upcom",
+    "Price": 35,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PGB",
+    "CompanyName": "Ngân hàng TMCP Xăng dầu Petrolimex",
+    "TradeCenter": "Upcom",
+    "Price": 20.2,
+    "PE": 25.79,
+    "EPS": 0.78
+  },
+  {
+    "Symbol": "PGV",
+    "CompanyName": "Tổng Công ty Phát điện 3 - Công ty cổ phần",
+    "TradeCenter": "Upcom",
+    "Price": 18.4,
+    "PE": 6.31,
+    "EPS": 2.92
+  },
+  {
+    "Symbol": "PHH",
+    "CompanyName": "Công ty Cổ phần Hồng Hà Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 12.5,
+    "PE": 10.13,
+    "EPS": 1.23
+  },
+  {
+    "Symbol": "PHS",
+    "CompanyName": "Công ty Cổ phần Chứng khoán Phú Hưng",
+    "TradeCenter": "Upcom",
+    "Price": 12.9,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PID",
+    "CompanyName": "Công ty Cổ phần Trang trí Nội thất Dầu khí",
+    "TradeCenter": "Upcom",
+    "Price": 1.4,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PIS",
+    "CompanyName": "Tổng Công ty Pisico Bình Định - CTCP ",
+    "TradeCenter": "Upcom",
+    "Price": 14.8,
+    "PE": 15.74,
+    "EPS": 0.94
+  },
+  {
+    "Symbol": "PIV",
+    "CompanyName": "Công ty Cổ phần PIV",
+    "TradeCenter": "Upcom",
+    "Price": 1.2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PJS",
+    "CompanyName": "Công ty cổ phần Cấp nước Phú Hòa Tân",
+    "TradeCenter": "Upcom",
+    "Price": 25.1,
+    "PE": 26.76,
+    "EPS": 0.94
+  },
+  {
+    "Symbol": "PKR",
+    "CompanyName": "Công ty Cổ phần Đường sắt Phú Khánh",
+    "TradeCenter": "Upcom",
+    "Price": 9.3,
+    "PE": 3.93,
+    "EPS": 2.36
+  },
+  {
+    "Symbol": "PLA",
+    "CompanyName": "Công ty cổ phần Đầu tư Dịch vụ Hạ tầng Xăng Dầu",
+    "TradeCenter": "Upcom",
+    "Price": 5.2,
+    "PE": 71.23,
+    "EPS": 0.07
+  },
+  {
+    "Symbol": "PLE",
+    "CompanyName": "CTCP Tư vấn Xây dựng Petrolimex",
+    "TradeCenter": "Upcom",
+    "Price": 26.1,
+    "PE": 14.45,
+    "EPS": 1.81
+  },
+  {
+    "Symbol": "PLO",
+    "CompanyName": "Công ty Cổ phần Kho Vận Petec ",
+    "TradeCenter": "Upcom",
+    "Price": 1.8,
+    "PE": 9.13,
+    "EPS": 0.2
+  },
+  {
+    "Symbol": "PMJ",
+    "CompanyName": "Công ty cổ phần Vật tư Bưu điện",
+    "TradeCenter": "Upcom",
+    "Price": 22,
+    "PE": 7.88,
+    "EPS": 2.79
+  },
+  {
+    "Symbol": "PMT",
+    "CompanyName": "Công ty cổ phần Viễn thông TELVINA Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 5.6,
+    "PE": 9.54,
+    "EPS": 0.59
+  },
+  {
+    "Symbol": "PMW",
+    "CompanyName": "Công ty cổ phần Cấp nước Phú Mỹ",
+    "TradeCenter": "Upcom",
+    "Price": 38.1,
+    "PE": 11.89,
+    "EPS": 3.2
+  },
+  {
+    "Symbol": "PND",
+    "CompanyName": "Công ty Cổ phần Xăng dầu Dầu khí Nam Định",
+    "TradeCenter": "Upcom",
+    "Price": 16.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PNG",
+    "CompanyName": "Công ty cổ phần Thương mại Phú Nhuận",
+    "TradeCenter": "Upcom",
+    "Price": 12,
+    "PE": 62.76,
+    "EPS": 0.19
+  },
+  {
+    "Symbol": "PNP",
+    "CompanyName": "Công ty cổ phần Tân Cảng - Phú Hữu",
+    "TradeCenter": "Upcom",
+    "Price": 24.7,
+    "PE": 7.72,
+    "EPS": 3.2
+  },
+  {
+    "Symbol": "PNT",
+    "CompanyName": "Công ty cổ phần Kỹ thuật Xây dựng Phú Nhuận",
+    "TradeCenter": "Upcom",
+    "Price": 8.5,
+    "PE": 175.62,
+    "EPS": 0.05
+  },
+  {
+    "Symbol": "POB",
+    "CompanyName": "Công ty Cổ phần Xăng dầu Dầu khí Thái Bình",
+    "TradeCenter": "Upcom",
+    "Price": 17.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "POS",
+    "CompanyName": "Công ty Cổ phần Dịch vụ Lắp đặt, Vận hành và Bảo dưỡng Công trình Dầu khí biển PTSC",
+    "TradeCenter": "Upcom",
+    "Price": 13.2,
+    "PE": 4.88,
+    "EPS": 2.7
+  },
+  {
+    "Symbol": "POV",
+    "CompanyName": "Công ty Cổ phần Xăng dầu Dầu khí Vũng Áng",
+    "TradeCenter": "Upcom",
+    "Price": 7.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PPG",
+    "CompanyName": "Công ty cổ phần Sản xuất Thương mại Dịch vụ Phú Phong",
+    "TradeCenter": "Upcom",
+    "Price": 1.1,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PPH",
+    "CompanyName": "Tổng Công ty Cổ phần Phong Phú",
+    "TradeCenter": "Upcom",
+    "Price": 27.3,
+    "PE": 4.71,
+    "EPS": 5.8
+  },
+  {
+    "Symbol": "PPI",
+    "CompanyName": "Công ty Cổ phần Đầu tư và Phát triển Dự án Hạ tầng Thái Bình Dương",
+    "TradeCenter": "Upcom",
+    "Price": 0.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PQN",
+    "CompanyName": "CTCP Dịch vụ Dầu khí Quảng Ngãi PTSC",
+    "TradeCenter": "Upcom",
+    "Price": 4,
+    "PE": 4.92,
+    "EPS": 0.81
+  },
+  {
+    "Symbol": "PRO",
+    "CompanyName": "Công ty Cổ phần Procimex Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 4.6,
+    "PE": 22.15,
+    "EPS": 0.21
+  },
+  {
+    "Symbol": "PRT",
+    "CompanyName": "Tổng công ty Sản xuất - Xuất nhập khẩu Bình Dương - TNHH MTV",
+    "TradeCenter": "Upcom",
+    "Price": 14.7,
+    "PE": 5.75,
+    "EPS": 2.56
+  },
+  {
+    "Symbol": "PSB",
+    "CompanyName": "Công ty cổ phần Đầu tư Dầu khí Sao Mai – Bến Đình",
+    "TradeCenter": "Upcom",
+    "Price": 6.4,
+    "PE": 118.96,
+    "EPS": 0.05
+  },
+  {
+    "Symbol": "PSG",
+    "CompanyName": "Công ty Cổ phần Đầu tư và Xây lắp Dầu khí Sài Gòn  ",
+    "TradeCenter": "Upcom",
+    "Price": 0.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PSL",
+    "CompanyName": "Công ty Cổ phần Chăn nuôi Phú Sơn",
+    "TradeCenter": "Upcom",
+    "Price": 20.2,
+    "PE": 4.13,
+    "EPS": 4.89
+  },
+  {
+    "Symbol": "PSN",
+    "CompanyName": "Công ty Cổ phần Cảng dịch vụ Dầu khí Tổng hợp PTSC Thanh Hóa",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 8.59,
+    "EPS": 1.16
+  },
+  {
+    "Symbol": "PSP",
+    "CompanyName": "Công ty Cổ phần Cảng dịch vụ Dầu khí Đình Vũ",
+    "TradeCenter": "Upcom",
+    "Price": 7.3,
+    "PE": 14.99,
+    "EPS": 0.49
+  },
+  {
+    "Symbol": "PTE",
+    "CompanyName": "Công ty Cổ phần Xi măng Phú Thọ",
+    "TradeCenter": "Upcom",
+    "Price": 2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PTG",
+    "CompanyName": "Công ty Cổ phần May Xuất khẩu Phan Thiết",
+    "TradeCenter": "Upcom",
+    "Price": 0.1,
+    "PE": 0.02,
+    "EPS": 4.46
+  },
+  {
+    "Symbol": "PTH",
+    "CompanyName": "Công ty Cổ phần Vận tải và Dịch vụ Petrolimex Hà Tây",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 20.5,
+    "EPS": 0.49
+  },
+  {
+    "Symbol": "PTK",
+    "CompanyName": "Công ty Cổ phần Luyện kim Phú Thịnh",
+    "TradeCenter": "Upcom",
+    "Price": 1.7,
+    "PE": 51.05,
+    "EPS": 0.03
+  },
+  {
+    "Symbol": "PTM",
+    "CompanyName": "Công ty cổ phần Sản xuất, Thương mại và Dịch vụ ôtô PTM",
+    "TradeCenter": "Upcom",
+    "Price": 3.5,
+    "PE": 3.8,
+    "EPS": 0.92
+  },
+  {
+    "Symbol": "PTO",
+    "CompanyName": "Công ty Cổ phần Dịch vụ - Xây dựng Công trình Bưu điện",
+    "TradeCenter": "Upcom",
+    "Price": 2.3,
+    "PE": 2.52,
+    "EPS": 0.91
+  },
+  {
+    "Symbol": "PTP",
+    "CompanyName": "Công ty Cổ phần Dịch vụ Viễn thông và In Bưu điện",
+    "TradeCenter": "Upcom",
+    "Price": 11.1,
+    "PE": 8.32,
+    "EPS": 1.33
+  },
+  {
+    "Symbol": "PTT",
+    "CompanyName": "Công ty Cổ phần Vận tải Dầu khí Đông Dương",
+    "TradeCenter": "Upcom",
+    "Price": 5.8,
+    "PE": 69.13,
+    "EPS": 0.08
+  },
+  {
+    "Symbol": "PTV",
+    "CompanyName": "Công ty cổ phần Thương mại Dầu khí",
+    "TradeCenter": "Upcom",
+    "Price": 5,
+    "PE": 105.93,
+    "EPS": 0.05
+  },
+  {
+    "Symbol": "PTX",
+    "CompanyName": "Công ty cổ phần Vận tải và Dịch vụ Petrolimex Nghệ Tĩnh",
+    "TradeCenter": "Upcom",
+    "Price": 0.2,
+    "PE": 0.36,
+    "EPS": 0.56
+  },
+  {
+    "Symbol": "PVA",
+    "CompanyName": "Công ty Cổ phần Tổng Công ty Xây lắp Dầu khí Nghệ An",
+    "TradeCenter": "Upcom",
+    "Price": 0.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PVE",
+    "CompanyName": "Tổng Công ty Tư vấn Thiết kế Dầu khí-CTCP",
+    "TradeCenter": "Upcom",
+    "Price": 2,
+    "PE": 113.64,
+    "EPS": 0.02
+  },
+  {
+    "Symbol": "PVH",
+    "CompanyName": "Công ty cổ phần Xây lắp dầu khí Thanh Hóa",
+    "TradeCenter": "Upcom",
+    "Price": 0.9,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PVM",
+    "CompanyName": "Công ty Cổ phần Máy - Thiết bị Dầu khí",
+    "TradeCenter": "Upcom",
+    "Price": 20,
+    "PE": 15.39,
+    "EPS": 1.3
+  },
+  {
+    "Symbol": "PVO",
+    "CompanyName": "CTCP Dầu nhờn PV Oil",
+    "TradeCenter": "Upcom",
+    "Price": 6.3,
+    "PE": 38.56,
+    "EPS": 0.16
+  },
+  {
+    "Symbol": "PVP",
+    "CompanyName": "Công ty Cổ phần Vận tải dầu khí Thái Bình Dương",
+    "TradeCenter": "Upcom",
+    "Price": 15,
+    "PE": 5.52,
+    "EPS": 2.72
+  },
+  {
+    "Symbol": "PVR",
+    "CompanyName": "Công ty Cổ phần đầu tư PVR Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 1.4,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PVV",
+    "CompanyName": "Công ty Cổ phần Vinaconex 39",
+    "TradeCenter": "Upcom",
+    "Price": 2.1,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PVX",
+    "CompanyName": "Tổng Công ty cổ phần Xây lắp Dầu khí Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 1.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PVY",
+    "CompanyName": "Công ty Cổ phần Chế tạo Giàn khoan Dầu khí",
+    "TradeCenter": "Upcom",
+    "Price": 2.6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PWA",
+    "CompanyName": "Công ty Cổ phần Bất động sản Dầu khí",
+    "TradeCenter": "Upcom",
+    "Price": 10.7,
+    "PE": 3.03,
+    "EPS": 3.53
+  },
+  {
+    "Symbol": "PWS",
+    "CompanyName": "Công ty Cổ phần Cấp thoát nước Phú Yên",
+    "TradeCenter": "Upcom",
+    "Price": 10.2,
+    "PE": 16.3,
+    "EPS": 0.63
+  },
+  {
+    "Symbol": "PX1",
+    "CompanyName": "Công ty cổ phần Xi măng Sông Lam 2",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": -17.36,
+    "EPS": -0.58
+  },
+  {
+    "Symbol": "PXA",
+    "CompanyName": "Công ty cổ phần Đầu tư & Thương mại Dầu khí Nghệ An",
+    "TradeCenter": "Upcom",
+    "Price": 1.8,
+    "PE": 0.6,
+    "EPS": 3.01
+  },
+  {
+    "Symbol": "PXC",
+    "CompanyName": "Công ty cổ phần Phát triển đô thị Dầu khí",
+    "TradeCenter": "Upcom",
+    "Price": 0.4,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PXL",
+    "CompanyName": "Tổng Công ty cổ phần Đầu tư và Phát triển KCN Dầu khí-Long Sơn",
+    "TradeCenter": "Upcom",
+    "Price": 8,
+    "PE": 152.96,
+    "EPS": 0.05
+  },
+  {
+    "Symbol": "PXM",
+    "CompanyName": "Công ty Cổ phần Xây lắp Dầu khí Miền Trung",
+    "TradeCenter": "Upcom",
+    "Price": 0.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PXT",
+    "CompanyName": "Công ty Cổ phần Xây lắp Đường ống Bể chứa Dầu khí",
+    "TradeCenter": "Upcom",
+    "Price": 2.2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PYU",
+    "CompanyName": "Công ty Cổ phần Môi trường và Công trình Đô thị Phúc Yên",
+    "TradeCenter": "Upcom",
+    "Price": 22.5,
+    "PE": 12.45,
+    "EPS": 1.81
+  },
+  {
+    "Symbol": "QBR",
+    "CompanyName": "Công ty Cổ Phần Đường sắt Quảng Bình",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 4.16,
+    "EPS": 2.41
+  },
+  {
+    "Symbol": "QCC",
+    "CompanyName": "CTCP Đầu tư Xây dựng và Phát triển Hạ tầng Viễn thông",
+    "TradeCenter": "Upcom",
+    "Price": 9,
+    "PE": 76.14,
+    "EPS": 0.12
+  },
+  {
+    "Symbol": "QHW",
+    "CompanyName": "CTCP Nước khoáng Quảng Ninh",
+    "TradeCenter": "Upcom",
+    "Price": 17.5,
+    "PE": 10.72,
+    "EPS": 1.63
+  },
+  {
+    "Symbol": "QLD",
+    "CompanyName": "Công ty Cổ phần Quản lý và Xây dựng giao thông Lạng Sơn",
+    "TradeCenter": "Upcom",
+    "Price": 4.7,
+    "PE": 14.17,
+    "EPS": 0.33
+  },
+  {
+    "Symbol": "QLT",
+    "CompanyName": "Công ty Cổ phần Quản lý Bảo trì Đường thủy nội địa số 10",
+    "TradeCenter": "Upcom",
+    "Price": 28.6,
+    "PE": 6.53,
+    "EPS": 4.38
+  },
+  {
+    "Symbol": "QNC",
+    "CompanyName": "Công ty Cổ phần Xi măng và Xây dựng Quảng Ninh",
+    "TradeCenter": "Upcom",
+    "Price": 6.7,
+    "PE": 11.95,
+    "EPS": 0.56
+  },
+  {
+    "Symbol": "QNS",
+    "CompanyName": "Công ty Cổ phần Đường Quảng Ngãi",
+    "TradeCenter": "Upcom",
+    "Price": 43,
+    "PE": 27.82,
+    "EPS": 1.55
+  },
+  {
+    "Symbol": "QNT",
+    "CompanyName": "Công ty cổ phần Tư vấn và Đầu tư Phát triển Quảng Nam",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "QNU",
+    "CompanyName": "Công ty Cổ phần Môi trường Đô thị Quảng Nam",
+    "TradeCenter": "Upcom",
+    "Price": 6.8,
+    "PE": 0.64,
+    "EPS": 10.55
+  },
+  {
+    "Symbol": "QNW",
+    "CompanyName": "CTCP Cấp thoát nước và Xây dựng Quảng Ngãi",
+    "TradeCenter": "Upcom",
+    "Price": 8.6,
+    "PE": 12.08,
+    "EPS": 0.71
+  },
+  {
+    "Symbol": "QPH",
+    "CompanyName": "Công ty Cổ phần Thủy điện Quế Phong",
+    "TradeCenter": "Upcom",
+    "Price": 23.6,
+    "PE": 6,
+    "EPS": 3.93
+  },
+  {
+    "Symbol": "QSP",
+    "CompanyName": "Công ty cổ phần Tân Cảng Quy Nhơn",
+    "TradeCenter": "Upcom",
+    "Price": 19.2,
+    "PE": 7.65,
+    "EPS": 2.51
+  },
+  {
+    "Symbol": "QTP",
+    "CompanyName": "Công ty Cổ phần Nhiệt điện Quảng Ninh",
+    "TradeCenter": "Upcom",
+    "Price": 14.7,
+    "PE": 7.5,
+    "EPS": 1.96
+  },
+  {
+    "Symbol": "RAT",
+    "CompanyName": "CTCP Vận tải và Thương mại Đường sắt",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 105.37,
+    "EPS": 0.09
+  },
+  {
+    "Symbol": "RBC",
+    "CompanyName": "CTCP Công nghiệp và Xuất nhập khẩu Cao Su",
+    "TradeCenter": "Upcom",
+    "Price": 14.6,
+    "PE": 58.66,
+    "EPS": 0.25
+  },
+  {
+    "Symbol": "RCC",
+    "CompanyName": "Công ty Cổ phần Tổng công ty Công trình đường sắt",
+    "TradeCenter": "Upcom",
+    "Price": 19.6,
+    "PE": 5.45,
+    "EPS": 3.6
+  },
+  {
+    "Symbol": "RCD",
+    "CompanyName": "Công ty cổ phần Xây dựng - Địa ốc Cao su",
+    "TradeCenter": "Upcom",
+    "Price": 4,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "REM",
+    "CompanyName": "Công ty cổ phần Tu bổ di tích Trung ương - Vinaremon",
+    "TradeCenter": "Upcom",
+    "Price": 1.6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "RGC",
+    "CompanyName": "Công ty cổ phần Đầu tư PV - Inconess",
+    "TradeCenter": "Upcom",
+    "Price": 12,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "RHN",
+    "CompanyName": "Công ty Cổ phần Đường sắt Hà Ninh",
+    "TradeCenter": "Upcom",
+    "Price": 9.2,
+    "PE": 92.74,
+    "EPS": 0.1
+  },
+  {
+    "Symbol": "RLC",
+    "CompanyName": "Công ty Cổ phần Đường bộ Lào Cai",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 121.65,
+    "EPS": 0.08
+  },
+  {
+    "Symbol": "RTB",
+    "CompanyName": "Công ty cổ phần Cao su Tân Biên",
+    "TradeCenter": "Upcom",
+    "Price": 13.8,
+    "PE": 6.63,
+    "EPS": 2.08
+  },
+  {
+    "Symbol": "RTH",
+    "CompanyName": "Công ty Cổ phần Đường sắt Thanh Hóa",
+    "TradeCenter": "Upcom",
+    "Price": 4.7,
+    "PE": 3.12,
+    "EPS": 1.51
+  },
+  {
+    "Symbol": "RTS",
+    "CompanyName": "CTCP Thông tin tín hiệu Đường sắt Đà Nẵng",
+    "TradeCenter": "Upcom",
+    "Price": 19.9,
+    "PE": 4.32,
+    "EPS": 4.61
+  },
+  {
+    "Symbol": "S12",
+    "CompanyName": "Công ty Cổ phần Sông Đà 12",
+    "TradeCenter": "Upcom",
+    "Price": 0.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "S27",
+    "CompanyName": "Công ty cổ phần Sông Đà 27",
+    "TradeCenter": "Upcom",
+    "Price": 1.6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "S33",
+    "CompanyName": "Công ty cổ phần Mía đường 333",
+    "TradeCenter": "Upcom",
+    "Price": 25.5,
+    "PE": 6.82,
+    "EPS": 3.74
+  },
+  {
+    "Symbol": "S72",
+    "CompanyName": "Công ty Cổ phần Sông Đà 7.02",
+    "TradeCenter": "Upcom",
+    "Price": 4.4,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "S74",
+    "CompanyName": "Công ty Cổ phần Sông Đà 7.04",
+    "TradeCenter": "Upcom",
+    "Price": 6.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "S96",
+    "CompanyName": "Công ty Cổ phần Sông Đà 9.06",
+    "TradeCenter": "Upcom",
+    "Price": 0.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SAC",
+    "CompanyName": "Công ty Cổ phần Xếp dỡ và Dịch vụ Cảng Sài Gòn",
+    "TradeCenter": "Upcom",
+    "Price": 9.9,
+    "PE": 73.55,
+    "EPS": 0.13
+  },
+  {
+    "Symbol": "SAL",
+    "CompanyName": "Công ty Cổ phần Trục vớt cứu hộ Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 8.2,
+    "PE": 14.72,
+    "EPS": 0.56
+  },
+  {
+    "Symbol": "SAP",
+    "CompanyName": "Công ty Cổ phần In Sách giáo khoa tại Tp.Hồ Chí Minh",
+    "TradeCenter": "Upcom",
+    "Price": 10.3,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SAS",
+    "CompanyName": "CTCP Dịch vụ Hàng không Sân bay Tân Sơn Nhất",
+    "TradeCenter": "Upcom",
+    "Price": 25.4,
+    "PE": 62.41,
+    "EPS": 0.41
+  },
+  {
+    "Symbol": "SB1",
+    "CompanyName": "Công ty cổ phần Bia Sài Gòn - Nghệ Tĩnh",
+    "TradeCenter": "Upcom",
+    "Price": 8,
+    "PE": 31.4,
+    "EPS": 0.25
+  },
+  {
+    "Symbol": "SBD",
+    "CompanyName": "Công ty Cổ phần Công nghệ Sao Bắc Đẩu",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 15.83,
+    "EPS": 0.63
+  },
+  {
+    "Symbol": "SBH",
+    "CompanyName": "Công ty cổ phần Thủy điện Sông Ba Hạ",
+    "TradeCenter": "Upcom",
+    "Price": 42,
+    "PE": 12.06,
+    "EPS": 3.48
+  },
+  {
+    "Symbol": "SBL",
+    "CompanyName": "Công ty Cổ phần Bia Sài Gòn - Bạc Liêu",
+    "TradeCenter": "Upcom",
+    "Price": 10.6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SBM",
+    "CompanyName": "Công ty Cổ phần Đầu tư Phát triển Bắc Minh",
+    "TradeCenter": "Upcom",
+    "Price": 32.5,
+    "PE": 16.05,
+    "EPS": 2.02
+  },
+  {
+    "Symbol": "SBR",
+    "CompanyName": "CTCP Cao su Sông Bé",
+    "TradeCenter": "Upcom",
+    "Price": 8.6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SBS",
+    "CompanyName": "Công ty Cổ phần Chứng khoán Ngân hàng Sài Gòn Thương Tín",
+    "TradeCenter": "Upcom",
+    "Price": 12.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SCA",
+    "CompanyName": "CTCP Nông nghiệp Sông Con",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 273.97,
+    "EPS": 0.04
+  },
+  {
+    "Symbol": "SCC",
+    "CompanyName": "Công ty Cổ phần Đầu tư Thương mại Hưng Long tỉnh Hòa Bình",
+    "TradeCenter": "Upcom",
+    "Price": 3.4,
+    "PE": 7.97,
+    "EPS": 0.43
+  },
+  {
+    "Symbol": "SCG",
+    "CompanyName": "Công ty cổ phần Xây dựng SCG",
+    "TradeCenter": "Upcom",
+    "Price": 72.8,
+    "PE": 147.37,
+    "EPS": 0.49
+  },
+  {
+    "Symbol": "SCH",
+    "CompanyName": "CTCP Thủy điện Sông chảy 5",
+    "TradeCenter": "Upcom",
+    "Price": 12.7,
+    "PE": 6.36,
+    "EPS": 2
+  },
+  {
+    "Symbol": "SCJ",
+    "CompanyName": "Công ty Cổ phần Xi măng Sài Sơn",
+    "TradeCenter": "Upcom",
+    "Price": 3.9,
+    "PE": 53.94,
+    "EPS": 0.07
+  },
+  {
+    "Symbol": "SCL",
+    "CompanyName": "Công ty Cổ phần Sông Đà Cao Cường",
+    "TradeCenter": "Upcom",
+    "Price": 11.9,
+    "PE": 4.31,
+    "EPS": 2.76
+  },
+  {
+    "Symbol": "SCO",
+    "CompanyName": "Công ty Cổ phần Công nghiệp Thủy sản",
+    "TradeCenter": "Upcom",
+    "Price": 9,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SCV",
+    "CompanyName": "Công ty TNHH MTV Muối Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 23.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SCY",
+    "CompanyName": "Công ty Cổ phần Đóng tàu Sông Cấm",
+    "TradeCenter": "Upcom",
+    "Price": 13,
+    "PE": 35.31,
+    "EPS": 0.37
+  },
+  {
+    "Symbol": "SD1",
+    "CompanyName": "Công ty Cổ phần Sông Đà 1",
+    "TradeCenter": "Upcom",
+    "Price": 1,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SD3",
+    "CompanyName": "Công ty Cổ phần Sông Đà 3",
+    "TradeCenter": "Upcom",
+    "Price": 3.9,
+    "PE": 12.65,
+    "EPS": 0.31
+  },
+  {
+    "Symbol": "SD7",
+    "CompanyName": "Công ty Cổ phần Sông Đà 7",
+    "TradeCenter": "Upcom",
+    "Price": 3.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SD8",
+    "CompanyName": "Công ty Cổ phần Sông Đà 8",
+    "TradeCenter": "Upcom",
+    "Price": 1.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SDB",
+    "CompanyName": "Công ty Cổ phần Sông Đà 207",
+    "TradeCenter": "Upcom",
+    "Price": 1.3,
+    "PE": 10,
+    "EPS": 0.13
+  },
+  {
+    "Symbol": "SDD",
+    "CompanyName": "Công ty Cổ phần Đầu tư và Xây lắp Sông Đà",
+    "TradeCenter": "Upcom",
+    "Price": 2.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SDE",
+    "CompanyName": "Công ty cổ phần Kỹ thuật Điện Sông Đà",
+    "TradeCenter": "Upcom",
+    "Price": 1.1,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SDF",
+    "CompanyName": "Công ty Tài chính cổ phần Sông Đà",
+    "TradeCenter": "Upcom",
+    "Price": 6.4,
+    "PE": 48.45,
+    "EPS": 0.13
+  },
+  {
+    "Symbol": "SDH",
+    "CompanyName": "Công ty Cổ phần Xây dựng hạ tầng Sông Đà",
+    "TradeCenter": "Upcom",
+    "Price": 0.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SDI",
+    "CompanyName": "Công ty cổ phần Đầu tư và Phát triển Đô thị Sài Đồng",
+    "TradeCenter": "Upcom",
+    "Price": 115,
+    "PE": 6.3,
+    "EPS": 18.26
+  },
+  {
+    "Symbol": "SDJ",
+    "CompanyName": "Công ty Cổ phần Sông Đà 25",
+    "TradeCenter": "Upcom",
+    "Price": 3.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SDK",
+    "CompanyName": "Công ty Cổ phần Cơ khí Luyện kim",
+    "TradeCenter": "Upcom",
+    "Price": 28,
+    "PE": 6.79,
+    "EPS": 4.12
+  },
+  {
+    "Symbol": "SDP",
+    "CompanyName": "Công ty cổ phần SDP",
+    "TradeCenter": "Upcom",
+    "Price": 2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SDV",
+    "CompanyName": "Công ty Cổ phần Dịch vụ Sonadezi",
+    "TradeCenter": "Upcom",
+    "Price": 26.8,
+    "PE": 5.13,
+    "EPS": 5.23
+  },
+  {
+    "Symbol": "SDX",
+    "CompanyName": "CTCP Phòng cháy chữa cháy và Đầu tư Xây dựng Sông Đà",
+    "TradeCenter": "Upcom",
+    "Price": 1.9,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SDY",
+    "CompanyName": "Công ty Cổ phần Xi măng Sông Đà Yaly",
+    "TradeCenter": "Upcom",
+    "Price": 2.4,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SEA",
+    "CompanyName": "Tổng công ty Thủy sản Việt Nam – CTCP",
+    "TradeCenter": "Upcom",
+    "Price": 23.4,
+    "PE": 9.26,
+    "EPS": 2.53
+  },
+  {
+    "Symbol": "SEP",
+    "CompanyName": "Công ty Cổ phần Tổng Công ty Thương mại Quảng Trị",
+    "TradeCenter": "Upcom",
+    "Price": 13.2,
+    "PE": 6.95,
+    "EPS": 1.9
+  },
+  {
+    "Symbol": "SFT",
+    "CompanyName": "CÔNG TY CỔ PHẦN SOFTECH",
+    "TradeCenter": "Upcom",
+    "Price": 3,
+    "PE": 74.81,
+    "EPS": 0.04
+  },
+  {
+    "Symbol": "SGB",
+    "CompanyName": "Ngân hàng TMCP Sài Gòn Công thương",
+    "TradeCenter": "Upcom",
+    "Price": 17.2,
+    "PE": 35.17,
+    "EPS": 0.49
+  },
+  {
+    "Symbol": "SGO",
+    "CompanyName": "Công ty cổ phần Dầu thực vật Sài Gòn",
+    "TradeCenter": "Upcom",
+    "Price": 0.9,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SGP",
+    "CompanyName": "Công ty Cổ phần Cảng Sài Gòn",
+    "TradeCenter": "Upcom",
+    "Price": 29,
+    "PE": 38.52,
+    "EPS": 0.75
+  },
+  {
+    "Symbol": "SGS",
+    "CompanyName": "Công ty Cổ phần Vận tải biển Sài Gòn",
+    "TradeCenter": "Upcom",
+    "Price": 15.9,
+    "PE": 6.24,
+    "EPS": 2.55
+  },
+  {
+    "Symbol": "SHC",
+    "CompanyName": "Công ty Cổ phần Hàng Hải Sài Gòn",
+    "TradeCenter": "Upcom",
+    "Price": 11,
+    "PE": 5.42,
+    "EPS": 2.03
+  },
+  {
+    "Symbol": "SHG",
+    "CompanyName": "Tổng Công ty Cổ phần Sông Hồng",
+    "TradeCenter": "Upcom",
+    "Price": 2.1,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SHV",
+    "CompanyName": "Công ty Cổ phần Hải Việt",
+    "TradeCenter": "Upcom",
+    "Price": 12,
+    "PE": 2.86,
+    "EPS": 4.19
+  },
+  {
+    "Symbol": "SHX",
+    "CompanyName": "CTCP Sài Gòn Hỏa xa",
+    "TradeCenter": "Upcom",
+    "Price": 12,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SID",
+    "CompanyName": "Công ty Cổ phần Đầu tư Phát triển Sài Gòn Co.op",
+    "TradeCenter": "Upcom",
+    "Price": 14,
+    "PE": 19.4,
+    "EPS": 0.72
+  },
+  {
+    "Symbol": "SIG",
+    "CompanyName": "CTCP Đầu tư và Thương mại Sông Đà",
+    "TradeCenter": "Upcom",
+    "Price": 6.2,
+    "PE": 9.52,
+    "EPS": 0.65
+  },
+  {
+    "Symbol": "SIP",
+    "CompanyName": "CTCP Đầu tư Sài Gòn VRG",
+    "TradeCenter": "Upcom",
+    "Price": 178,
+    "PE": 8,
+    "EPS": 22.26
+  },
+  {
+    "Symbol": "SIV",
+    "CompanyName": "Công ty Cổ phần SIVICO",
+    "TradeCenter": "Upcom",
+    "Price": 43.9,
+    "PE": 5.04,
+    "EPS": 8.72
+  },
+  {
+    "Symbol": "SJC",
+    "CompanyName": "Công ty Cổ phần Sông Đà 1.01",
+    "TradeCenter": "Upcom",
+    "Price": 2.1,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SJG",
+    "CompanyName": "Tổng Công ty Sông Đà - Công ty cổ phần",
+    "TradeCenter": "Upcom",
+    "Price": 13,
+    "PE": 96.73,
+    "EPS": 0.13
+  },
+  {
+    "Symbol": "SJM",
+    "CompanyName": "Công ty Cổ phần Sông Đà 19",
+    "TradeCenter": "Upcom",
+    "Price": 3.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SKH",
+    "CompanyName": "CTCP Nước giải khát Sanest Khánh Hòa",
+    "TradeCenter": "Upcom",
+    "Price": 21.2,
+    "PE": 2.16,
+    "EPS": 9.82
+  },
+  {
+    "Symbol": "SKN",
+    "CompanyName": "CTCP Nước giải khát Sanna Khánh Hòa",
+    "TradeCenter": "Upcom",
+    "Price": 11.2,
+    "PE": 23.08,
+    "EPS": 0.49
+  },
+  {
+    "Symbol": "SKV",
+    "CompanyName": "Công ty Cổ phần Nước giải khát Yến sào Khánh Hòa",
+    "TradeCenter": "Upcom",
+    "Price": 22.8,
+    "PE": 4.64,
+    "EPS": 4.91
+  },
+  {
+    "Symbol": "SLC",
+    "CompanyName": "CTCP Dịch vụ xuất khẩu lao động và chuyên gia",
+    "TradeCenter": "Upcom",
+    "Price": 10.5,
+    "PE": 14.68,
+    "EPS": 0.72
+  },
+  {
+    "Symbol": "SNC",
+    "CompanyName": "Công ty Cổ phần Xuất nhập khẩu Thuỷ sản Năm Căn",
+    "TradeCenter": "Upcom",
+    "Price": 16.9,
+    "PE": 41.65,
+    "EPS": 0.41
+  },
+  {
+    "Symbol": "SNZ",
+    "CompanyName": "Tổng Công ty Cổ phần phát triển khu Công nghiệp",
+    "TradeCenter": "Upcom",
+    "Price": 27.5,
+    "PE": 27.43,
+    "EPS": 1
+  },
+  {
+    "Symbol": "SON",
+    "CompanyName": "Công ty Cổ phần Cung ứng nhân lực Quốc tế và Thương mại",
+    "TradeCenter": "Upcom",
+    "Price": 3.2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SOV",
+    "CompanyName": "Công ty cổ phần Mắt kính Sài Gòn",
+    "TradeCenter": "Upcom",
+    "Price": 26.1,
+    "PE": 542.62,
+    "EPS": 0.05
+  },
+  {
+    "Symbol": "SP2",
+    "CompanyName": "CTCP Thủy điện Sử Pán 2",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 6.75,
+    "EPS": 1.48
+  },
+  {
+    "Symbol": "SPA",
+    "CompanyName": "Công ty Cổ Phần Bao bì Sài Gòn",
+    "TradeCenter": "Upcom",
+    "Price": 15,
+    "PE": 7.37,
+    "EPS": 2.04
+  },
+  {
+    "Symbol": "SPB",
+    "CompanyName": "Công ty cổ phần Sợi Phú Bài",
+    "TradeCenter": "Upcom",
+    "Price": 19.5,
+    "PE": 38.9,
+    "EPS": 0.5
+  },
+  {
+    "Symbol": "SPC",
+    "CompanyName": "Công ty Cổ phần Bảo vệ Thực vật Sài Gòn",
+    "TradeCenter": "Upcom",
+    "Price": 11,
+    "PE": 3.18,
+    "EPS": 3.46
+  },
+  {
+    "Symbol": "SPD",
+    "CompanyName": "Công ty Cổ phần Xuất nhập khẩu Thủy sản Miền Trung",
+    "TradeCenter": "Upcom",
+    "Price": 8.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SPH",
+    "CompanyName": "Công ty cổ phần Xuất nhập khẩu Thủy sản Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 22.2,
+    "PE": 7.8,
+    "EPS": 2.85
+  },
+  {
+    "Symbol": "SPP",
+    "CompanyName": "Công ty cổ phần Bao bì Nhựa Sài Gòn",
+    "TradeCenter": "Upcom",
+    "Price": 0.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SPV",
+    "CompanyName": "Công ty cổ phần Thủy Đặc Sản",
+    "TradeCenter": "Upcom",
+    "Price": 12.2,
+    "PE": 15.44,
+    "EPS": 0.79
+  },
+  {
+    "Symbol": "SQC",
+    "CompanyName": "Công ty Cổ phần Khoáng sản Sài Gòn - Quy Nhơn",
+    "TradeCenter": "Upcom",
+    "Price": 82,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SRB",
+    "CompanyName": "Công ty Cổ phần Tập đoàn Sara",
+    "TradeCenter": "Upcom",
+    "Price": 2.8,
+    "PE": -22.91,
+    "EPS": -0.12
+  },
+  {
+    "Symbol": "SRT",
+    "CompanyName": "Công ty Cổ phần Vận tải Đường sắt Sài Gòn",
+    "TradeCenter": "Upcom",
+    "Price": 3.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SSF",
+    "CompanyName": "Công ty Cổ phần Giầy Sài Gòn",
+    "TradeCenter": "Upcom",
+    "Price": 2.7,
+    "PE": 68.01,
+    "EPS": 0.04
+  },
+  {
+    "Symbol": "SSG",
+    "CompanyName": "Công ty Cổ phần Vận tải biển Hải Âu",
+    "TradeCenter": "Upcom",
+    "Price": 6.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SSH",
+    "CompanyName": "CTCP Phát triển Sunshine Homes",
+    "TradeCenter": "Upcom",
+    "Price": 0,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SSN",
+    "CompanyName": "Công ty Cổ phần Xuất nhập khẩu Thủy sản Sài Gòn",
+    "TradeCenter": "Upcom",
+    "Price": 5.3,
+    "PE": 3117.65,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SST",
+    "CompanyName": "CTCP Thương mại Bia Sài Gòn Sông Tiền",
+    "TradeCenter": "Upcom",
+    "Price": 0,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SSU",
+    "CompanyName": "CTCP Môi trường Đô thị Sóc Sơn",
+    "TradeCenter": "Upcom",
+    "Price": 2.3,
+    "PE": 3.66,
+    "EPS": 0.63
+  },
+  {
+    "Symbol": "STD",
+    "CompanyName": "CTCP Bia - Nước giải khát Sài Gòn - Tây Đô",
+    "TradeCenter": "Upcom",
+    "Price": 0,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "STH",
+    "CompanyName": "CTCP Phát hành sách Thái Nguyên",
+    "TradeCenter": "Upcom",
+    "Price": 13.1,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "STL",
+    "CompanyName": "Công ty cổ phần Sông Đà - Thăng Long",
+    "TradeCenter": "Upcom",
+    "Price": 1.1,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "STS",
+    "CompanyName": "Công ty Cổ phần Dịch vụ Vận tải Sài Gòn",
+    "TradeCenter": "Upcom",
+    "Price": 34.5,
+    "PE": 6.93,
+    "EPS": 4.97
+  },
+  {
+    "Symbol": "STT",
+    "CompanyName": "Công ty cổ phần Vận chuyển Sài Gòn Tourist",
+    "TradeCenter": "Upcom",
+    "Price": 3,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "STU",
+    "CompanyName": "Công ty Cổ phần Môi trường và Công trình Đô thị Sơn Tây",
+    "TradeCenter": "Upcom",
+    "Price": 19.9,
+    "PE": 2.69,
+    "EPS": 7.4
+  },
+  {
+    "Symbol": "STV",
+    "CompanyName": "Công ty cổ phần Chế tác Đá Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 9.5,
+    "PE": 16.17,
+    "EPS": 0.59
+  },
+  {
+    "Symbol": "STW",
+    "CompanyName": "Công ty cổ phần Cấp nước Sóc Trăng",
+    "TradeCenter": "Upcom",
+    "Price": 1.5,
+    "PE": 1.2,
+    "EPS": 1.25
+  },
+  {
+    "Symbol": "SUM",
+    "CompanyName": "Công ty Cổ phần Đo đạc và Khoáng sản",
+    "TradeCenter": "Upcom",
+    "Price": 14,
+    "PE": 52.53,
+    "EPS": 0.27
+  },
+  {
+    "Symbol": "SVG",
+    "CompanyName": "CTCP Hơi Kỹ nghệ Que hàn",
+    "TradeCenter": "Upcom",
+    "Price": 15.5,
+    "PE": 156.72,
+    "EPS": 0.1
+  },
+  {
+    "Symbol": "SVH",
+    "CompanyName": "Công ty Cổ phần Thủy điện Sông Vàng",
+    "TradeCenter": "Upcom",
+    "Price": 6,
+    "PE": 5.27,
+    "EPS": 1.14
+  },
+  {
+    "Symbol": "SVL",
+    "CompanyName": "Công ty Cổ phần Nhân lực Quốc tế Sovilaco",
+    "TradeCenter": "Upcom",
+    "Price": 18.5,
+    "PE": 675.18,
+    "EPS": 0.03
+  },
+  {
+    "Symbol": "SWC",
+    "CompanyName": "Tổng Công ty Cổ phần Đường Sông Miền Nam",
+    "TradeCenter": "Upcom",
+    "Price": 29,
+    "PE": 9.89,
+    "EPS": 2.93
+  },
+  {
+    "Symbol": "SZE",
+    "CompanyName": "Công ty Cổ phần Môi trường Sonadezi",
+    "TradeCenter": "Upcom",
+    "Price": 13.5,
+    "PE": 9.93,
+    "EPS": 1.36
+  },
+  {
+    "Symbol": "T12",
+    "CompanyName": "Công ty Cổ phần Thương mại dịch vụ Tràng Thi",
+    "TradeCenter": "Upcom",
+    "Price": 69.2,
+    "PE": 647.33,
+    "EPS": 0.11
+  },
+  {
+    "Symbol": "TA3",
+    "CompanyName": "Công ty Cổ phần Đầu tư và Xây lắp Thành An 386",
+    "TradeCenter": "Upcom",
+    "Price": 8.3,
+    "PE": 13.58,
+    "EPS": 0.61
+  },
+  {
+    "Symbol": "TA6",
+    "CompanyName": "Công ty Cổ phần Đầu tư và Xây lắp Thành An 665",
+    "TradeCenter": "Upcom",
+    "Price": 6.9,
+    "PE": 6.16,
+    "EPS": 1.12
+  },
+  {
+    "Symbol": "TAG",
+    "CompanyName": "Công ty Cổ phần Thế giới số Trần Anh",
+    "TradeCenter": "Upcom",
+    "Price": 27,
+    "PE": 86.9,
+    "EPS": 0.31
+  },
+  {
+    "Symbol": "TAN",
+    "CompanyName": "Công ty TNHH Một thành viên Cà phê Thuận An",
+    "TradeCenter": "Upcom",
+    "Price": 55.1,
+    "PE": 1210.99,
+    "EPS": 0.05
+  },
+  {
+    "Symbol": "TAP",
+    "CompanyName": "Công ty cổ phần Đô thị Tân An",
+    "TradeCenter": "Upcom",
+    "Price": 13,
+    "PE": 7.87,
+    "EPS": 1.65
+  },
+  {
+    "Symbol": "TAW",
+    "CompanyName": "CTCP Cấp nước Trung An",
+    "TradeCenter": "Upcom",
+    "Price": 13.8,
+    "PE": 8.62,
+    "EPS": 1.6
+  },
+  {
+    "Symbol": "TB8",
+    "CompanyName": "CTCP Sản xuất và Kinh doanh Vật tư Thiết bị - VVMI",
+    "TradeCenter": "Upcom",
+    "Price": 7.5,
+    "PE": 2.8,
+    "EPS": 2.68
+  },
+  {
+    "Symbol": "TBD",
+    "CompanyName": "Tổng Công ty Thiết bị Điện Đông Anh - Công ty Cổ phần",
+    "TradeCenter": "Upcom",
+    "Price": 90,
+    "PE": 12.63,
+    "EPS": 7.12
+  },
+  {
+    "Symbol": "TBN",
+    "CompanyName": "Công ty Cổ phần Thoát nước và Xử lý Nước thải Bắc Ninh",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 10.29,
+    "EPS": 0.97
+  },
+  {
+    "Symbol": "TBR",
+    "CompanyName": "Công ty Cổ phần Địa ốc Tân Bình",
+    "TradeCenter": "Upcom",
+    "Price": 0,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "TBT",
+    "CompanyName": "Công ty Cổ phần Xây dựng Công trình Giao thông Bến Tre",
+    "TradeCenter": "Upcom",
+    "Price": 7.4,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "TCI",
+    "CompanyName": "Công ty cổ phần Chứng khoán Thành Công",
+    "TradeCenter": "Upcom",
+    "Price": 13.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "TCJ",
+    "CompanyName": "Công ty cổ phần Tô Châu",
+    "TradeCenter": "Upcom",
+    "Price": 4.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "TCK",
+    "CompanyName": "Tổng công ty cơ khí xây dựng - CTCP",
+    "TradeCenter": "Upcom",
+    "Price": 3.9,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "TCW",
+    "CompanyName": "Công ty cổ phần Kho vận Tân Cảng",
+    "TradeCenter": "Upcom",
+    "Price": 29.5,
+    "PE": 5.97,
+    "EPS": 4.94
+  },
+  {
+    "Symbol": "TDA",
+    "CompanyName": "Công ty Cổ phần Đầu tư, Xây lắp và Vật liệu Xây dựng Đông Anh",
+    "TradeCenter": "Upcom",
+    "Price": 0,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "TDB",
+    "CompanyName": "Công ty Cổ phần Thủy điện Định Bình",
+    "TradeCenter": "Upcom",
+    "Price": 35.2,
+    "PE": 10.45,
+    "EPS": 3.37
+  },
+  {
+    "Symbol": "TDF",
+    "CompanyName": "Công ty Cổ phần Trung Đô",
+    "TradeCenter": "Upcom",
+    "Price": 21,
+    "PE": 11.41,
+    "EPS": 1.84
+  },
+  {
+    "Symbol": "TDS",
+    "CompanyName": "Công ty cổ phần Thép Thủ Đức - Vnsteel",
+    "TradeCenter": "Upcom",
+    "Price": 17.5,
+    "PE": 6.21,
+    "EPS": 2.82
+  },
+  {
+    "Symbol": "TEC",
+    "CompanyName": "Công ty Cổ phần Traenco",
+    "TradeCenter": "Upcom",
+    "Price": 7,
+    "PE": 3.85,
+    "EPS": 1.82
+  },
+  {
+    "Symbol": "TEL",
+    "CompanyName": "Công ty Cổ phần Phát triển Công trình Viễn thông",
+    "TradeCenter": "Upcom",
+    "Price": 14,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "TGP",
+    "CompanyName": "Công ty Cổ phần Trường Phú",
+    "TradeCenter": "Upcom",
+    "Price": 3.9,
+    "PE": 57.18,
+    "EPS": 0.07
+  },
+  {
+    "Symbol": "TH1",
+    "CompanyName": "Công ty Cổ phần Xuất nhập khẩu Tổng hợp I Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 4,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "THN",
+    "CompanyName": "Công ty Cổ phần Cấp nước Thanh Hóa",
+    "TradeCenter": "Upcom",
+    "Price": 4.6,
+    "PE": 3.24,
+    "EPS": 1.42
+  },
+  {
+    "Symbol": "THP",
+    "CompanyName": "CTCP Thủy sản và Thương mại Thuận Phước",
+    "TradeCenter": "Upcom",
+    "Price": 11.2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "THR",
+    "CompanyName": "Công ty Cổ phần Đường sắt Thuận Hải",
+    "TradeCenter": "Upcom",
+    "Price": 41.7,
+    "PE": 21.23,
+    "EPS": 1.96
+  },
+  {
+    "Symbol": "THU",
+    "CompanyName": "Công ty Cổ phần Môi trường và Công trình Đô thị Thanh Hóa",
+    "TradeCenter": "Upcom",
+    "Price": 10.2,
+    "PE": 14.2,
+    "EPS": 0.72
+  },
+  {
+    "Symbol": "THW",
+    "CompanyName": "Công ty cổ phần Cấp nước Tân Hòa",
+    "TradeCenter": "Upcom",
+    "Price": 17.2,
+    "PE": 27.97,
+    "EPS": 0.61
+  },
+  {
+    "Symbol": "TID",
+    "CompanyName": "Công ty cổ phần Tổng công ty Tín Nghĩa",
+    "TradeCenter": "Upcom",
+    "Price": 29,
+    "PE": 44.21,
+    "EPS": 0.66
+  },
+  {
+    "Symbol": "TIE",
+    "CompanyName": "Công ty Cổ phần TIE",
+    "TradeCenter": "Upcom",
+    "Price": 4.4,
+    "PE": 8.19,
+    "EPS": 0.54
+  },
+  {
+    "Symbol": "TIS",
+    "CompanyName": "Công ty cổ phần Gang thép Thái Nguyên",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 76.34,
+    "EPS": 0.13
+  },
+  {
+    "Symbol": "TKA",
+    "CompanyName": "Công ty cổ phần Bao bì Tân Khánh An",
+    "TradeCenter": "Upcom",
+    "Price": 11.5,
+    "PE": 4.31,
+    "EPS": 2.67
+  },
+  {
+    "Symbol": "TKG",
+    "CompanyName": "CTCP Sản xuất và Thương mại Tùng Khánh",
+    "TradeCenter": "Upcom",
+    "Price": 13.2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "TL4",
+    "CompanyName": "Tổng công ty Xây dựng Thủy lợi 4 - CTCP",
+    "TradeCenter": "Upcom",
+    "Price": 8.8,
+    "PE": 30.28,
+    "EPS": 0.29
+  },
+  {
+    "Symbol": "TLI",
+    "CompanyName": "Công ty cổ phần May Quốc tế Thắng Lợi",
+    "TradeCenter": "Upcom",
+    "Price": 7.3,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "TLP",
+    "CompanyName": "Tổng Công ty Thương mại Xuất nhập khẩu Thanh Lễ - CTCP",
+    "TradeCenter": "Upcom",
+    "Price": 9.9,
+    "PE": 36.12,
+    "EPS": 0.27
+  },
+  {
+    "Symbol": "TLT",
+    "CompanyName": "Công ty Cổ phần Viglacera Thăng Long",
+    "TradeCenter": "Upcom",
+    "Price": 14.9,
+    "PE": 10.61,
+    "EPS": 1.4
+  },
+  {
+    "Symbol": "TMG",
+    "CompanyName": "Công ty Cổ phần Kim loại màu Thái Nguyên - Vimico",
+    "TradeCenter": "Upcom",
+    "Price": 44.9,
+    "PE": 10.83,
+    "EPS": 4.15
+  },
+  {
+    "Symbol": "TMW",
+    "CompanyName": "Công ty Cổ phần Tổng hợp Gỗ Tân Mai",
+    "TradeCenter": "Upcom",
+    "Price": 15.3,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "TNB",
+    "CompanyName": "Công ty Cổ phần Thép Nhà Bè - VNSTEEL",
+    "TradeCenter": "Upcom",
+    "Price": 18.7,
+    "PE": 10.6,
+    "EPS": 1.76
+  },
+  {
+    "Symbol": "TND",
+    "CompanyName": "CTCP Than Tây Nam Đá Mài - Vinacomin",
+    "TradeCenter": "Upcom",
+    "Price": 7.6,
+    "PE": 10.47,
+    "EPS": 0.73
+  },
+  {
+    "Symbol": "TNM",
+    "CompanyName": "Công ty Cổ phần Xuất nhập khẩu và Xây dựng Công trình",
+    "TradeCenter": "Upcom",
+    "Price": 2.9,
+    "PE": 1.33,
+    "EPS": 2.18
+  },
+  {
+    "Symbol": "TNP",
+    "CompanyName": "Công ty cổ phần Cảng Thị Nại",
+    "TradeCenter": "Upcom",
+    "Price": 8.9,
+    "PE": 6.87,
+    "EPS": 1.3
+  },
+  {
+    "Symbol": "TNS",
+    "CompanyName": "Công ty Cổ phần Thép Tấm lá Thống Nhất",
+    "TradeCenter": "Upcom",
+    "Price": 5.3,
+    "PE": 9.07,
+    "EPS": 0.58
+  },
+  {
+    "Symbol": "TNW",
+    "CompanyName": "Công ty Cổ phần Nước sạch Thái Nguyên",
+    "TradeCenter": "Upcom",
+    "Price": 9.6,
+    "PE": 17.16,
+    "EPS": 0.56
+  },
+  {
+    "Symbol": "TNY",
+    "CompanyName": "Công ty Cổ phần Đầu tư Xây dựng Thanh niên",
+    "TradeCenter": "Upcom",
+    "Price": 8,
+    "PE": 3.36,
+    "EPS": 2.38
+  },
+  {
+    "Symbol": "TOP",
+    "CompanyName": "CTCP Phân phối Top One",
+    "TradeCenter": "Upcom",
+    "Price": 1.2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "TOT",
+    "CompanyName": "Công ty Cổ phần Vận tải Transimex",
+    "TradeCenter": "Upcom",
+    "Price": 7.2,
+    "PE": 4.61,
+    "EPS": 1.56
+  },
+  {
+    "Symbol": "TOW",
+    "CompanyName": "Công ty cổ phần Cấp nước Trà Nóc - Ô Môn",
+    "TradeCenter": "Upcom",
+    "Price": 16.9,
+    "PE": 15.4,
+    "EPS": 1.1
+  },
+  {
+    "Symbol": "TPS",
+    "CompanyName": "Công ty cổ phần Bến bãi Vận tải Sài Gòn",
+    "TradeCenter": "Upcom",
+    "Price": 30,
+    "PE": 12.87,
+    "EPS": 2.33
+  },
+  {
+    "Symbol": "TQN",
+    "CompanyName": "Công ty Cổ phần Thông Quảng Ninh",
+    "TradeCenter": "Upcom",
+    "Price": 30.3,
+    "PE": 5.09,
+    "EPS": 5.95
+  },
+  {
+    "Symbol": "TQW",
+    "CompanyName": "CTCP Cấp thoát nước Tuyên Quang",
+    "TradeCenter": "Upcom",
+    "Price": 9.8,
+    "PE": 29.72,
+    "EPS": 0.33
+  },
+  {
+    "Symbol": "TR1",
+    "CompanyName": "CTCP Vận tải 1 Traco",
+    "TradeCenter": "Upcom",
+    "Price": 13.5,
+    "PE": 23.04,
+    "EPS": 0.59
+  },
+  {
+    "Symbol": "TRS",
+    "CompanyName": "Công ty cổ phần Vận tải và Dịch vụ Hàng hải ",
+    "TradeCenter": "Upcom",
+    "Price": 49.6,
+    "PE": 73.19,
+    "EPS": 0.68
+  },
+  {
+    "Symbol": "TRT",
+    "CompanyName": "Công ty Cổ phần RedstarCera",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 9.84,
+    "EPS": 1.02
+  },
+  {
+    "Symbol": "TS3",
+    "CompanyName": "Công ty cổ phần Trường Sơn 532",
+    "TradeCenter": "Upcom",
+    "Price": 9.8,
+    "PE": 3.91,
+    "EPS": 2.5
+  },
+  {
+    "Symbol": "TS5",
+    "CompanyName": "Công ty TNHH MTV 145",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 458.72,
+    "EPS": 0.02
+  },
+  {
+    "Symbol": "TSD",
+    "CompanyName": "Công ty Cổ phần Du lịch Trường Sơn COECCO",
+    "TradeCenter": "Upcom",
+    "Price": 5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "TSG",
+    "CompanyName": "Công ty Cổ phần Thông tin Tín hiệu Đường sắt Sài Gòn",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 5.06,
+    "EPS": 1.98
+  },
+  {
+    "Symbol": "TSJ",
+    "CompanyName": "Công ty Cổ phần Du lịch Dịch vụ Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 27,
+    "PE": 60.12,
+    "EPS": 0.45
+  },
+  {
+    "Symbol": "TTD",
+    "CompanyName": "Công ty Cổ phần Bệnh viện Tim Tâm Đức",
+    "TradeCenter": "Upcom",
+    "Price": 49,
+    "PE": 10.79,
+    "EPS": 4.54
+  },
+  {
+    "Symbol": "TTG",
+    "CompanyName": "Công ty Cổ phần May Thanh Trì",
+    "TradeCenter": "Upcom",
+    "Price": 3.9,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "TTJ",
+    "CompanyName": "Công ty Cổ phần Thủy Tạ",
+    "TradeCenter": "Upcom",
+    "Price": 27,
+    "PE": 102.35,
+    "EPS": 0.26
+  },
+  {
+    "Symbol": "TTN",
+    "CompanyName": "Công ty Cổ phần Công nghệ và Truyền thông Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 12.4,
+    "PE": 5.52,
+    "EPS": 2.25
+  },
+  {
+    "Symbol": "TTP",
+    "CompanyName": "Công ty Cổ phần Bao bì Nhựa Tân Tiến",
+    "TradeCenter": "Upcom",
+    "Price": 55,
+    "PE": 8.96,
+    "EPS": 6.14
+  },
+  {
+    "Symbol": "TTR",
+    "CompanyName": "Công ty Cổ phần Du lịch Thương mại và Đầu tư ",
+    "TradeCenter": "Upcom",
+    "Price": 46.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "TTS",
+    "CompanyName": "Công ty Cổ phần Cán thép Thái Trung",
+    "TradeCenter": "Upcom",
+    "Price": 9.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "TTV",
+    "CompanyName": "CTCP Thông tin Tín hiệu Đường sắt Vinh",
+    "TradeCenter": "Upcom",
+    "Price": 0.6,
+    "PE": 0.26,
+    "EPS": 2.32
+  },
+  {
+    "Symbol": "TUG",
+    "CompanyName": "Công ty Cổ phần Lai dắt và Vận tải Cảng Hải Phòng",
+    "TradeCenter": "Upcom",
+    "Price": 15.6,
+    "PE": 5.48,
+    "EPS": 2.85
+  },
+  {
+    "Symbol": "TV1",
+    "CompanyName": "Công ty cổ phần Tư vấn Xây dựng Điện 1",
+    "TradeCenter": "Upcom",
+    "Price": 7.3,
+    "PE": 93.35,
+    "EPS": 0.08
+  },
+  {
+    "Symbol": "TV6",
+    "CompanyName": "CTCP Thương mại Đầu tư Xây lắp điện Thịnh Vượng",
+    "TradeCenter": "Upcom",
+    "Price": 12.9,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "TVA",
+    "CompanyName": "Công ty Cổ phần Sứ Viglacera Thanh Trì",
+    "TradeCenter": "Upcom",
+    "Price": 11.1,
+    "PE": 12.71,
+    "EPS": 0.87
+  },
+  {
+    "Symbol": "TVG",
+    "CompanyName": "Công ty cổ phần Tư vấn Đầu tư và Xây dựng Giao thông Vận tải",
+    "TradeCenter": "Upcom",
+    "Price": 5,
+    "PE": 7.15,
+    "EPS": 0.7
+  },
+  {
+    "Symbol": "TVH",
+    "CompanyName": "Công ty cổ phần Tư vấn và Xây dựng công trình Hàng Hải",
+    "TradeCenter": "Upcom",
+    "Price": 33,
+    "PE": 5.77,
+    "EPS": 5.72
+  },
+  {
+    "Symbol": "TVM",
+    "CompanyName": "CTCP Tư vấn Đầu tư Mỏ và Công nghiệp - Vinacomin",
+    "TradeCenter": "Upcom",
+    "Price": 6.2,
+    "PE": 13.04,
+    "EPS": 0.48
+  },
+  {
+    "Symbol": "TVN",
+    "CompanyName": "Tổng Công ty Thép Việt Nam - CTCP",
+    "TradeCenter": "Upcom",
+    "Price": 12.5,
+    "PE": 10.8,
+    "EPS": 1.16
+  },
+  {
+    "Symbol": "TVP",
+    "CompanyName": "Công ty Cổ phần Dược phẩm TV.Pharm",
+    "TradeCenter": "Upcom",
+    "Price": 35.8,
+    "PE": 6.6,
+    "EPS": 5.42
+  },
+  {
+    "Symbol": "TVU",
+    "CompanyName": "Công ty cổ phần Công trình Đô thị Trà Vinh",
+    "TradeCenter": "Upcom",
+    "Price": 11.8,
+    "PE": 3.26,
+    "EPS": 3.62
+  },
+  {
+    "Symbol": "TVW",
+    "CompanyName": "Công ty Cổ phần Cấp thoát nước Trà Vinh",
+    "TradeCenter": "Upcom",
+    "Price": 6.3,
+    "PE": 5.22,
+    "EPS": 1.21
+  },
+  {
+    "Symbol": "TW3",
+    "CompanyName": "CTCP Dược Trung ương 3",
+    "TradeCenter": "Upcom",
+    "Price": 12,
+    "PE": 144.23,
+    "EPS": 0.08
+  },
+  {
+    "Symbol": "UCT",
+    "CompanyName": "Công ty Cổ phần Đô thị Cần Thơ",
+    "TradeCenter": "Upcom",
+    "Price": 3.6,
+    "PE": 135.34,
+    "EPS": 0.03
+  },
+  {
+    "Symbol": "UDJ",
+    "CompanyName": "Công ty Cổ phần Phát triển Đô thị",
+    "TradeCenter": "Upcom",
+    "Price": 12,
+    "PE": 15.28,
+    "EPS": 0.79
+  },
+  {
+    "Symbol": "UDL",
+    "CompanyName": "CTCP Đô thị và Môi trường Đắk Lắk",
+    "TradeCenter": "Upcom",
+    "Price": 15,
+    "PE": 11.41,
+    "EPS": 1.31
+  },
+  {
+    "Symbol": "UEM",
+    "CompanyName": "CTCP Cơ điện Uông Bí- Vinacomin",
+    "TradeCenter": "Upcom",
+    "Price": 33.1,
+    "PE": 38.61,
+    "EPS": 0.86
+  },
+  {
+    "Symbol": "UMC",
+    "CompanyName": "Công ty cổ phần Công trình đô thị Nam Định",
+    "TradeCenter": "Upcom",
+    "Price": 11.7,
+    "PE": 17.87,
+    "EPS": 0.65
+  },
+  {
+    "Symbol": "UPC",
+    "CompanyName": "Công ty Cổ phần Phát triển Công viên cây xanh và Đô thị Vũng Tàu ",
+    "TradeCenter": "Upcom",
+    "Price": 28,
+    "PE": 8.28,
+    "EPS": 3.38
+  },
+  {
+    "Symbol": "UPH",
+    "CompanyName": "CTCP Dược phẩm TW25",
+    "TradeCenter": "Upcom",
+    "Price": 14.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "USC",
+    "CompanyName": "Công ty Cổ phần Khảo sát và Xây dựng - USCO",
+    "TradeCenter": "Upcom",
+    "Price": 7,
+    "PE": 15.8,
+    "EPS": 0.44
+  },
+  {
+    "Symbol": "USD",
+    "CompanyName": "Công ty cổ phần Công trình Đô thị Sóc Trăng",
+    "TradeCenter": "Upcom",
+    "Price": 12.8,
+    "PE": 4.98,
+    "EPS": 2.57
+  },
+  {
+    "Symbol": "V11",
+    "CompanyName": "Công ty Cổ phần Xây dựng số 11",
+    "TradeCenter": "Upcom",
+    "Price": 0.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "V15",
+    "CompanyName": "Công ty Cổ phần Xây dựng Số 15",
+    "TradeCenter": "Upcom",
+    "Price": 0.6,
+    "PE": -0.15,
+    "EPS": -4.06
+  },
+  {
+    "Symbol": "VAB",
+    "CompanyName": "Ngân hàng Thương mại cổ phần Việt Á",
+    "TradeCenter": "Upcom",
+    "Price": 16.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VAV",
+    "CompanyName": "Công ty Cổ phần VIWACO",
+    "TradeCenter": "Upcom",
+    "Price": 56,
+    "PE": 15.18,
+    "EPS": 3.69
+  },
+  {
+    "Symbol": "VBB",
+    "CompanyName": "Ngân hàng Thương mại cổ phần Việt Nam Thương Tín",
+    "TradeCenter": "Upcom",
+    "Price": 16.8,
+    "PE": 34.94,
+    "EPS": 0.48
+  },
+  {
+    "Symbol": "VBG",
+    "CompanyName": "Công ty Cổ phần Địa chất Việt Bắc - TKV",
+    "TradeCenter": "Upcom",
+    "Price": 5.7,
+    "PE": 11.03,
+    "EPS": 0.52
+  },
+  {
+    "Symbol": "VBH",
+    "CompanyName": "Công ty Cổ phần Điện tử Bình Hòa",
+    "TradeCenter": "Upcom",
+    "Price": 11,
+    "PE": 26.2,
+    "EPS": 0.42
+  },
+  {
+    "Symbol": "VC5",
+    "CompanyName": "Công ty Cổ phần Xây dựng số 5",
+    "TradeCenter": "Upcom",
+    "Price": 1.6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VCE",
+    "CompanyName": "CTCP Xây lắp Môi trường - TKV",
+    "TradeCenter": "Upcom",
+    "Price": 8,
+    "PE": 1111.11,
+    "EPS": 0.01
+  },
+  {
+    "Symbol": "VCGPVF",
+    "CompanyName": "Forum One - VCG Partners Vietnam Fund",
+    "TradeCenter": "Upcom",
+    "Price": 0,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VCP",
+    "CompanyName": "Công ty cổ phần Đầu tư xây dựng và phát triển năng lượng Vinaconex",
+    "TradeCenter": "Upcom",
+    "Price": 33,
+    "PE": 35.96,
+    "EPS": 0.92
+  },
+  {
+    "Symbol": "VCR",
+    "CompanyName": "Công ty Cổ phần Đầu tư và Phát triển Du lịch Vinaconex",
+    "TradeCenter": "Upcom",
+    "Price": 22.2,
+    "PE": -406.59,
+    "EPS": -0.05
+  },
+  {
+    "Symbol": "VCT",
+    "CompanyName": "Công ty Cổ phần Tư vấn Xây dựng Vinaconex",
+    "TradeCenter": "Upcom",
+    "Price": 3.4,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VCW",
+    "CompanyName": "Công ty Cổ phần Đầu tư Nước sạch Sông Đà",
+    "TradeCenter": "Upcom",
+    "Price": 40,
+    "PE": 13.1,
+    "EPS": 3.05
+  },
+  {
+    "Symbol": "VCX",
+    "CompanyName": "Công ty Cổ phần Xi măng Yên Bình",
+    "TradeCenter": "Upcom",
+    "Price": 7.7,
+    "PE": 15.05,
+    "EPS": 0.51
+  },
+  {
+    "Symbol": "VDB",
+    "CompanyName": "Công ty cổ phần Vận tải và Chế biến Than Đông Bắc",
+    "TradeCenter": "Upcom",
+    "Price": 1.2,
+    "PE": 0.5,
+    "EPS": 2.41
+  },
+  {
+    "Symbol": "VDM",
+    "CompanyName": "CTCP - Viện nghiên cứu Dệt may",
+    "TradeCenter": "Upcom",
+    "Price": 10.8,
+    "PE": 21.38,
+    "EPS": 0.51
+  },
+  {
+    "Symbol": "VDN",
+    "CompanyName": "Công ty Cổ phần Vinatex Đà Nẵng",
+    "TradeCenter": "Upcom",
+    "Price": 17,
+    "PE": 39.74,
+    "EPS": 0.43
+  },
+  {
+    "Symbol": "VDT",
+    "CompanyName": "Công ty cổ phần Lưới thép Bình Tây",
+    "TradeCenter": "Upcom",
+    "Price": 21.5,
+    "PE": 9.79,
+    "EPS": 2.2
+  },
+  {
+    "Symbol": "VE9",
+    "CompanyName": "Công ty Cổ phần Đầu tư và Xây dựng VNECO 9",
+    "TradeCenter": "Upcom",
+    "Price": 2.3,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VEA",
+    "CompanyName": "Tổng Công ty Máy động lực và máy nông nghiệp Việt Nam - CTCP",
+    "TradeCenter": "Upcom",
+    "Price": 43.3,
+    "PE": 8.14,
+    "EPS": 5.32
+  },
+  {
+    "Symbol": "VEC",
+    "CompanyName": "Tổng Công ty cổ phần Điện tử và Tin học Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 11.4,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VECX",
+    "CompanyName": "Tổng Công ty Đầu tư phát triển đường cao tốc Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 0,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VEE",
+    "CompanyName": "Công ty Cổ phần Thiết bị điện Cẩm Phả",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VEF",
+    "CompanyName": "CTCP Trung tâm Hội chợ Triển lãm Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 125.2,
+    "PE": 108.23,
+    "EPS": 1.16
+  },
+  {
+    "Symbol": "VES",
+    "CompanyName": "Công ty Cổ phần Đầu tư và Xây dựng điện Mê Ca Vneco",
+    "TradeCenter": "Upcom",
+    "Price": 3.1,
+    "PE": 206.67,
+    "EPS": 0.02
+  },
+  {
+    "Symbol": "VET",
+    "CompanyName": "Công ty Cổ phần Thuốc thú y Trung ương Navetco",
+    "TradeCenter": "Upcom",
+    "Price": 78.9,
+    "PE": 93.68,
+    "EPS": 0.84
+  },
+  {
+    "Symbol": "VFC",
+    "CompanyName": "Công ty Cổ phần VINAFCO ",
+    "TradeCenter": "Upcom",
+    "Price": 14.6,
+    "PE": 58.07,
+    "EPS": 0.25
+  },
+  {
+    "Symbol": "VFR",
+    "CompanyName": "Công ty Cổ phần Vận tải và Thuê tàu",
+    "TradeCenter": "Upcom",
+    "Price": 5.3,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VFS",
+    "CompanyName": "Công ty Cổ phần Chứng khoán Nhất Việt",
+    "TradeCenter": "Upcom",
+    "Price": 8.2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VGG",
+    "CompanyName": "Tổng Công ty cổ phần May Việt Tiến",
+    "TradeCenter": "Upcom",
+    "Price": 48,
+    "PE": 22.86,
+    "EPS": 2.1
+  },
+  {
+    "Symbol": "VGI",
+    "CompanyName": "Tổng Công ty cổ phần Đầu tư Quốc tế Viettel",
+    "TradeCenter": "Upcom",
+    "Price": 30,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VGL",
+    "CompanyName": "CTCP Mạ kẽm công nghiệp Vingal - Vnsteel",
+    "TradeCenter": "Upcom",
+    "Price": 38,
+    "PE": 16.05,
+    "EPS": 2.37
+  },
+  {
+    "Symbol": "VGR",
+    "CompanyName": "Công ty Cổ phần Cảng Xanh VIP",
+    "TradeCenter": "Upcom",
+    "Price": 36.9,
+    "PE": 12.05,
+    "EPS": 3.06
+  },
+  {
+    "Symbol": "VGT",
+    "CompanyName": "Tập đoàn Dệt may Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 16.6,
+    "PE": 21.81,
+    "EPS": 0.76
+  },
+  {
+    "Symbol": "VGV",
+    "CompanyName": "Tổng Công ty Tư vấn Xây dựng Việt Nam - CTCP",
+    "TradeCenter": "Upcom",
+    "Price": 9.8,
+    "PE": 12.63,
+    "EPS": 0.78
+  },
+  {
+    "Symbol": "VHD",
+    "CompanyName": "Công ty Cổ phần Đầu tư phát triển Nhà và Đô thị Vinaconex",
+    "TradeCenter": "Upcom",
+    "Price": 10,
+    "PE": 130.38,
+    "EPS": 0.08
+  },
+  {
+    "Symbol": "VHF",
+    "CompanyName": "Công ty Cổ phần Xây dựng và Chế biến lương thực Vĩnh Hà",
+    "TradeCenter": "Upcom",
+    "Price": 12.8,
+    "PE": 35.89,
+    "EPS": 0.36
+  },
+  {
+    "Symbol": "VHG",
+    "CompanyName": "Công ty Cổ phần Đầu tư Cao Su Quảng Nam",
+    "TradeCenter": "Upcom",
+    "Price": 2.3,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VHH",
+    "CompanyName": "Công ty cổ phần Đầu tư Kinh doanh nhà Thành Đạt",
+    "TradeCenter": "Upcom",
+    "Price": 4.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VHI",
+    "CompanyName": "CTCP Kinh doanh và Đầu tư Việt Hà",
+    "TradeCenter": "Upcom",
+    "Price": 9.3,
+    "PE": 428.57,
+    "EPS": 0.02
+  },
+  {
+    "Symbol": "VIA",
+    "CompanyName": "Công ty Cổ phần VIAN",
+    "TradeCenter": "Upcom",
+    "Price": 8.9,
+    "PE": 4.48,
+    "EPS": 1.98
+  },
+  {
+    "Symbol": "VIH",
+    "CompanyName": "Công ty Cổ phần Viglacera Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 12,
+    "PE": 10.79,
+    "EPS": 1.11
+  },
+  {
+    "Symbol": "VIM",
+    "CompanyName": "Công ty Cổ phần Khoáng sản Viglacera",
+    "TradeCenter": "Upcom",
+    "Price": 28.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VIN",
+    "CompanyName": "CTCP Giao nhận Kho vận Ngoại thương Việt Nam ",
+    "TradeCenter": "Upcom",
+    "Price": 14,
+    "PE": 5.32,
+    "EPS": 2.63
+  },
+  {
+    "Symbol": "VIR",
+    "CompanyName": "Công ty cổ phần Du lịch Quốc tế Vũng Tàu",
+    "TradeCenter": "Upcom",
+    "Price": 9.4,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VIW",
+    "CompanyName": "Tổng Công ty Đầu tư Nước và Môi trường Việt Nam - CTCP",
+    "TradeCenter": "Upcom",
+    "Price": 11.4,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VKD",
+    "CompanyName": "Công ty Cổ phần Nước khoáng Khánh Hòa",
+    "TradeCenter": "Upcom",
+    "Price": 75,
+    "PE": 344.83,
+    "EPS": 0.22
+  },
+  {
+    "Symbol": "VKP",
+    "CompanyName": "Công ty Cổ phần Nhựa Tân Hóa",
+    "TradeCenter": "Upcom",
+    "Price": 0.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VLB",
+    "CompanyName": "CTCP Xây dựng và Sản xuất Vật liệu Xây dựng Biên Hòa",
+    "TradeCenter": "Upcom",
+    "Price": 44.8,
+    "PE": 99.31,
+    "EPS": 0.45
+  },
+  {
+    "Symbol": "VLC",
+    "CompanyName": "Tổng Công ty Chăn nuôi Việt Nam - CTCP",
+    "TradeCenter": "Upcom",
+    "Price": 27.9,
+    "PE": 9.2,
+    "EPS": 3.03
+  },
+  {
+    "Symbol": "VLF",
+    "CompanyName": "Công ty Cổ phần Lương thực Thực phẩm Vĩnh Long",
+    "TradeCenter": "Upcom",
+    "Price": 2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VLG",
+    "CompanyName": "CTCP Vinalines Logistics - Việt Nam ",
+    "TradeCenter": "Upcom",
+    "Price": 5.3,
+    "PE": 11.76,
+    "EPS": 0.45
+  },
+  {
+    "Symbol": "VLP",
+    "CompanyName": "Công ty Cổ phần Công trình công cộng Vĩnh Long",
+    "TradeCenter": "Upcom",
+    "Price": 0.8,
+    "PE": 0.25,
+    "EPS": 3.18
+  },
+  {
+    "Symbol": "VLW",
+    "CompanyName": "Công ty Cổ phần Cấp nước Vĩnh Long",
+    "TradeCenter": "Upcom",
+    "Price": 16.8,
+    "PE": 6.38,
+    "EPS": 2.63
+  },
+  {
+    "Symbol": "VMA",
+    "CompanyName": "Công ty cổ phần Công nghiệp Ô tô – Vinacomin",
+    "TradeCenter": "Upcom",
+    "Price": 7,
+    "PE": 4.31,
+    "EPS": 1.62
+  },
+  {
+    "Symbol": "VMG",
+    "CompanyName": "Công ty Cổ phần Thương mại và Dịch vụ Dầu khí Vũng Tàu",
+    "TradeCenter": "Upcom",
+    "Price": 6.8,
+    "PE": 407.19,
+    "EPS": 0.02
+  },
+  {
+    "Symbol": "VMI",
+    "CompanyName": "Công ty Cổ phần Khoáng sản và Đầu tư VISACO",
+    "TradeCenter": "Upcom",
+    "Price": 1,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VNA",
+    "CompanyName": "Công ty Cổ phần Vận tải Biển Vinaship",
+    "TradeCenter": "Upcom",
+    "Price": 19.7,
+    "PE": 87.4,
+    "EPS": 0.23
+  },
+  {
+    "Symbol": "VNB",
+    "CompanyName": "CTCP Sách Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 16.1,
+    "PE": 71.91,
+    "EPS": 0.22
+  },
+  {
+    "Symbol": "VNH",
+    "CompanyName": "Công ty Cổ phần Đầu tư Việt Việt Nhật",
+    "TradeCenter": "Upcom",
+    "Price": 4,
+    "PE": 58.48,
+    "EPS": 0.07
+  },
+  {
+    "Symbol": "VNI",
+    "CompanyName": "Công ty cổ phần Đầu tư Bất động sản Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 11.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VNN",
+    "CompanyName": "Công ty cổ phần Đầu tư và Thương mại VNN",
+    "TradeCenter": "Upcom",
+    "Price": 5.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VNP",
+    "CompanyName": "Công ty cổ phần Nhựa Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 13.4,
+    "PE": 5.55,
+    "EPS": 2.42
+  },
+  {
+    "Symbol": "VNX",
+    "CompanyName": "Công ty Cổ phần Quảng cáo và Hội chợ Thương mại",
+    "TradeCenter": "Upcom",
+    "Price": 64.3,
+    "PE": 49.37,
+    "EPS": 1.3
+  },
+  {
+    "Symbol": "VNY",
+    "CompanyName": "Công ty Cổ phần Thuốc Thú y Trung ương I ",
+    "TradeCenter": "Upcom",
+    "Price": 6.6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VOC",
+    "CompanyName": "Tổng Công ty Công nghiệp Dầu thực vật Việt Nam - CTCP",
+    "TradeCenter": "Upcom",
+    "Price": 26.8,
+    "PE": 13.45,
+    "EPS": 1.99
+  },
+  {
+    "Symbol": "VPA",
+    "CompanyName": "CTCP Vận tải Hóa dầu VP",
+    "TradeCenter": "Upcom",
+    "Price": 3.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VPC",
+    "CompanyName": "Công ty Cổ phần Đầu tư và Phát triển Năng lượng Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 2.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VPK",
+    "CompanyName": "Công ty Cổ phần Bao bì dầu thực vật",
+    "TradeCenter": "Upcom",
+    "Price": 4.4,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VPR",
+    "CompanyName": "CTCP In và Thương mại Vina",
+    "TradeCenter": "Upcom",
+    "Price": 17.5,
+    "PE": 21.89,
+    "EPS": 0.8
+  },
+  {
+    "Symbol": "VPW",
+    "CompanyName": "Công ty Cổ phần Cấp thoát nước số 1 Vĩnh Phúc",
+    "TradeCenter": "Upcom",
+    "Price": 10.7,
+    "PE": 23.53,
+    "EPS": 0.45
+  },
+  {
+    "Symbol": "VQC",
+    "CompanyName": "Công ty Cổ phần Giám định Vinacomin",
+    "TradeCenter": "Upcom",
+    "Price": 19.4,
+    "PE": 6.18,
+    "EPS": 3.14
+  },
+  {
+    "Symbol": "VRG",
+    "CompanyName": "CTCP Phát triển đô thị và Khu công nghiệp Cao su Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 25.4,
+    "PE": 48.86,
+    "EPS": 0.52
+  },
+  {
+    "Symbol": "VSE",
+    "CompanyName": "Công ty cổ phần Dịch vụ Đường cao tốc Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 6.5,
+    "PE": 12.06,
+    "EPS": 0.54
+  },
+  {
+    "Symbol": "VSF",
+    "CompanyName": "Tổng Công ty Lương thực Miền Nam - Công ty cổ phần",
+    "TradeCenter": "Upcom",
+    "Price": 5.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VSG",
+    "CompanyName": "Công ty Cổ phần Container Phía Nam",
+    "TradeCenter": "Upcom",
+    "Price": 2.2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VSN",
+    "CompanyName": "CTCP Việt Nam Kỹ nghệ Súc sản",
+    "TradeCenter": "Upcom",
+    "Price": 26.8,
+    "PE": 21.32,
+    "EPS": 1.26
+  },
+  {
+    "Symbol": "VSP",
+    "CompanyName": "Công ty cổ phần Vận tải biển và Bất động sản Việt Hải",
+    "TradeCenter": "Upcom",
+    "Price": 1.1,
+    "PE": -0.02,
+    "EPS": -63.55
+  },
+  {
+    "Symbol": "VST",
+    "CompanyName": "Công ty Cổ phần Vận tải và Thuê tàu biển Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 1.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VT1",
+    "CompanyName": "Công ty Cổ phần Vật tư Bến Thành",
+    "TradeCenter": "Upcom",
+    "Price": 29,
+    "PE": 99.83,
+    "EPS": 0.29
+  },
+  {
+    "Symbol": "VT8",
+    "CompanyName": "Công ty Cổ phần Dịch vụ Vận tải ô tô số 8",
+    "TradeCenter": "Upcom",
+    "Price": 25.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VTA",
+    "CompanyName": "Công ty Cổ phần Vitaly",
+    "TradeCenter": "Upcom",
+    "Price": 7.9,
+    "PE": 13.62,
+    "EPS": 0.58
+  },
+  {
+    "Symbol": "VTD",
+    "CompanyName": "Công ty cổ phần Du lịch Vietourist",
+    "TradeCenter": "Upcom",
+    "Price": 12.6,
+    "PE": 23.18,
+    "EPS": 0.54
+  },
+  {
+    "Symbol": "VTE",
+    "CompanyName": "Công ty cổ phần Viễn thông Điện tử Vinacap",
+    "TradeCenter": "Upcom",
+    "Price": 6.7,
+    "PE": 10.76,
+    "EPS": 0.62
+  },
+  {
+    "Symbol": "VTG",
+    "CompanyName": "Công ty cổ phần Du lịch tỉnh Bà Rịa - Vũng Tàu",
+    "TradeCenter": "Upcom",
+    "Price": 9.6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VTI",
+    "CompanyName": "Công ty Cổ phần Sản xuất – Xuất nhập khẩu Dệt May",
+    "TradeCenter": "Upcom",
+    "Price": 2.3,
+    "PE": 522.73,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VTK",
+    "CompanyName": "Công ty cổ phần Tư vấn Thiết kế Viettel",
+    "TradeCenter": "Upcom",
+    "Price": 33.7,
+    "PE": 8.11,
+    "EPS": 4.15
+  },
+  {
+    "Symbol": "VTM",
+    "CompanyName": "CTCP Vận tải và Đưa đón thợ mỏ - Vinacomin",
+    "TradeCenter": "Upcom",
+    "Price": 21.8,
+    "PE": 17.36,
+    "EPS": 1.26
+  },
+  {
+    "Symbol": "VTP",
+    "CompanyName": "Tổng Công ty cổ phần Bưu chính Viettel",
+    "TradeCenter": "Upcom",
+    "Price": 88.4,
+    "PE": 33.08,
+    "EPS": 2.67
+  },
+  {
+    "Symbol": "VTQ",
+    "CompanyName": "Công ty Cổ phần Việt Trung Quảng Bình",
+    "TradeCenter": "Upcom",
+    "Price": 32.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VTR",
+    "CompanyName": "CTCP Du lịch và Tiếp thị Giao thông Vận tải Việt Nam - Vietravel",
+    "TradeCenter": "Upcom",
+    "Price": 30.3,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VTS",
+    "CompanyName": "Công ty Cổ phần Viglacera Từ Sơn ",
+    "TradeCenter": "Upcom",
+    "Price": 7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VTX",
+    "CompanyName": "Công ty cổ phần Vận tải đa phương thức Vietranstimex",
+    "TradeCenter": "Upcom",
+    "Price": 14,
+    "PE": 13.98,
+    "EPS": 1
+  },
+  {
+    "Symbol": "VVN",
+    "CompanyName": "Tổng Công ty cổ phần Xây dựng công nghiệp Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 5.4,
+    "PE": 22.45,
+    "EPS": 0.24
+  },
+  {
+    "Symbol": "VW3",
+    "CompanyName": "Công ty cổ phần Viwaseen3",
+    "TradeCenter": "Upcom",
+    "Price": 7.6,
+    "PE": 4.38,
+    "EPS": 1.73
+  },
+  {
+    "Symbol": "VWS",
+    "CompanyName": "Công ty Cổ phần Nước và Môi trường Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 16.1,
+    "PE": 12.59,
+    "EPS": 1.28
+  },
+  {
+    "Symbol": "VXP",
+    "CompanyName": "CTCP Thuốc Thú y Trung ương VETVACO",
+    "TradeCenter": "Upcom",
+    "Price": 23.2,
+    "PE": 9.68,
+    "EPS": 2.4
+  },
+  {
+    "Symbol": "VXT",
+    "CompanyName": "CTCP Kho vận và Dịch vụ Thương mại",
+    "TradeCenter": "Upcom",
+    "Price": 12.8,
+    "PE": 7.9,
+    "EPS": 1.62
+  },
+  {
+    "Symbol": "WSB",
+    "CompanyName": "Công ty Cổ phần Bia Sài Gòn - Miền Tây",
+    "TradeCenter": "Upcom",
+    "Price": 50.9,
+    "PE": 5.19,
+    "EPS": 9.81
+  },
+  {
+    "Symbol": "WTC",
+    "CompanyName": "CTCP Vận tải thủy - Vinacomin",
+    "TradeCenter": "Upcom",
+    "Price": 20,
+    "PE": 2.14,
+    "EPS": 9.36
+  },
+  {
+    "Symbol": "WTN",
+    "CompanyName": "Công ty Cổ phần Cấp thoát nước Tây Ninh",
+    "TradeCenter": "Upcom",
+    "Price": 15,
+    "PE": 52.28,
+    "EPS": 0.29
+  },
+  {
+    "Symbol": "X18",
+    "CompanyName": "Công ty Cổ phần Xi măng X18",
+    "TradeCenter": "Upcom",
+    "Price": 3.9,
+    "PE": 0.25,
+    "EPS": 15.61
+  },
+  {
+    "Symbol": "X26",
+    "CompanyName": "Công ty cổ phần 26",
+    "TradeCenter": "Upcom",
+    "Price": 18.6,
+    "PE": 3.85,
+    "EPS": 4.84
+  },
+  {
+    "Symbol": "X77",
+    "CompanyName": "Công ty Cổ phần Thành An 77",
+    "TradeCenter": "Upcom",
+    "Price": 0.3,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "XDH",
+    "CompanyName": "Công ty cổ phần Đầu tư Xây dưng Dân dụng Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 9.2,
+    "PE": 1,
+    "EPS": 9.2
+  },
+  {
+    "Symbol": "XHC",
+    "CompanyName": "Công ty cổ phần Xuân Hòa Việt Nam",
+    "TradeCenter": "Upcom",
+    "Price": 24,
+    "PE": 35.3,
+    "EPS": 0.68
+  },
+  {
+    "Symbol": "XLV",
+    "CompanyName": "Công ty Cổ phần Xây lắp và Dịch vụ Sông Đà",
+    "TradeCenter": "Upcom",
+    "Price": 9.6,
+    "PE": 11.11,
+    "EPS": 0.86
+  },
+  {
+    "Symbol": "XMC",
+    "CompanyName": "Công ty cổ phần Đầu tư và Xây dựng Xuân Mai",
+    "TradeCenter": "Upcom",
+    "Price": 10.5,
+    "PE": 6.52,
+    "EPS": 1.61
+  },
+  {
+    "Symbol": "XMD",
+    "CompanyName": "Công ty cổ phần Xuân Mai - Đạo Tú ",
+    "TradeCenter": "Upcom",
+    "Price": 1.9,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "XPH",
+    "CompanyName": "Công ty Cổ phần Xà phòng Hà Nội",
+    "TradeCenter": "Upcom",
+    "Price": 9.1,
+    "PE": 2843.75,
+    "EPS": 0
+  },
+  {
+    "Symbol": "YBC",
+    "CompanyName": "Công ty Cổ phần Xi măng và Khoáng sản Yên Bái",
+    "TradeCenter": "Upcom",
+    "Price": 8.7,
+    "PE": 179.38,
+    "EPS": 0.05
+  },
+  {
+    "Symbol": "YRC",
+    "CompanyName": "CTCP Đường sắt Yên Lào",
+    "TradeCenter": "Upcom",
+    "Price": 6.3,
+    "PE": 5.83,
+    "EPS": 1.08
+  },
+  {
+    "Symbol": "YTC",
+    "CompanyName": "Công ty Cổ phần Xuất nhập khẩu Y tế Thành phố Hồ Chí Minh",
+    "TradeCenter": "Upcom",
+    "Price": 78.1,
+    "PE": 0,
+    "EPS": 0
+  }
+]

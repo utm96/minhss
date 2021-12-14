@@ -1,0 +1,4121 @@
+
+  {
+    "Symbol": "AAA",
+    "CompanyName": "Công ty Cổ phần Nhựa An Phát Xanh",
+    "TradeCenter": "HSX",
+    "Price": 16.15,
+    "PE": 21.58,
+    "EPS": 0.75
+  },
+  {
+    "Symbol": "AAM",
+    "CompanyName": "Công ty Cổ phần Thủy sản Mekong",
+    "TradeCenter": "HSX",
+    "Price": 10.9,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "AAT",
+    "CompanyName": "Công ty Cổ phần Tiên Sơn Thanh Hóa",
+    "TradeCenter": "HSX",
+    "Price": 17.6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "ABS",
+    "CompanyName": "Công ty cổ phần Dịch vụ Nông nghiệp Bình Thuận",
+    "TradeCenter": "HSX",
+    "Price": 20.4,
+    "PE": 28.5,
+    "EPS": 0.72
+  },
+  {
+    "Symbol": "ACB",
+    "CompanyName": "Ngân hàng Thương mại Cổ phần Á Châu",
+    "TradeCenter": "HSX",
+    "Price": 36.15,
+    "PE": 25.89,
+    "EPS": 1.4
+  },
+  {
+    "Symbol": "ACC",
+    "CompanyName": "Công ty Cổ phần Đầu tư và Xây dựng Bình Dương ACC",
+    "TradeCenter": "HSX",
+    "Price": 13.75,
+    "PE": 10.03,
+    "EPS": 1.37
+  },
+  {
+    "Symbol": "ACL",
+    "CompanyName": "Công ty cổ phần Xuất nhập khẩu Thủy sản Cửu Long An Giang",
+    "TradeCenter": "HSX",
+    "Price": 11.55,
+    "PE": 26.09,
+    "EPS": 0.44
+  },
+  {
+    "Symbol": "ADG",
+    "CompanyName": "Công ty cổ phần Clever Group",
+    "TradeCenter": "HSX",
+    "Price": 47.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "ADS",
+    "CompanyName": "Công ty cổ phần Damsan",
+    "TradeCenter": "HSX",
+    "Price": 29.9,
+    "PE": 13.61,
+    "EPS": 2.2
+  },
+  {
+    "Symbol": "AGD",
+    "CompanyName": "Công ty Cổ phần Gò Đàng",
+    "TradeCenter": "HSX",
+    "Price": 41.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "AGG",
+    "CompanyName": "Công ty Cổ phần Đầu tư và Phát triển Bất động sản An Gia",
+    "TradeCenter": "HSX",
+    "Price": 53.5,
+    "PE": 34.32,
+    "EPS": 1.56
+  },
+  {
+    "Symbol": "AGM",
+    "CompanyName": "Công ty cổ phần Xuất nhập khẩu An Giang",
+    "TradeCenter": "HSX",
+    "Price": 30.4,
+    "PE": 20.49,
+    "EPS": 1.48
+  },
+  {
+    "Symbol": "AGR",
+    "CompanyName": "Công ty Cổ phần Chứng khoán Agribank",
+    "TradeCenter": "HSX",
+    "Price": 13.3,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "AHP",
+    "CompanyName": "''",
+    "TradeCenter": "HSX",
+    "Price": 0,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "ALP",
+    "CompanyName": "Công ty Cổ phần Đầu tư Alphanam",
+    "TradeCenter": "HSX",
+    "Price": 3.4,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "AMD",
+    "CompanyName": "Công ty cổ phần Đầu tư và Khoáng sản FLC Stone",
+    "TradeCenter": "HSX",
+    "Price": 4.01,
+    "PE": 36.92,
+    "EPS": 0.11
+  },
+  {
+    "Symbol": "ANC11601",
+    "CompanyName": "Trái Phiếu Công ty Cổ phần Dinh dưỡng Nông nghiệp Quốc tế",
+    "TradeCenter": "HSX",
+    "Price": 0,
+    "PE": 0,
+    "EPS": 59.12
+  },
+  {
+    "Symbol": "ANV",
+    "CompanyName": "Công ty Cổ phần Nam Việt ",
+    "TradeCenter": "HSX",
+    "Price": 27.5,
+    "PE": 66.65,
+    "EPS": 0.41
+  },
+  {
+    "Symbol": "APC",
+    "CompanyName": "Công ty Cổ phần Chiếu xạ An Phú",
+    "TradeCenter": "HSX",
+    "Price": 20.4,
+    "PE": 41.54,
+    "EPS": 0.49
+  },
+  {
+    "Symbol": "APG",
+    "CompanyName": "Công ty Cổ phần Chứng khoán APG",
+    "TradeCenter": "HSX",
+    "Price": 9.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "APH",
+    "CompanyName": "Công ty Cổ phần Tập đoàn An Phát Holdings",
+    "TradeCenter": "HSX",
+    "Price": 45.75,
+    "PE": 230.83,
+    "EPS": 0.2
+  },
+  {
+    "Symbol": "ASIAGF",
+    "CompanyName": "Quỹ đầu tư tăng trưởng ACB",
+    "TradeCenter": "HSX",
+    "Price": 10.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "ASM",
+    "CompanyName": "Công ty Cổ phần Tập đoàn Sao Mai",
+    "TradeCenter": "HSX",
+    "Price": 12.7,
+    "PE": 23.45,
+    "EPS": 0.54
+  },
+  {
+    "Symbol": "ASP",
+    "CompanyName": "Công ty Cổ phần Tập đoàn Dầu khí An Pha",
+    "TradeCenter": "HSX",
+    "Price": 7.02,
+    "PE": 6.15,
+    "EPS": 1.14
+  },
+  {
+    "Symbol": "AST",
+    "CompanyName": "Công ty Cổ phần Dịch vụ Hàng không Taseco",
+    "TradeCenter": "HSX",
+    "Price": 48,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "BAS",
+    "CompanyName": "Công ty Cổ phần Basa",
+    "TradeCenter": "HSX",
+    "Price": 1.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "BCE",
+    "CompanyName": "Công ty Cổ phần Xây dựng và Giao thông Bình Dương",
+    "TradeCenter": "HSX",
+    "Price": 10.55,
+    "PE": 6.28,
+    "EPS": 1.68
+  },
+  {
+    "Symbol": "BCG",
+    "CompanyName": "Công ty cổ phần Bamboo Capital",
+    "TradeCenter": "HSX",
+    "Price": 12.3,
+    "PE": 16.47,
+    "EPS": 0.75
+  },
+  {
+    "Symbol": "BCI",
+    "CompanyName": "Công ty Cổ phần Đầu tư Xây dựng Bình Chánh",
+    "TradeCenter": "HSX",
+    "Price": 41.9,
+    "PE": 25.44,
+    "EPS": 1.65
+  },
+  {
+    "Symbol": "BCM",
+    "CompanyName": "Tổng Công ty Đầu tư và phát triển Công nghiệp - CTCP",
+    "TradeCenter": "HSX",
+    "Price": 41.8,
+    "PE": 35.44,
+    "EPS": 1.18
+  },
+  {
+    "Symbol": "BFC",
+    "CompanyName": "Công ty cổ phần Phân bón Bình Điền",
+    "TradeCenter": "HSX",
+    "Price": 28.15,
+    "PE": 8.62,
+    "EPS": 3.26
+  },
+  {
+    "Symbol": "BGM",
+    "CompanyName": "Công ty Cổ phần Khai thác và Chế biến Khoáng sản Bắc Giang",
+    "TradeCenter": "HSX",
+    "Price": 0.92,
+    "PE": 137.31,
+    "EPS": 0.01
+  },
+  {
+    "Symbol": "BHN",
+    "CompanyName": "Tổng CTCP Bia - Rượu - Nước giải khát Hà Nội",
+    "TradeCenter": "HSX",
+    "Price": 54.5,
+    "PE": 16.18,
+    "EPS": 3.37
+  },
+  {
+    "Symbol": "BHS",
+    "CompanyName": "Công ty Cổ phần Đường Biên Hòa",
+    "TradeCenter": "HSX",
+    "Price": 22,
+    "PE": 14.65,
+    "EPS": 1.5
+  },
+  {
+    "Symbol": "BIC",
+    "CompanyName": "Tổng Công ty Cổ phần Bảo hiểm Ngân hàng Đầu tư và phát triển Việt Nam",
+    "TradeCenter": "HSX",
+    "Price": 23.05,
+    "PE": 12.25,
+    "EPS": 1.88
+  },
+  {
+    "Symbol": "BID",
+    "CompanyName": "Ngân hàng Thương mại cổ phần Đầu tư và Phát triển Việt Nam",
+    "TradeCenter": "HSX",
+    "Price": 41.1,
+    "PE": 43.06,
+    "EPS": 0.95
+  },
+  {
+    "Symbol": "BKG",
+    "CompanyName": "Công ty Cổ phần Đầu tư BKG Việt Nam",
+    "TradeCenter": "HSX",
+    "Price": 10.15,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "BMC",
+    "CompanyName": "Công ty cổ phần Khoáng sản Bình Định",
+    "TradeCenter": "HSX",
+    "Price": 14.7,
+    "PE": 11.46,
+    "EPS": 1.28
+  },
+  {
+    "Symbol": "BMI",
+    "CompanyName": "Tổng Công ty Cổ phần Bảo Minh",
+    "TradeCenter": "HSX",
+    "Price": 40.2,
+    "PE": 20.88,
+    "EPS": 1.93
+  },
+  {
+    "Symbol": "BMP",
+    "CompanyName": "Công ty Cổ phần Nhựa Bình Minh ",
+    "TradeCenter": "HSX",
+    "Price": 56.2,
+    "PE": 13.16,
+    "EPS": 4.27
+  },
+  {
+    "Symbol": "BRC",
+    "CompanyName": "Công ty Cổ phần Cao su Bến Thành",
+    "TradeCenter": "HSX",
+    "Price": 12.8,
+    "PE": 6.9,
+    "EPS": 1.86
+  },
+  {
+    "Symbol": "BTP",
+    "CompanyName": "Công ty Cổ phần Nhiệt điện Bà Rịa",
+    "TradeCenter": "HSX",
+    "Price": 15.5,
+    "PE": 18.16,
+    "EPS": 0.85
+  },
+  {
+    "Symbol": "BTT",
+    "CompanyName": "Công ty Cổ phần Thương mại - Dịch vụ Bến Thành",
+    "TradeCenter": "HSX",
+    "Price": 53,
+    "PE": 75.21,
+    "EPS": 0.7
+  },
+  {
+    "Symbol": "BVH",
+    "CompanyName": "Tập đoàn Bảo Việt",
+    "TradeCenter": "HSX",
+    "Price": 51.1,
+    "PE": 104.65,
+    "EPS": 0.49
+  },
+  {
+    "Symbol": "BWE",
+    "CompanyName": "Công ty Cổ phần Nước – Môi trường Bình Dương",
+    "TradeCenter": "HSX",
+    "Price": 36.75,
+    "PE": 17.8,
+    "EPS": 2.06
+  },
+  {
+    "Symbol": "C32",
+    "CompanyName": "Công ty Cổ phần CIC39",
+    "TradeCenter": "HSX",
+    "Price": 22.6,
+    "PE": 10.53,
+    "EPS": 2.15
+  },
+  {
+    "Symbol": "C47",
+    "CompanyName": "Công ty Cổ phần Xây dựng 47",
+    "TradeCenter": "HSX",
+    "Price": 10.5,
+    "PE": 13.34,
+    "EPS": 0.79
+  },
+  {
+    "Symbol": "CCI",
+    "CompanyName": "Công ty Cổ phần Đầu tư Phát triển Công nghiệp - Thương mại Củ Chi",
+    "TradeCenter": "HSX",
+    "Price": 18,
+    "PE": 7.38,
+    "EPS": 2.44
+  },
+  {
+    "Symbol": "CCL",
+    "CompanyName": "Công ty cổ phần Đầu tư và Phát triển Đô thị Dầu khí Cửu Long",
+    "TradeCenter": "HSX",
+    "Price": 12,
+    "PE": 10.06,
+    "EPS": 1.19
+  },
+  {
+    "Symbol": "CDC",
+    "CompanyName": "Công ty Cổ phần Chương Dương  ",
+    "TradeCenter": "HSX",
+    "Price": 13.5,
+    "PE": 26.06,
+    "EPS": 0.52
+  },
+  {
+    "Symbol": "CEE",
+    "CompanyName": "Công ty Cổ phần Xây dựng Hạ tầng CII",
+    "TradeCenter": "HSX",
+    "Price": 12.3,
+    "PE": 25.48,
+    "EPS": 0.48
+  },
+  {
+    "Symbol": "CFPT2016",
+    "CompanyName": "Chứng quyền FPT/8M/SSI/C/EU/Cash-08",
+    "TradeCenter": "HSX",
+    "Price": 9.32,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CFPT2101",
+    "CompanyName": "Chứng quyền CFPT04MBS20CE",
+    "TradeCenter": "HSX",
+    "Price": 4.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CHP",
+    "CompanyName": "Công ty Cổ phần Thủy điện miền Trung",
+    "TradeCenter": "HSX",
+    "Price": 18,
+    "PE": 12.79,
+    "EPS": 1.41
+  },
+  {
+    "Symbol": "CHPG2020",
+    "CompanyName": "Chứng quyền.HPG.VND.M.CA.T.2020.02",
+    "TradeCenter": "HSX",
+    "Price": 43.99,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CHPG2101",
+    "CompanyName": "Chứng quyền.HPG.KIS.M.CA.T.10",
+    "TradeCenter": "HSX",
+    "Price": 7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CHPG2102",
+    "CompanyName": "Chứng quyền HPG/ACBS/Call/EU/Cash/6M/02",
+    "TradeCenter": "HSX",
+    "Price": 30.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CHPG2103",
+    "CompanyName": "Chứng quyền.HPG.VND.M.CA.T.2020.03",
+    "TradeCenter": "HSX",
+    "Price": 14.08,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CHPG2104",
+    "CompanyName": "Chứng quyền CHPG04MBS20CE",
+    "TradeCenter": "HSX",
+    "Price": 8.75,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CHPG2105",
+    "CompanyName": "Chứng quyền HPG-HSC-MET06",
+    "TradeCenter": "HSX",
+    "Price": 11.19,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CHPG2106",
+    "CompanyName": "Chứng quyền CHPG01MBS21CE",
+    "TradeCenter": "HSX",
+    "Price": 8.51,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CHPG2107",
+    "CompanyName": "Chứng quyền.HPG.KIS.M.CA.T.11",
+    "TradeCenter": "HSX",
+    "Price": 1.79,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CHPG2108",
+    "CompanyName": "Chứng quyền.HPG.KIS.M.CA.T.12",
+    "TradeCenter": "HSX",
+    "Price": 1.79,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CIG",
+    "CompanyName": "Công ty Cổ phần COMA18",
+    "TradeCenter": "HSX",
+    "Price": 7.19,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CII",
+    "CompanyName": "Công ty cổ phần Đầu tư Hạ tầng Kỹ thuật T.P Hồ Chí Minh",
+    "TradeCenter": "HSX",
+    "Price": 16.1,
+    "PE": 186.99,
+    "EPS": 0.09
+  },
+  {
+    "Symbol": "CII11709",
+    "CompanyName": "Trái phiếu Công ty Cổ phần Đầu tư Hạ tầng Kỹ thuật Thành phố Hồ Chí Minh",
+    "TradeCenter": "HSX",
+    "Price": 0,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CII41401",
+    "CompanyName": "Trái phiếu chuyển đổi Công ty cổ phần Đầu tư Hạ tầng Kỹ thuật Thành phố Hồ Chí Minh",
+    "TradeCenter": "HSX",
+    "Price": 0,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CKDH2002",
+    "CompanyName": "Chứng quyền.KDH.KIS.M.CA.T.03",
+    "TradeCenter": "HSX",
+    "Price": 4.4,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CKDH2101",
+    "CompanyName": "Chứng quyền.KDH.KIS.M.CA.T.04",
+    "TradeCenter": "HSX",
+    "Price": 2.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CKDH2102",
+    "CompanyName": "Chứng quyền CKDH01MBS21CE",
+    "TradeCenter": "HSX",
+    "Price": 6.4,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CKG",
+    "CompanyName": "CTCP Tập đoàn Tư vấn Đầu tư & Xây dựng Kiên Giang",
+    "TradeCenter": "HSX",
+    "Price": 17.2,
+    "PE": 11.93,
+    "EPS": 1.44
+  },
+  {
+    "Symbol": "CLC",
+    "CompanyName": "Công ty Cổ phần Cát Lợi ",
+    "TradeCenter": "HSX",
+    "Price": 33,
+    "PE": 6.53,
+    "EPS": 5.06
+  },
+  {
+    "Symbol": "CLL",
+    "CompanyName": "Công ty cổ phần Cảng Cát Lái",
+    "TradeCenter": "HSX",
+    "Price": 30.3,
+    "PE": 17.06,
+    "EPS": 1.78
+  },
+  {
+    "Symbol": "CLP",
+    "CompanyName": "Công ty Cổ phần Thủy Sản Cửu Long",
+    "TradeCenter": "HSX",
+    "Price": 3.4,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CLW",
+    "CompanyName": "Công ty Cổ phần Cấp nước Chợ Lớn",
+    "TradeCenter": "HSX",
+    "Price": 30,
+    "PE": 13.76,
+    "EPS": 2.18
+  },
+  {
+    "Symbol": "CMBB2010",
+    "CompanyName": "Chứng quyền MBB/8M/SSI/C/EU/Cash-08",
+    "TradeCenter": "HSX",
+    "Price": 21.96,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CMBB2101",
+    "CompanyName": "Chứng quyền.MBB.VND.M.CA.T.2020.03",
+    "TradeCenter": "HSX",
+    "Price": 8.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CMG",
+    "CompanyName": "Công ty Cổ phần Tập đoàn Công nghệ CMC",
+    "TradeCenter": "HSX",
+    "Price": 42.45,
+    "PE": 52.94,
+    "EPS": 0.8
+  },
+  {
+    "Symbol": "CMSN2101",
+    "CompanyName": "''",
+    "TradeCenter": "HSX",
+    "Price": 2.55,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CMSN2102",
+    "CompanyName": "Chứng quyền.MSN.KIS.M.CA.T.10",
+    "TradeCenter": "HSX",
+    "Price": 1.98,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CMSN2103",
+    "CompanyName": "Chứng quyền CMSN01MBS21CE",
+    "TradeCenter": "HSX",
+    "Price": 7.75,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CMV",
+    "CompanyName": "Công ty Cổ phần Thương nghiệp Cà Mau",
+    "TradeCenter": "HSX",
+    "Price": 14,
+    "PE": 16.09,
+    "EPS": 0.87
+  },
+  {
+    "Symbol": "CMWG2013",
+    "CompanyName": "Chứng quyền.MWG.VND.M.CA.T.2020.02",
+    "TradeCenter": "HSX",
+    "Price": 24.95,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CMWG2016",
+    "CompanyName": "Chứng quyền MWG-HSC-MET07",
+    "TradeCenter": "HSX",
+    "Price": 2.78,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CMWG2101",
+    "CompanyName": "Chứng quyền.MWG.VND.M.CA.T.2020.03",
+    "TradeCenter": "HSX",
+    "Price": 3.64,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CMWG2102",
+    "CompanyName": "Chứng quyền MWG/VCSC/M/Au/T/A3",
+    "TradeCenter": "HSX",
+    "Price": 7.6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CMWG2103",
+    "CompanyName": "Chứng quyền CMWG04MBS20CE",
+    "TradeCenter": "HSX",
+    "Price": 2.1,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CMWG2104",
+    "CompanyName": "Chứng quyền MWG/ACBS/Call/EU/Cash/12M/04",
+    "TradeCenter": "HSX",
+    "Price": 6.2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CMWG2105",
+    "CompanyName": "Chứng quyền CMWG01MBS21CE",
+    "TradeCenter": "HSX",
+    "Price": 5.12,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CMX",
+    "CompanyName": "Công ty Cổ phần Camimex Group",
+    "TradeCenter": "HSX",
+    "Price": 13.7,
+    "PE": 13.53,
+    "EPS": 1.01
+  },
+  {
+    "Symbol": "CNG",
+    "CompanyName": "Công ty cổ phần CNG Việt Nam",
+    "TradeCenter": "HSX",
+    "Price": 24.85,
+    "PE": 9.46,
+    "EPS": 2.63
+  },
+  {
+    "Symbol": "CNVL2003",
+    "CompanyName": "Chứng quyền.NVL.KIS.M.CA.T.04",
+    "TradeCenter": "HSX",
+    "Price": 7.84,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CNVL2101",
+    "CompanyName": "Chứng quyền.NVL.KIS.M.CA.T.05",
+    "TradeCenter": "HSX",
+    "Price": 4.95,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CNVL2102",
+    "CompanyName": "Chứng quyền.NVL.KIS.M.CA.T.06",
+    "TradeCenter": "HSX",
+    "Price": 2.6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "COM",
+    "CompanyName": "Công ty Cổ phần Vật tư - Xăng dầu ",
+    "TradeCenter": "HSX",
+    "Price": 42.25,
+    "PE": 10.79,
+    "EPS": 3.91
+  },
+  {
+    "Symbol": "CPDR2101",
+    "CompanyName": "Chứng quyền.PDR.KIS.M.CA.T.01",
+    "TradeCenter": "HSX",
+    "Price": 2.72,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CPDR2102",
+    "CompanyName": "Chứng quyền.PDR.KIS.M.CA.T.02",
+    "TradeCenter": "HSX",
+    "Price": 3.76,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CPNJ2101",
+    "CompanyName": "Chứng quyền.PNJ.VND.M.CA.T.2020.02",
+    "TradeCenter": "HSX",
+    "Price": 2.15,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CPNJ2102",
+    "CompanyName": "Chứng quyền PNJ/VCSC/M/Au/T/A2",
+    "TradeCenter": "HSX",
+    "Price": 2.36,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CPNJ2103",
+    "CompanyName": "Chứng quyền CPNJ04MBS20CE",
+    "TradeCenter": "HSX",
+    "Price": 3.51,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CRC",
+    "CompanyName": "Công ty Cổ phần Create Capital Việt Nam",
+    "TradeCenter": "HSX",
+    "Price": 9.25,
+    "PE": 19.02,
+    "EPS": 0.49
+  },
+  {
+    "Symbol": "CRE",
+    "CompanyName": "Công ty Cổ phần Bất động sản Thế Kỷ",
+    "TradeCenter": "HSX",
+    "Price": 50.4,
+    "PE": 29.17,
+    "EPS": 1.73
+  },
+  {
+    "Symbol": "CREE2101",
+    "CompanyName": "Chứng quyền.REE.VND.M.CA.T.2020.04",
+    "TradeCenter": "HSX",
+    "Price": 2.25,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CSBT2101",
+    "CompanyName": "Chứng quyền.SBT.KIS.M.CA.T.04",
+    "TradeCenter": "HSX",
+    "Price": 1.57,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CSG",
+    "CompanyName": "Công ty Cổ phần Cáp Sài Gòn",
+    "TradeCenter": "HSX",
+    "Price": 12.2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CSM",
+    "CompanyName": "Công ty Cổ phần Công nghiệp Cao su Miền Nam",
+    "TradeCenter": "HSX",
+    "Price": 17.1,
+    "PE": 24.47,
+    "EPS": 0.7
+  },
+  {
+    "Symbol": "CSTB2007",
+    "CompanyName": "Chứng quyền.STB.KIS.M.CA.T.07",
+    "TradeCenter": "HSX",
+    "Price": 9.11,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CSTB2010",
+    "CompanyName": "Chứng quyền.STB.KIS.M.CA.T.08",
+    "TradeCenter": "HSX",
+    "Price": 9.06,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CSTB2014",
+    "CompanyName": "Chứng quyền STB/8M/SSI/C/EU/Cash-08",
+    "TradeCenter": "HSX",
+    "Price": 17,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CSTB2101",
+    "CompanyName": "Chứng quyền.STB.KIS.M.CA.T.11",
+    "TradeCenter": "HSX",
+    "Price": 5.85,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CSTB2102",
+    "CompanyName": "Chứng quyền CSTB04MBS20CE",
+    "TradeCenter": "HSX",
+    "Price": 14.1,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CSTB2103",
+    "CompanyName": "Chứng quyền STB-HSC-MET02",
+    "TradeCenter": "HSX",
+    "Price": 5.92,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CSTB2104",
+    "CompanyName": "Chứng quyền CSTB01MBS21CE",
+    "TradeCenter": "HSX",
+    "Price": 8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CSV",
+    "CompanyName": "Công ty Cổ phần Hóa chất Cơ bản miền Nam",
+    "TradeCenter": "HSX",
+    "Price": 30.45,
+    "PE": 6.19,
+    "EPS": 4.92
+  },
+  {
+    "Symbol": "CTCB2012",
+    "CompanyName": "Chứng quyền TCB/8M/SSI/C/EU/Cash-09",
+    "TradeCenter": "HSX",
+    "Price": 27.21,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CTCB2101",
+    "CompanyName": "Chứng quyền TCB/ACBS/Call/EU/Cash/9M/05",
+    "TradeCenter": "HSX",
+    "Price": 23.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CTCB2102",
+    "CompanyName": "Chứng quyền.TCB.VND.M.CA.T.2020.02",
+    "TradeCenter": "HSX",
+    "Price": 8.49,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CTCB2103",
+    "CompanyName": "Chứng quyền TCB-HSC-MET05",
+    "TradeCenter": "HSX",
+    "Price": 7.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CTCB2104",
+    "CompanyName": "Chứng quyền CTCB01MBS21CE",
+    "TradeCenter": "HSX",
+    "Price": 6.41,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CTCH2003",
+    "CompanyName": "Chứng quyền.TCH.KIS.M.CA.T.03",
+    "TradeCenter": "HSX",
+    "Price": 0.19,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CTCH2102",
+    "CompanyName": "Chứng quyền CTCH01MBS21CE",
+    "TradeCenter": "HSX",
+    "Price": 0.13,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CTCH2103",
+    "CompanyName": "Chứng quyền.TCH.KIS.M.CA.T.05",
+    "TradeCenter": "HSX",
+    "Price": 0.11,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CTD",
+    "CompanyName": "Công ty Cổ phần Xây dựng Coteccons",
+    "TradeCenter": "HSX",
+    "Price": 63,
+    "PE": 121.29,
+    "EPS": 0.52
+  },
+  {
+    "Symbol": "CTF",
+    "CompanyName": "Công ty cổ phần City Auto",
+    "TradeCenter": "HSX",
+    "Price": 20.35,
+    "PE": 151.64,
+    "EPS": 0.13
+  },
+  {
+    "Symbol": "CTG",
+    "CompanyName": "Ngân hàng Thương mại Cổ phần Công thương Việt Nam",
+    "TradeCenter": "HSX",
+    "Price": 34.4,
+    "PE": 6.36,
+    "EPS": 5.41
+  },
+  {
+    "Symbol": "CTI",
+    "CompanyName": "Công ty Cổ phần Đầu tư Phát triển Cường Thuận IDICO",
+    "TradeCenter": "HSX",
+    "Price": 14.2,
+    "PE": 23.8,
+    "EPS": 0.6
+  },
+  {
+    "Symbol": "CTS",
+    "CompanyName": "Công ty cổ phần Chứng khoán Ngân hàng Công thương Việt Nam",
+    "TradeCenter": "HSX",
+    "Price": 21.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVHM2008",
+    "CompanyName": "Chứng quyền.VHM.KIS.M.CA.T.05",
+    "TradeCenter": "HSX",
+    "Price": 1.61,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVHM2101",
+    "CompanyName": "Chứng quyền.VHM.KIS.M.CA.T.06",
+    "TradeCenter": "HSX",
+    "Price": 2.18,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVHM2102",
+    "CompanyName": "Chứng quyền.VHM.VND.M.CA.T.2020.01",
+    "TradeCenter": "HSX",
+    "Price": 2.95,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVHM2103",
+    "CompanyName": "Chứng quyền CVHM01MBS20CE",
+    "TradeCenter": "HSX",
+    "Price": 1.06,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVHM2104",
+    "CompanyName": "Chứng quyền VHM-HSC-MET05",
+    "TradeCenter": "HSX",
+    "Price": 1.18,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVHM2105",
+    "CompanyName": "Chứng quyền CVHM01MBS21CE",
+    "TradeCenter": "HSX",
+    "Price": 1.05,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVHM2106",
+    "CompanyName": "Chứng quyền.VHM.KIS.M.CA.T.07",
+    "TradeCenter": "HSX",
+    "Price": 0.85,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVIC2005",
+    "CompanyName": "Chứng quyền.VIC.KIS.M.CA.T.07",
+    "TradeCenter": "HSX",
+    "Price": 1.23,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVIC2101",
+    "CompanyName": "Chứng quyền.VIC.KIS.M.CA.T.09",
+    "TradeCenter": "HSX",
+    "Price": 1.21,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVIC2102",
+    "CompanyName": "Chứng quyền CVIC01MBS20CE",
+    "TradeCenter": "HSX",
+    "Price": 1.75,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVIC2103",
+    "CompanyName": "Chứng quyền.VIC.KIS.M.CA.T.10",
+    "TradeCenter": "HSX",
+    "Price": 1.02,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVJC2006",
+    "CompanyName": "Chứng quyền.VJC.KIS.M.CA.T.05",
+    "TradeCenter": "HSX",
+    "Price": 0.15,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVNM2011",
+    "CompanyName": "Chứng quyền.VNM.KIS.M.CA.T.06",
+    "TradeCenter": "HSX",
+    "Price": 0.04,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVNM2101",
+    "CompanyName": "Chứng quyền.VNM.KIS.M.CA.T.08",
+    "TradeCenter": "HSX",
+    "Price": 0.54,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVNM2102",
+    "CompanyName": "Chứng quyền.VNM.VND.M.CA.T.2020.02",
+    "TradeCenter": "HSX",
+    "Price": 0.05,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVNM2103",
+    "CompanyName": "Chứng quyền CVNM04MBS20CE",
+    "TradeCenter": "HSX",
+    "Price": 0.09,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVNM2104",
+    "CompanyName": "Chứng quyền CVNM01MBS21CE",
+    "TradeCenter": "HSX",
+    "Price": 0.72,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVNM2105",
+    "CompanyName": "Chứng quyền.VNM.KIS.M.CA.T.09",
+    "TradeCenter": "HSX",
+    "Price": 0.78,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVPB2015",
+    "CompanyName": "Chứng quyền VPB/8M/SSI/C/EU/Cash-09",
+    "TradeCenter": "HSX",
+    "Price": 30.63,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVPB2101",
+    "CompanyName": "Chứng quyền.VPB.VND.M.CA.T.2020.02",
+    "TradeCenter": "HSX",
+    "Price": 15.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVPB2102",
+    "CompanyName": "Chứng quyền CVPB04MBS20CE",
+    "TradeCenter": "HSX",
+    "Price": 16.6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVPB2103",
+    "CompanyName": "Chứng quyền VPB-HSC-MET06",
+    "TradeCenter": "HSX",
+    "Price": 11.9,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVPB2104",
+    "CompanyName": "Chứng quyền CVPB01MBS21CE",
+    "TradeCenter": "HSX",
+    "Price": 6.19,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVRE2009",
+    "CompanyName": "Chứng quyền.VRE.KIS.M.CA.T.07",
+    "TradeCenter": "HSX",
+    "Price": 0.09,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVRE2011",
+    "CompanyName": "Chứng quyền.VRE.KIS.M.CA.T.09",
+    "TradeCenter": "HSX",
+    "Price": 0.09,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVRE2013",
+    "CompanyName": "Chứng quyền VRE/8M/SSI/C/EU/Cash-09",
+    "TradeCenter": "HSX",
+    "Price": 0.06,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVRE2101",
+    "CompanyName": "Chứng quyền.VRE.KIS.M.CA.T.10",
+    "TradeCenter": "HSX",
+    "Price": 1.27,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVRE2102",
+    "CompanyName": "Chứng quyền.VRE.VND.M.CA.T.2020.01",
+    "TradeCenter": "HSX",
+    "Price": 0.42,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVRE2103",
+    "CompanyName": "Chứng quyền VRE-HSC-MET06",
+    "TradeCenter": "HSX",
+    "Price": 0.11,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVRE2104",
+    "CompanyName": "Chứng quyền CVRE01MBS21CE",
+    "TradeCenter": "HSX",
+    "Price": 0.15,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "CVT",
+    "CompanyName": "Công ty Cổ phần CMC",
+    "TradeCenter": "HSX",
+    "Price": 40.1,
+    "PE": 20.83,
+    "EPS": 1.93
+  },
+  {
+    "Symbol": "D2D",
+    "CompanyName": "Công ty Cổ phần Phát triển Đô thị Công nghiệp Số 2",
+    "TradeCenter": "HSX",
+    "Price": 50.9,
+    "PE": 9.94,
+    "EPS": 5.12
+  },
+  {
+    "Symbol": "DAG",
+    "CompanyName": "Công ty Cổ phần Tập đoàn Nhựa Đông Á",
+    "TradeCenter": "HSX",
+    "Price": 5.22,
+    "PE": 167.31,
+    "EPS": 0.03
+  },
+  {
+    "Symbol": "DAH",
+    "CompanyName": "Công ty cổ phần Tập đoàn Khách sạn Đông Á",
+    "TradeCenter": "HSX",
+    "Price": 9.38,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "DAT",
+    "CompanyName": "Công ty Cổ phần Đầu tư Du lịch và Phát triển Thủy sản",
+    "TradeCenter": "HSX",
+    "Price": 20,
+    "PE": 15.13,
+    "EPS": 1.32
+  },
+  {
+    "Symbol": "DBC",
+    "CompanyName": "Công ty Cổ phần Tập đoàn Dabaco Việt Nam",
+    "TradeCenter": "HSX",
+    "Price": 54.9,
+    "PE": 15.94,
+    "EPS": 3.44
+  },
+  {
+    "Symbol": "DBD",
+    "CompanyName": "Công ty Cổ phần Dược - Trang thiết bị Y tế Bình Định",
+    "TradeCenter": "HSX",
+    "Price": 41.85,
+    "PE": 21.82,
+    "EPS": 1.92
+  },
+  {
+    "Symbol": "DBT",
+    "CompanyName": "Công ty Cổ phần Dược phẩm Bến Tre",
+    "TradeCenter": "HSX",
+    "Price": 13.4,
+    "PE": 69.5,
+    "EPS": 0.19
+  },
+  {
+    "Symbol": "DC4",
+    "CompanyName": "Công ty Cổ phần Xây dựng DIC Holdings",
+    "TradeCenter": "HSX",
+    "Price": 13.7,
+    "PE": 23.72,
+    "EPS": 0.58
+  },
+  {
+    "Symbol": "DCC",
+    "CompanyName": "Công ty Cổ phần Xây dựng Công nghiệp DESCON",
+    "TradeCenter": "HSX",
+    "Price": 9.5,
+    "PE": 14.89,
+    "EPS": 0.64
+  },
+  {
+    "Symbol": "DCL",
+    "CompanyName": "Công ty Cổ phần Dược phẩm Cửu Long",
+    "TradeCenter": "HSX",
+    "Price": 40.1,
+    "PE": 104.73,
+    "EPS": 0.38
+  },
+  {
+    "Symbol": "DCM",
+    "CompanyName": "Công ty Cổ phần Phân bón Dầu khí Cà Mau",
+    "TradeCenter": "HSX",
+    "Price": 20.2,
+    "PE": 13.04,
+    "EPS": 1.55
+  },
+  {
+    "Symbol": "DGC",
+    "CompanyName": "Công ty Cổ phần Tập đoàn Hóa chất Đức Giang",
+    "TradeCenter": "HSX",
+    "Price": 95.5,
+    "PE": 23.97,
+    "EPS": 3.98
+  },
+  {
+    "Symbol": "DGW",
+    "CompanyName": "Công ty cổ phần Thế giới số",
+    "TradeCenter": "HSX",
+    "Price": 148.8,
+    "PE": 64.55,
+    "EPS": 2.31
+  },
+  {
+    "Symbol": "DHA",
+    "CompanyName": "Công ty Cổ phần Hóa An",
+    "TradeCenter": "HSX",
+    "Price": 41.2,
+    "PE": 12.19,
+    "EPS": 3.38
+  },
+  {
+    "Symbol": "DHC",
+    "CompanyName": "Công ty Cổ phần Đông Hải Bến Tre",
+    "TradeCenter": "HSX",
+    "Price": 83,
+    "PE": 23.59,
+    "EPS": 3.52
+  },
+  {
+    "Symbol": "DHG",
+    "CompanyName": "Công ty Cổ phần Dược Hậu Giang",
+    "TradeCenter": "HSX",
+    "Price": 93.6,
+    "PE": 46.88,
+    "EPS": 2
+  },
+  {
+    "Symbol": "DHM",
+    "CompanyName": "Công ty cổ phần Thương mại và khai thác khoáng sản Dương Hiếu",
+    "TradeCenter": "HSX",
+    "Price": 11.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "DIG",
+    "CompanyName": "Tổng Công ty Cổ phần Đầu tư Phát triển Xây dựng",
+    "TradeCenter": "HSX",
+    "Price": 25.6,
+    "PE": 19.93,
+    "EPS": 1.28
+  },
+  {
+    "Symbol": "DLG",
+    "CompanyName": "Công ty Cổ phần Tập đoàn Đức Long Gia Lai",
+    "TradeCenter": "HSX",
+    "Price": 2.91,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "DMC",
+    "CompanyName": "Công ty Cổ phần Xuất nhập khẩu Y tế Domesco",
+    "TradeCenter": "HSX",
+    "Price": 48.45,
+    "PE": 8.25,
+    "EPS": 5.87
+  },
+  {
+    "Symbol": "DPG",
+    "CompanyName": "Công ty Cổ phần Đạt Phương",
+    "TradeCenter": "HSX",
+    "Price": 34.35,
+    "PE": 31.11,
+    "EPS": 1.1
+  },
+  {
+    "Symbol": "DPM",
+    "CompanyName": "Tổng Công ty Phân bón và Hóa chất Dầu khí-CTCP",
+    "TradeCenter": "HSX",
+    "Price": 25.55,
+    "PE": 17.5,
+    "EPS": 1.46
+  },
+  {
+    "Symbol": "DPR",
+    "CompanyName": "Công ty Cổ phần Cao su Đồng Phú",
+    "TradeCenter": "HSX",
+    "Price": 58.3,
+    "PE": 26.4,
+    "EPS": 2.21
+  },
+  {
+    "Symbol": "DQC",
+    "CompanyName": "Công ty Cổ phần Bóng đèn Điện Quang ",
+    "TradeCenter": "HSX",
+    "Price": 18.7,
+    "PE": 73.36,
+    "EPS": 0.25
+  },
+  {
+    "Symbol": "DRC",
+    "CompanyName": "Công ty Cổ phần Cao su Đà Nẵng",
+    "TradeCenter": "HSX",
+    "Price": 29.95,
+    "PE": 10.43,
+    "EPS": 2.87
+  },
+  {
+    "Symbol": "DRH",
+    "CompanyName": "Công ty cổ phần DRH Holdings",
+    "TradeCenter": "HSX",
+    "Price": 8.64,
+    "PE": 167.44,
+    "EPS": 0.05
+  },
+  {
+    "Symbol": "DRL",
+    "CompanyName": "Công ty Cổ phần Thủy điện – Điện lực 3",
+    "TradeCenter": "HSX",
+    "Price": 58,
+    "PE": 8.87,
+    "EPS": 6.54
+  },
+  {
+    "Symbol": "DSN",
+    "CompanyName": "Công ty Cổ phần Công viên nước Đầm Sen",
+    "TradeCenter": "HSX",
+    "Price": 41.2,
+    "PE": 11.93,
+    "EPS": 3.45
+  },
+  {
+    "Symbol": "DTA",
+    "CompanyName": "Công ty Cổ phần Đệ Tam",
+    "TradeCenter": "HSX",
+    "Price": 9.15,
+    "PE": 60.48,
+    "EPS": 0.15
+  },
+  {
+    "Symbol": "DTL",
+    "CompanyName": "Công ty Cổ phần Đại Thiên Lộc",
+    "TradeCenter": "HSX",
+    "Price": 35,
+    "PE": 2692.31,
+    "EPS": 0.01
+  },
+  {
+    "Symbol": "DTT",
+    "CompanyName": "Công ty Cổ phần Kỹ nghệ Đô Thành",
+    "TradeCenter": "HSX",
+    "Price": 14.2,
+    "PE": 16.26,
+    "EPS": 0.87
+  },
+  {
+    "Symbol": "DVD",
+    "CompanyName": "Công ty Cổ phần Dược phẩm Viễn Đông",
+    "TradeCenter": "HSX",
+    "Price": 3.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "DVP",
+    "CompanyName": "Công ty cổ phần Đầu tư và Phát triển Cảng Đình Vũ",
+    "TradeCenter": "HSX",
+    "Price": 51.3,
+    "PE": 7.09,
+    "EPS": 7.23
+  },
+  {
+    "Symbol": "DXG",
+    "CompanyName": "Công ty Cổ phần Tập đoàn Đất Xanh",
+    "TradeCenter": "HSX",
+    "Price": 21.55,
+    "PE": 68.92,
+    "EPS": 0.31
+  },
+  {
+    "Symbol": "DXV",
+    "CompanyName": "Công ty Cổ phần VICEM Vật liệu Xây dựng Đà Nẵng",
+    "TradeCenter": "HSX",
+    "Price": 3.85,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "E1VFVN30",
+    "CompanyName": "Quỹ ETF VFMVN30",
+    "TradeCenter": "HSX",
+    "Price": 24.6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "EIB",
+    "CompanyName": "Ngân hàng Thương mại Cổ phần Xuất nhập khẩu Việt Nam",
+    "TradeCenter": "HSX",
+    "Price": 26.4,
+    "PE": 26.13,
+    "EPS": 1.01
+  },
+  {
+    "Symbol": "ELC",
+    "CompanyName": "Công ty Cổ phần Đầu tư Phát triển Công nghệ Điện tử Viễn thông",
+    "TradeCenter": "HSX",
+    "Price": 15.9,
+    "PE": 188.39,
+    "EPS": 0.08
+  },
+  {
+    "Symbol": "EMC",
+    "CompanyName": "Công ty cổ phần Cơ điện Thủ Đức",
+    "TradeCenter": "HSX",
+    "Price": 17,
+    "PE": 93.66,
+    "EPS": 0.18
+  },
+  {
+    "Symbol": "EVE",
+    "CompanyName": "Công ty cổ phần Everpia",
+    "TradeCenter": "HSX",
+    "Price": 13.1,
+    "PE": 42.14,
+    "EPS": 0.31
+  },
+  {
+    "Symbol": "EVG",
+    "CompanyName": "Công ty Cổ phần Đầu tư Everland",
+    "TradeCenter": "HSX",
+    "Price": 9.25,
+    "PE": 79.6,
+    "EPS": 0.12
+  },
+  {
+    "Symbol": "FBT",
+    "CompanyName": "Công ty Cổ phần Xuất nhập khẩu Lâm Thủy sản Bến Tre",
+    "TradeCenter": "HSX",
+    "Price": 4.7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "FCM",
+    "CompanyName": "Công ty cổ phần Khoáng sản FECON",
+    "TradeCenter": "HSX",
+    "Price": 6.2,
+    "PE": 7.63,
+    "EPS": 0.81
+  },
+  {
+    "Symbol": "FCN",
+    "CompanyName": "Công ty cổ phần FECON",
+    "TradeCenter": "HSX",
+    "Price": 11.5,
+    "PE": 83.76,
+    "EPS": 0.14
+  },
+  {
+    "Symbol": "FDC",
+    "CompanyName": "Công ty Cổ phần Ngoại thương và Phát triển Đầu tư Thành phố Hồ Chí Minh",
+    "TradeCenter": "HSX",
+    "Price": 11.15,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "FIR",
+    "CompanyName": "Công ty Cổ phần Địa ốc First Real",
+    "TradeCenter": "HSX",
+    "Price": 35.9,
+    "PE": 40.35,
+    "EPS": 0.89
+  },
+  {
+    "Symbol": "FIT",
+    "CompanyName": "Công ty cổ phần Tập đoàn F.I.T",
+    "TradeCenter": "HSX",
+    "Price": 15.1,
+    "PE": 225.37,
+    "EPS": 0.07
+  },
+  {
+    "Symbol": "FLC",
+    "CompanyName": "Công ty cổ phần Tập đoàn FLC",
+    "TradeCenter": "HSX",
+    "Price": 11.15,
+    "PE": 21.73,
+    "EPS": 0.51
+  },
+  {
+    "Symbol": "FMC",
+    "CompanyName": "Công ty Cổ phần Thực phẩm Sao Ta ",
+    "TradeCenter": "HSX",
+    "Price": 36.3,
+    "PE": 29.08,
+    "EPS": 1.25
+  },
+  {
+    "Symbol": "FPC",
+    "CompanyName": "Công ty Cổ phần Full Power ",
+    "TradeCenter": "HSX",
+    "Price": 1.6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "FPT",
+    "CompanyName": "Công ty Cổ phần FPT ",
+    "TradeCenter": "HSX",
+    "Price": 94,
+    "PE": 158.81,
+    "EPS": 0.59
+  },
+  {
+    "Symbol": "FRT",
+    "CompanyName": "Công ty cổ phần Bán lẻ Kỹ thuật số FPT",
+    "TradeCenter": "HSX",
+    "Price": 37.45,
+    "PE": 98.86,
+    "EPS": 0.38
+  },
+  {
+    "Symbol": "FTM",
+    "CompanyName": "Công ty Cổ phần Đầu tư và Phát triển Đức Quân",
+    "TradeCenter": "HSX",
+    "Price": 2.76,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "FTS",
+    "CompanyName": "Công ty Cổ phần Chứng khoán FPT",
+    "TradeCenter": "HSX",
+    "Price": 35.2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "FUCTVGF1",
+    "CompanyName": "Quỹ Đầu tư tăng trưởng TVAM",
+    "TradeCenter": "HSX",
+    "Price": 12.35,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "FUCTVGF2",
+    "CompanyName": "Quỹ Đầu tư tăng trưởng Thiên Việt 2",
+    "TradeCenter": "HSX",
+    "Price": 11,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "FUCVREIT",
+    "CompanyName": "Quỹ Đầu tư Bất động sản Techcom Việt Nam",
+    "TradeCenter": "HSX",
+    "Price": 11.45,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "FUEMAV30",
+    "CompanyName": "Quỹ ETF MAFM VN30",
+    "TradeCenter": "HSX",
+    "Price": 17,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "FUESSV30",
+    "CompanyName": "Quỹ ETF SSIAM VN30",
+    "TradeCenter": "HSX",
+    "Price": 18.2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "FUESSV50",
+    "CompanyName": "Quỹ ETF SSIAM VNX50",
+    "TradeCenter": "HSX",
+    "Price": 21,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "FUESSVFL",
+    "CompanyName": "Quỹ ETF SSIAM VNFIN LEAD",
+    "TradeCenter": "HSX",
+    "Price": 21.1,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "FUEVFVND",
+    "CompanyName": "Quỹ ETF VFMVN DIAMOND",
+    "TradeCenter": "HSX",
+    "Price": 25.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "FUEVN100",
+    "CompanyName": "Quỹ ETF VINACAPITAL VN100",
+    "TradeCenter": "HSX",
+    "Price": 18.11,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "GAB",
+    "CompanyName": "Công ty Cổ phần Đầu tư khai khoáng và Quản lý tài sản FLC",
+    "TradeCenter": "HSX",
+    "Price": 194.7,
+    "PE": 1452.99,
+    "EPS": 0.13
+  },
+  {
+    "Symbol": "GAS",
+    "CompanyName": "Tổng Công ty Khí Việt Nam-CTCP",
+    "TradeCenter": "HSX",
+    "Price": 89.6,
+    "PE": 87.82,
+    "EPS": 1.02
+  },
+  {
+    "Symbol": "GDT",
+    "CompanyName": "Công ty Cổ phần Chế biến Gỗ Đức Thành",
+    "TradeCenter": "HSX",
+    "Price": 55.3,
+    "PE": 185.14,
+    "EPS": 0.3
+  },
+  {
+    "Symbol": "GEG",
+    "CompanyName": "Công ty cổ phần Điện Gia Lai",
+    "TradeCenter": "HSX",
+    "Price": 15.85,
+    "PE": 29.29,
+    "EPS": 0.54
+  },
+  {
+    "Symbol": "GEX",
+    "CompanyName": "Công ty Cổ phần Tập đoàn GELEX",
+    "TradeCenter": "HSX",
+    "Price": 22.7,
+    "PE": 110.79,
+    "EPS": 0.2
+  },
+  {
+    "Symbol": "GIL",
+    "CompanyName": "Công ty Cổ phần Sản xuất Kinh doanh Xuất nhập khẩu Bình Thạnh",
+    "TradeCenter": "HSX",
+    "Price": 65,
+    "PE": 9.6,
+    "EPS": 6.77
+  },
+  {
+    "Symbol": "GMC",
+    "CompanyName": "Công ty Cổ phần Garmex Sài Gòn",
+    "TradeCenter": "HSX",
+    "Price": 30,
+    "PE": 35.36,
+    "EPS": 0.85
+  },
+  {
+    "Symbol": "GMD",
+    "CompanyName": "Công ty Cổ phần Gemadept",
+    "TradeCenter": "HSX",
+    "Price": 46.1,
+    "PE": 86.43,
+    "EPS": 0.53
+  },
+  {
+    "Symbol": "GSP",
+    "CompanyName": "Công ty cổ phần Vận tải Sản phẩm khí quốc tế",
+    "TradeCenter": "HSX",
+    "Price": 11.7,
+    "PE": 10.3,
+    "EPS": 1.14
+  },
+  {
+    "Symbol": "GTA",
+    "CompanyName": "Công ty Cổ phần Chế biến Gỗ Thuận An",
+    "TradeCenter": "HSX",
+    "Price": 14.3,
+    "PE": 6.33,
+    "EPS": 2.26
+  },
+  {
+    "Symbol": "GTN",
+    "CompanyName": "Công ty cổ phần GTNfoods",
+    "TradeCenter": "HSX",
+    "Price": 16.5,
+    "PE": 105.43,
+    "EPS": 0.16
+  },
+  {
+    "Symbol": "GVR",
+    "CompanyName": "Tập đoàn Công nghiệp Cao su Việt Nam",
+    "TradeCenter": "HSX",
+    "Price": 33.7,
+    "PE": 26.45,
+    "EPS": 1.27
+  },
+  {
+    "Symbol": "HAG",
+    "CompanyName": "Công ty Cổ phần Hoàng Anh Gia Lai",
+    "TradeCenter": "HSX",
+    "Price": 5.01,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HAH",
+    "CompanyName": "Công ty Cổ phần Vận tải và Xếp dỡ Hải An",
+    "TradeCenter": "HSX",
+    "Price": 44.15,
+    "PE": 25.52,
+    "EPS": 1.73
+  },
+  {
+    "Symbol": "HAI",
+    "CompanyName": "Công ty Cổ phần Nông dược H.A.I",
+    "TradeCenter": "HSX",
+    "Price": 3.33,
+    "PE": 62.71,
+    "EPS": 0.05
+  },
+  {
+    "Symbol": "HAR",
+    "CompanyName": "Công ty Cổ phần Đầu tư Thương mại Bất động sản An Dương Thảo Điền",
+    "TradeCenter": "HSX",
+    "Price": 4.28,
+    "PE": 1380.65,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HAS",
+    "CompanyName": "Công ty Cổ phần HACISCO",
+    "TradeCenter": "HSX",
+    "Price": 12.4,
+    "PE": 23.33,
+    "EPS": 0.53
+  },
+  {
+    "Symbol": "HAX",
+    "CompanyName": "Công ty Cổ phần Dịch vụ Ô tô Hàng Xanh",
+    "TradeCenter": "HSX",
+    "Price": 19.8,
+    "PE": 15.74,
+    "EPS": 1.26
+  },
+  {
+    "Symbol": "HBC",
+    "CompanyName": "Công ty cổ phần Tập đoàn Xây dựng Hoà Bình",
+    "TradeCenter": "HSX",
+    "Price": 13.5,
+    "PE": 146.74,
+    "EPS": 0.09
+  },
+  {
+    "Symbol": "HCD",
+    "CompanyName": "Công ty Cổ phần Đầu tư Sản xuất và Thương mại HCD",
+    "TradeCenter": "HSX",
+    "Price": 7.15,
+    "PE": 36.24,
+    "EPS": 0.2
+  },
+  {
+    "Symbol": "HCM",
+    "CompanyName": "Công ty Cổ phần Chứng khoán Thành phố Hồ Chí Minh",
+    "TradeCenter": "HSX",
+    "Price": 47.85,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HDB",
+    "CompanyName": "Ngân hàng TMCP Phát triển T.P Hồ Chí Minh",
+    "TradeCenter": "HSX",
+    "Price": 33.7,
+    "PE": 49.84,
+    "EPS": 0.68
+  },
+  {
+    "Symbol": "HDC",
+    "CompanyName": "Công ty Cổ phần Phát triển nhà Bà Rịa-Vũng Tàu",
+    "TradeCenter": "HSX",
+    "Price": 59.6,
+    "PE": 126.24,
+    "EPS": 0.47
+  },
+  {
+    "Symbol": "HDG",
+    "CompanyName": "Công ty Cổ phần Tập đoàn Hà Đô",
+    "TradeCenter": "HSX",
+    "Price": 53.3,
+    "PE": 49.44,
+    "EPS": 1.08
+  },
+  {
+    "Symbol": "HHP",
+    "CompanyName": "Công ty cổ phần Giấy Hoàng Hà Hải Phòng",
+    "TradeCenter": "HSX",
+    "Price": 10.25,
+    "PE": 34.41,
+    "EPS": 0.3
+  },
+  {
+    "Symbol": "HHS",
+    "CompanyName": "Công ty Cổ phần Đầu tư Dịch vụ Hoàng Huy",
+    "TradeCenter": "HSX",
+    "Price": 5.96,
+    "PE": 23.52,
+    "EPS": 0.25
+  },
+  {
+    "Symbol": "HID",
+    "CompanyName": "Công ty Cổ phần Halcom Việt Nam",
+    "TradeCenter": "HSX",
+    "Price": 5.37,
+    "PE": 47.44,
+    "EPS": 0.11
+  },
+  {
+    "Symbol": "HII",
+    "CompanyName": "Công ty Cổ phần An Tiến Industries",
+    "TradeCenter": "HSX",
+    "Price": 15.3,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HMC",
+    "CompanyName": "Công ty Cổ phần Kim khí Thành phố Hồ Chí Minh - Vnsteel",
+    "TradeCenter": "HSX",
+    "Price": 24.7,
+    "PE": 2.99,
+    "EPS": 8.27
+  },
+  {
+    "Symbol": "HNG",
+    "CompanyName": "Công ty cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+    "TradeCenter": "HSX",
+    "Price": 7.75,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HOT",
+    "CompanyName": "Công ty cổ phần Du lịch - Dịch vụ Hội An",
+    "TradeCenter": "HSX",
+    "Price": 32.9,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HPG",
+    "CompanyName": "Công ty cổ phần Tập đoàn Hòa Phát",
+    "TradeCenter": "HSX",
+    "Price": 47.3,
+    "PE": 13.65,
+    "EPS": 3.46
+  },
+  {
+    "Symbol": "HPX",
+    "CompanyName": "Công ty cổ phần Đầu tư Hải Phát",
+    "TradeCenter": "HSX",
+    "Price": 30,
+    "PE": 69.51,
+    "EPS": 0.43
+  },
+  {
+    "Symbol": "HQC",
+    "CompanyName": "Công ty cổ phần Tư vấn-Thương mại-Dịch vụ Địa ốc Hoàng Quân",
+    "TradeCenter": "HSX",
+    "Price": 3.17,
+    "PE": 587.04,
+    "EPS": 0.01
+  },
+  {
+    "Symbol": "HRC",
+    "CompanyName": "Công ty Cổ phần Cao su Hòa Bình",
+    "TradeCenter": "HSX",
+    "Price": 60,
+    "PE": 325.38,
+    "EPS": 0.18
+  },
+  {
+    "Symbol": "HSG",
+    "CompanyName": "Công ty Cổ phần Tập đoàn Hoa Sen",
+    "TradeCenter": "HSX",
+    "Price": 37.3,
+    "PE": 82.71,
+    "EPS": 0.45
+  },
+  {
+    "Symbol": "HSL",
+    "CompanyName": "Công ty Cổ phần Đầu tư Phát triển Thực phẩm Hồng Hà",
+    "TradeCenter": "HSX",
+    "Price": 6.45,
+    "PE": 11.49,
+    "EPS": 0.56
+  },
+  {
+    "Symbol": "HT1",
+    "CompanyName": "Công ty Cổ phần Xi Măng Vicem Hà Tiên",
+    "TradeCenter": "HSX",
+    "Price": 15.6,
+    "PE": 9.33,
+    "EPS": 1.67
+  },
+  {
+    "Symbol": "HT2",
+    "CompanyName": "Công ty Cổ phần Xi măng Hà Tiên 2",
+    "TradeCenter": "HSX",
+    "Price": 14.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HTI",
+    "CompanyName": "Công ty Cổ phần Đầu tư phát triển hạ tầng IDICO",
+    "TradeCenter": "HSX",
+    "Price": 15.25,
+    "PE": 6.36,
+    "EPS": 2.4
+  },
+  {
+    "Symbol": "HTL",
+    "CompanyName": "Công ty Cổ phần Kỹ thuật và Ô tô Trường Long",
+    "TradeCenter": "HSX",
+    "Price": 16.85,
+    "PE": 11.11,
+    "EPS": 1.52
+  },
+  {
+    "Symbol": "HTN",
+    "CompanyName": "Công ty Cổ phần Hưng Thịnh Incons",
+    "TradeCenter": "HSX",
+    "Price": 34.6,
+    "PE": 20.18,
+    "EPS": 1.71
+  },
+  {
+    "Symbol": "HTV",
+    "CompanyName": "Công ty Cổ phần Logistics Vicem",
+    "TradeCenter": "HSX",
+    "Price": 13.5,
+    "PE": 23.07,
+    "EPS": 0.59
+  },
+  {
+    "Symbol": "HU1",
+    "CompanyName": "Công ty Cổ phần Đầu tư và Xây dựng HUD1",
+    "TradeCenter": "HSX",
+    "Price": 8.9,
+    "PE": 16.96,
+    "EPS": 0.52
+  },
+  {
+    "Symbol": "HU3",
+    "CompanyName": "Công ty cổ phần Đầu tư và Xây dựng HUD3",
+    "TradeCenter": "HSX",
+    "Price": 7.3,
+    "PE": 48.6,
+    "EPS": 0.15
+  },
+  {
+    "Symbol": "HUB",
+    "CompanyName": "Công ty cổ phần Xây lắp Thừa Thiên Huế",
+    "TradeCenter": "HSX",
+    "Price": 24.6,
+    "PE": 13.8,
+    "EPS": 1.78
+  },
+  {
+    "Symbol": "HVH",
+    "CompanyName": "Công ty Cổ phần Đầu tư và Công nghệ HVC",
+    "TradeCenter": "HSX",
+    "Price": 8.19,
+    "PE": 47.81,
+    "EPS": 0.17
+  },
+  {
+    "Symbol": "HVN",
+    "CompanyName": "Tổng Công ty Hàng không Việt Nam - CTCP",
+    "TradeCenter": "HSX",
+    "Price": 21.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "HVX",
+    "CompanyName": "Công ty Cổ phần Xi măng Vicem Hải Vân",
+    "TradeCenter": "HSX",
+    "Price": 4.89,
+    "PE": 78.49,
+    "EPS": 0.06
+  },
+  {
+    "Symbol": "IBC",
+    "CompanyName": "Công ty Cổ phần Đầu tư Apax Holdings",
+    "TradeCenter": "HSX",
+    "Price": 21.85,
+    "PE": 14.9,
+    "EPS": 1.47
+  },
+  {
+    "Symbol": "ICT",
+    "CompanyName": "Công ty cổ phần Viễn thông - Tin học Bưu điện",
+    "TradeCenter": "HSX",
+    "Price": 17.05,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "IDI",
+    "CompanyName": "Công ty Cổ phần Đầu tư và Phát triển Đa Quốc Gia I.D.I",
+    "TradeCenter": "HSX",
+    "Price": 5.8,
+    "PE": 11.51,
+    "EPS": 0.5
+  },
+  {
+    "Symbol": "IJC",
+    "CompanyName": "Công ty Cổ phần Phát triển Hạ tầng Kỹ thuật ",
+    "TradeCenter": "HSX",
+    "Price": 25.2,
+    "PE": 12.14,
+    "EPS": 2.08
+  },
+  {
+    "Symbol": "ILB",
+    "CompanyName": "Công ty Cổ phần ICD Tân Cảng – Long Bình",
+    "TradeCenter": "HSX",
+    "Price": 29.15,
+    "PE": 8.9,
+    "EPS": 3.28
+  },
+  {
+    "Symbol": "IMP",
+    "CompanyName": "Công ty Cổ phần Dược phẩm IMEXPHARM ",
+    "TradeCenter": "HSX",
+    "Price": 72.5,
+    "PE": 29.72,
+    "EPS": 2.44
+  },
+  {
+    "Symbol": "ITA",
+    "CompanyName": "Công ty Cổ phần Đầu tư và Công nghiệp Tân Tạo",
+    "TradeCenter": "HSX",
+    "Price": 6.25,
+    "PE": 48.08,
+    "EPS": 0.13
+  },
+  {
+    "Symbol": "ITC",
+    "CompanyName": "Công ty Cổ phần Đầu tư - Kinh doanh nhà",
+    "TradeCenter": "HSX",
+    "Price": 12.8,
+    "PE": 8.11,
+    "EPS": 1.58
+  },
+  {
+    "Symbol": "ITD",
+    "CompanyName": "Công ty Cổ phần Công nghệ Tiên Phong",
+    "TradeCenter": "HSX",
+    "Price": 16.9,
+    "PE": 60.06,
+    "EPS": 0.28
+  },
+  {
+    "Symbol": "JVC",
+    "CompanyName": "Công ty cổ phần Thiết bị Y tế Việt Nhật",
+    "TradeCenter": "HSX",
+    "Price": 4.1,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "KBC",
+    "CompanyName": "Tổng Công ty Phát triển Đô thị Kinh Bắc-CTCP",
+    "TradeCenter": "HSX",
+    "Price": 34.45,
+    "PE": 20.09,
+    "EPS": 1.71
+  },
+  {
+    "Symbol": "KDC",
+    "CompanyName": "Công ty Cổ phần Tập đoàn Kido",
+    "TradeCenter": "HSX",
+    "Price": 62.4,
+    "PE": 64.2,
+    "EPS": 0.97
+  },
+  {
+    "Symbol": "KDH",
+    "CompanyName": "Công ty Cổ phần Đầu tư Kinh doanh nhà Khang Điền",
+    "TradeCenter": "HSX",
+    "Price": 40.7,
+    "PE": 34.1,
+    "EPS": 1.19
+  },
+  {
+    "Symbol": "KHP",
+    "CompanyName": "Công ty Cổ phần Điện lực Khánh Hòa",
+    "TradeCenter": "HSX",
+    "Price": 6.47,
+    "PE": 2.82,
+    "EPS": 2.3
+  },
+  {
+    "Symbol": "KMR",
+    "CompanyName": "Công ty Cổ phần Mirae",
+    "TradeCenter": "HSX",
+    "Price": 7.51,
+    "PE": 124.34,
+    "EPS": 0.06
+  },
+  {
+    "Symbol": "KOS",
+    "CompanyName": "Công ty Cổ phần Kosy",
+    "TradeCenter": "HSX",
+    "Price": 28.8,
+    "PE": 403.93,
+    "EPS": 0.07
+  },
+  {
+    "Symbol": "KPF",
+    "CompanyName": "Công ty Cổ phần Đầu tư tài chính Hoàng Minh",
+    "TradeCenter": "HSX",
+    "Price": 10.5,
+    "PE": 34.43,
+    "EPS": 0.3
+  },
+  {
+    "Symbol": "KSB",
+    "CompanyName": "Công ty Cổ phần Khoáng sản và Xây dựng Bình Dương",
+    "TradeCenter": "HSX",
+    "Price": 24.9,
+    "PE": 39.21,
+    "EPS": 0.64
+  },
+  {
+    "Symbol": "L10",
+    "CompanyName": "Công ty cổ phần Lilama 10 ",
+    "TradeCenter": "HSX",
+    "Price": 17.9,
+    "PE": 9.04,
+    "EPS": 1.98
+  },
+  {
+    "Symbol": "LBM",
+    "CompanyName": "Công ty Cổ phần Khoáng sản và Vật liệu xây dựng Lâm Đồng",
+    "TradeCenter": "HSX",
+    "Price": 62,
+    "PE": 13.36,
+    "EPS": 4.64
+  },
+  {
+    "Symbol": "LCG",
+    "CompanyName": "Công ty cổ phần LICOGI 16",
+    "TradeCenter": "HSX",
+    "Price": 12.45,
+    "PE": 13.06,
+    "EPS": 0.95
+  },
+  {
+    "Symbol": "LCM",
+    "CompanyName": "Công ty Cổ phần Khai thác và Chế biến Khoáng sản Lào Cai",
+    "TradeCenter": "HSX",
+    "Price": 2.44,
+    "PE": 19.15,
+    "EPS": 0.13
+  },
+  {
+    "Symbol": "LDG",
+    "CompanyName": "Công ty Cổ phần Đầu tư LDG",
+    "TradeCenter": "HSX",
+    "Price": 5.91,
+    "PE": 729.63,
+    "EPS": 0.01
+  },
+  {
+    "Symbol": "LEC",
+    "CompanyName": "Công ty Cổ phần Bất động sản Điện lực Miền Trung ",
+    "TradeCenter": "HSX",
+    "Price": 10.25,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "LGC",
+    "CompanyName": "Công ty Cổ phần Đầu tư Cầu đường CII",
+    "TradeCenter": "HSX",
+    "Price": 57.1,
+    "PE": 58.99,
+    "EPS": 0.97
+  },
+  {
+    "Symbol": "LGL",
+    "CompanyName": "Công ty cổ phần Đầu tư và Phát triển Đô thị Long Giang",
+    "TradeCenter": "HSX",
+    "Price": 6.1,
+    "PE": 56.48,
+    "EPS": 0.11
+  },
+  {
+    "Symbol": "LHG",
+    "CompanyName": "Công ty Cổ phần Long Hậu",
+    "TradeCenter": "HSX",
+    "Price": 50.8,
+    "PE": 14.8,
+    "EPS": 3.43
+  },
+  {
+    "Symbol": "LIX",
+    "CompanyName": "Công ty Cổ phần Bột giặt Lix",
+    "TradeCenter": "HSX",
+    "Price": 58.7,
+    "PE": 15.67,
+    "EPS": 3.75
+  },
+  {
+    "Symbol": "LM8",
+    "CompanyName": "Công ty Cổ phần Lilama 18",
+    "TradeCenter": "HSX",
+    "Price": 10.1,
+    "PE": 9.1,
+    "EPS": 1.11
+  },
+  {
+    "Symbol": "LPB",
+    "CompanyName": "Ngân hàng Thương mại cổ phần Bưu điện Liên Việt",
+    "TradeCenter": "HSX",
+    "Price": 25.5,
+    "PE": 21.39,
+    "EPS": 1.19
+  },
+  {
+    "Symbol": "LSS",
+    "CompanyName": "Công ty Cổ phần Mía đường Lam Sơn",
+    "TradeCenter": "HSX",
+    "Price": 9.62,
+    "PE": 185.71,
+    "EPS": 0.05
+  },
+  {
+    "Symbol": "MAFPF1",
+    "CompanyName": "Quỹ đầu tư tăng trưởng Manulife",
+    "TradeCenter": "HSX",
+    "Price": 10.1,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "MBB",
+    "CompanyName": "Ngân hàng Thương mại cổ phần Quân đội",
+    "TradeCenter": "HSX",
+    "Price": 28.9,
+    "PE": 35.3,
+    "EPS": 0.82
+  },
+  {
+    "Symbol": "MCG",
+    "CompanyName": "Công ty Cổ phần Cơ điện và Xây dựng Việt Nam",
+    "TradeCenter": "HSX",
+    "Price": 2.94,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "MCP",
+    "CompanyName": "Công ty cổ phần In và Bao bì Mỹ Châu",
+    "TradeCenter": "HSX",
+    "Price": 24,
+    "PE": 15.76,
+    "EPS": 1.52
+  },
+  {
+    "Symbol": "MCV",
+    "CompanyName": "Công ty Cổ phần Cavico Việt Nam Khai thác Mỏ và Xây dựng ",
+    "TradeCenter": "HSX",
+    "Price": 3.6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "MDG",
+    "CompanyName": "Công ty Cổ phần miền Đông",
+    "TradeCenter": "HSX",
+    "Price": 11.4,
+    "PE": 12.23,
+    "EPS": 0.93
+  },
+  {
+    "Symbol": "MHC",
+    "CompanyName": "Công ty Cổ phần MHC",
+    "TradeCenter": "HSX",
+    "Price": 8.65,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "MIG",
+    "CompanyName": "Tổng Công ty cổ phần Bảo hiểm Quân đội",
+    "TradeCenter": "HSX",
+    "Price": 18.05,
+    "PE": 4.88,
+    "EPS": 3.7
+  },
+  {
+    "Symbol": "MSB",
+    "CompanyName": "Ngân hàng Thương mại cổ phần Hàng hải Việt Nam",
+    "TradeCenter": "HSX",
+    "Price": 29.65,
+    "PE": 21.84,
+    "EPS": 1.36
+  },
+  {
+    "Symbol": "MSH",
+    "CompanyName": "Công ty cổ phần May Sông Hồng",
+    "TradeCenter": "HSX",
+    "Price": 65.3,
+    "PE": 19.71,
+    "EPS": 3.31
+  },
+  {
+    "Symbol": "MSN",
+    "CompanyName": "Công ty Cổ phần Tập đoàn MaSan",
+    "TradeCenter": "HSX",
+    "Price": 134,
+    "PE": 394.93,
+    "EPS": 0.34
+  },
+  {
+    "Symbol": "MWG",
+    "CompanyName": "Công ty cổ phần Đầu tư Thế giới Di động",
+    "TradeCenter": "HSX",
+    "Price": 164.1,
+    "PE": 391.37,
+    "EPS": 0.42
+  },
+  {
+    "Symbol": "NAF",
+    "CompanyName": "Công ty Cổ phần Nafoods Group ",
+    "TradeCenter": "HSX",
+    "Price": 32.6,
+    "PE": 49.42,
+    "EPS": 0.66
+  },
+  {
+    "Symbol": "NAV",
+    "CompanyName": "Công ty Cổ phần Nam Việt",
+    "TradeCenter": "HSX",
+    "Price": 18,
+    "PE": 6.47,
+    "EPS": 2.78
+  },
+  {
+    "Symbol": "NBB",
+    "CompanyName": "Công ty Cổ phần Đầu tư Năm Bảy Bảy",
+    "TradeCenter": "HSX",
+    "Price": 26.65,
+    "PE": 40.12,
+    "EPS": 0.66
+  },
+  {
+    "Symbol": "NCT",
+    "CompanyName": "Công ty Cổ phần Dịch vụ Hàng hóa Nội Bài",
+    "TradeCenter": "HSX",
+    "Price": 71.2,
+    "PE": 17.43,
+    "EPS": 4.09
+  },
+  {
+    "Symbol": "NHA",
+    "CompanyName": "Tổng Công ty Đầu tư Phát triển Nhà và Đô thị Nam Hà Nội",
+    "TradeCenter": "HSX",
+    "Price": 24.4,
+    "PE": 31.52,
+    "EPS": 0.77
+  },
+  {
+    "Symbol": "NHH",
+    "CompanyName": "Công ty Cổ phần Nhựa Hà Nội",
+    "TradeCenter": "HSX",
+    "Price": 44.9,
+    "PE": 21.72,
+    "EPS": 2.07
+  },
+  {
+    "Symbol": "NHS",
+    "CompanyName": "Công ty Cổ phần Đường Ninh Hòa",
+    "TradeCenter": "HSX",
+    "Price": 15.8,
+    "PE": 47.07,
+    "EPS": 0.34
+  },
+  {
+    "Symbol": "NHW",
+    "CompanyName": "Công ty Cổ phần Ngô Han",
+    "TradeCenter": "HSX",
+    "Price": 10.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "NKD",
+    "CompanyName": "Công ty Cổ phần Chế biến Thực phẩm Kinh Đô Miền Bắc ",
+    "TradeCenter": "HSX",
+    "Price": 41.2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "NKG",
+    "CompanyName": "Công ty Cổ phần Thép Nam Kim",
+    "TradeCenter": "HSX",
+    "Price": 33.7,
+    "PE": 20.04,
+    "EPS": 1.68
+  },
+  {
+    "Symbol": "NLG",
+    "CompanyName": "Công ty cổ phần Đầu tư Nam Long",
+    "TradeCenter": "HSX",
+    "Price": 43.7,
+    "PE": 139.22,
+    "EPS": 0.31
+  },
+  {
+    "Symbol": "NNC",
+    "CompanyName": "Công ty Cổ phần Đá Núi Nhỏ",
+    "TradeCenter": "HSX",
+    "Price": 23.6,
+    "PE": 5.58,
+    "EPS": 4.23
+  },
+  {
+    "Symbol": "NT2",
+    "CompanyName": "Công ty Cổ phần Điện lực Dầu khí Nhơn Trạch 2",
+    "TradeCenter": "HSX",
+    "Price": 18.5,
+    "PE": 31.47,
+    "EPS": 0.59
+  },
+  {
+    "Symbol": "NTL",
+    "CompanyName": "Công ty Cổ phần Phát triển Đô thị Từ Liêm ",
+    "TradeCenter": "HSX",
+    "Price": 29.1,
+    "PE": 5.72,
+    "EPS": 5.08
+  },
+  {
+    "Symbol": "NVL",
+    "CompanyName": "Công ty cổ phần Tập đoàn Đầu tư Địa ốc No Va",
+    "TradeCenter": "HSX",
+    "Price": 104,
+    "PE": 189.5,
+    "EPS": 0.55
+  },
+  {
+    "Symbol": "NVN",
+    "CompanyName": "Công ty Cổ phần Nhà Việt Nam",
+    "TradeCenter": "HSX",
+    "Price": 1.4,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "NVT",
+    "CompanyName": "Công ty Cổ phần Bất động sản Du lịch Ninh Vân Bay",
+    "TradeCenter": "HSX",
+    "Price": 9,
+    "PE": 542.17,
+    "EPS": 0.02
+  },
+  {
+    "Symbol": "OCB",
+    "CompanyName": "Ngân hàng Thương mại cổ phần Phương Đông",
+    "TradeCenter": "HSX",
+    "Price": 30,
+    "PE": 14.64,
+    "EPS": 2.05
+  },
+  {
+    "Symbol": "OGC",
+    "CompanyName": "Công ty Cổ phần Tập đoàn Đại Dương",
+    "TradeCenter": "HSX",
+    "Price": 5.16,
+    "PE": 17.27,
+    "EPS": 0.3
+  },
+  {
+    "Symbol": "OPC",
+    "CompanyName": "Công ty cổ phần Dược phẩm OPC",
+    "TradeCenter": "HSX",
+    "Price": 57,
+    "PE": 36.5,
+    "EPS": 1.56
+  },
+  {
+    "Symbol": "PAC",
+    "CompanyName": "Công ty Cổ phần Pin Ắc quy Miền Nam ",
+    "TradeCenter": "HSX",
+    "Price": 38.9,
+    "PE": 17.35,
+    "EPS": 2.24
+  },
+  {
+    "Symbol": "PC1",
+    "CompanyName": "Công ty cổ phần Xây lắp điện 1",
+    "TradeCenter": "HSX",
+    "Price": 26.85,
+    "PE": 18.66,
+    "EPS": 1.44
+  },
+  {
+    "Symbol": "PDN",
+    "CompanyName": "Công ty Cổ phần Cảng Đồng Nai",
+    "TradeCenter": "HSX",
+    "Price": 87,
+    "PE": 8.79,
+    "EPS": 9.89
+  },
+  {
+    "Symbol": "PDR",
+    "CompanyName": "Công ty cổ phần Phát triển Bất động sản Phát Đạt",
+    "TradeCenter": "HSX",
+    "Price": 92.5,
+    "PE": 105.52,
+    "EPS": 0.88
+  },
+  {
+    "Symbol": "PET",
+    "CompanyName": "Tổng Công ty Cổ phần Dịch vụ Tổng hợp Dầu khí",
+    "TradeCenter": "HSX",
+    "Price": 21.35,
+    "PE": 31.01,
+    "EPS": 0.69
+  },
+  {
+    "Symbol": "PGC",
+    "CompanyName": "Tổng Công ty Gas Petrolimex-CTCP",
+    "TradeCenter": "HSX",
+    "Price": 16.8,
+    "PE": 6.76,
+    "EPS": 2.48
+  },
+  {
+    "Symbol": "PGD",
+    "CompanyName": "Công ty Cổ phần Phân phối Khí thấp áp Dầu khí Việt Nam",
+    "TradeCenter": "HSX",
+    "Price": 28.8,
+    "PE": 10.17,
+    "EPS": 2.83
+  },
+  {
+    "Symbol": "PGI",
+    "CompanyName": "Tổng Công ty cổ phần Bảo hiểm Petrolimex",
+    "TradeCenter": "HSX",
+    "Price": 25.5,
+    "PE": 47.57,
+    "EPS": 0.54
+  },
+  {
+    "Symbol": "PHC",
+    "CompanyName": "Công ty cổ phần Xây dựng Phục Hưng Holdings",
+    "TradeCenter": "HSX",
+    "Price": 19.3,
+    "PE": 90.4,
+    "EPS": 0.21
+  },
+  {
+    "Symbol": "PHR",
+    "CompanyName": "Công ty cổ phần Cao su Phước Hòa",
+    "TradeCenter": "HSX",
+    "Price": 49.8,
+    "PE": 15.68,
+    "EPS": 3.18
+  },
+  {
+    "Symbol": "PHT",
+    "CompanyName": "Công ty Cổ phần Sản xuất và Thương mại Phúc Tiến  ",
+    "TradeCenter": "HSX",
+    "Price": 5.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PIT",
+    "CompanyName": "Công ty Cổ phần Xuất nhập khẩu Petrolimex",
+    "TradeCenter": "HSX",
+    "Price": 5.8,
+    "PE": 20.34,
+    "EPS": 0.29
+  },
+  {
+    "Symbol": "PJT",
+    "CompanyName": "Công ty Cổ phần Vận tải Xăng dầu Đường thủy Petrolimex",
+    "TradeCenter": "HSX",
+    "Price": 10.9,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PLP",
+    "CompanyName": "Công ty Cổ phần Sản xuất và Công nghệ Nhựa Pha Lê",
+    "TradeCenter": "HSX",
+    "Price": 9.71,
+    "PE": 14.52,
+    "EPS": 0.67
+  },
+  {
+    "Symbol": "PLX",
+    "CompanyName": "Tập đoàn Xăng dầu Việt Nam",
+    "TradeCenter": "HSX",
+    "Price": 51.3,
+    "PE": 153.82,
+    "EPS": 0.33
+  },
+  {
+    "Symbol": "PME",
+    "CompanyName": "Công ty Cổ phần Pymepharco",
+    "TradeCenter": "HSX",
+    "Price": 84.5,
+    "PE": 34.39,
+    "EPS": 2.46
+  },
+  {
+    "Symbol": "PMG",
+    "CompanyName": "Công ty Cổ phần Đầu tư và Sản xuất Petro Miền Trung",
+    "TradeCenter": "HSX",
+    "Price": 13.8,
+    "PE": 89.61,
+    "EPS": 0.15
+  },
+  {
+    "Symbol": "PNC",
+    "CompanyName": "Công ty Cổ phần Văn hóa Phương Nam ",
+    "TradeCenter": "HSX",
+    "Price": 8.8,
+    "PE": 22.41,
+    "EPS": 0.39
+  },
+  {
+    "Symbol": "PNJ",
+    "CompanyName": "Công ty Cổ phần Vàng bạc Đá quý Phú Nhuận",
+    "TradeCenter": "HSX",
+    "Price": 95.8,
+    "PE": 50.39,
+    "EPS": 1.9
+  },
+  {
+    "Symbol": "POM",
+    "CompanyName": "Công ty Cổ phần Thép Pomina",
+    "TradeCenter": "HSX",
+    "Price": 13.65,
+    "PE": 45.36,
+    "EPS": 0.3
+  },
+  {
+    "Symbol": "POW",
+    "CompanyName": "Tổng Công ty Điện lực Dầu khí Việt Nam - CTCP",
+    "TradeCenter": "HSX",
+    "Price": 10.7,
+    "PE": 9.27,
+    "EPS": 1.15
+  },
+  {
+    "Symbol": "PPC",
+    "CompanyName": "Công ty Cổ phần Nhiệt điện Phả Lại ",
+    "TradeCenter": "HSX",
+    "Price": 22.3,
+    "PE": 16.73,
+    "EPS": 1.33
+  },
+  {
+    "Symbol": "PRUBF1",
+    "CompanyName": "Quỹ Đầu tư Cân bằng Prudential ",
+    "TradeCenter": "HSX",
+    "Price": 10.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PSH",
+    "CompanyName": "CTCP Thương mại Đầu tư Dầu khí Nam Sông Hậu",
+    "TradeCenter": "HSX",
+    "Price": 19.95,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PTB",
+    "CompanyName": "Công ty Cổ phần Phú Tài",
+    "TradeCenter": "HSX",
+    "Price": 94.7,
+    "PE": 43.84,
+    "EPS": 2.16
+  },
+  {
+    "Symbol": "PTC",
+    "CompanyName": "Công ty Cổ phần Đầu tư và Xây dựng Bưu điện",
+    "TradeCenter": "HSX",
+    "Price": 9.8,
+    "PE": 10.27,
+    "EPS": 0.95
+  },
+  {
+    "Symbol": "PTL",
+    "CompanyName": "Công ty Cổ phần Đầu tư Hạ tầng và Đô thị Dầu khí",
+    "TradeCenter": "HSX",
+    "Price": 8.3,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PVD",
+    "CompanyName": "Tổng Công ty Cổ phần Khoan và Dịch vụ Khoan Dầu khí",
+    "TradeCenter": "HSX",
+    "Price": 18.15,
+    "PE": 70.51,
+    "EPS": 0.26
+  },
+  {
+    "Symbol": "PVF",
+    "CompanyName": "Tổng Công ty Tài chính Cổ phần Dầu khí Việt Nam",
+    "TradeCenter": "HSX",
+    "Price": 4.2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PVT",
+    "CompanyName": "Tổng công ty Cổ phần Vận tải Dầu khí",
+    "TradeCenter": "HSX",
+    "Price": 18.5,
+    "PE": 17.86,
+    "EPS": 1.04
+  },
+  {
+    "Symbol": "PXI",
+    "CompanyName": "Công ty Cổ phần Xây dựng công nghiệp và dân dụng Dầu khí",
+    "TradeCenter": "HSX",
+    "Price": 2.98,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "PXS",
+    "CompanyName": "Công ty Cổ phần Kết cấu Kim loại và Lắp máy Dầu khí",
+    "TradeCenter": "HSX",
+    "Price": 5.55,
+    "PE": 208.65,
+    "EPS": 0.03
+  },
+  {
+    "Symbol": "QCG",
+    "CompanyName": "Công ty Cổ phần Quốc Cường Gia Lai",
+    "TradeCenter": "HSX",
+    "Price": 6.36,
+    "PE": 32.63,
+    "EPS": 0.19
+  },
+  {
+    "Symbol": "RAL",
+    "CompanyName": "Công ty Cổ phần Bóng đèn Phích nước Rạng Đông",
+    "TradeCenter": "HSX",
+    "Price": 173,
+    "PE": 9.14,
+    "EPS": 18.92
+  },
+  {
+    "Symbol": "RDP",
+    "CompanyName": "Công ty Cổ phần Rạng Đông Holding",
+    "TradeCenter": "HSX",
+    "Price": 10.55,
+    "PE": 114.05,
+    "EPS": 0.09
+  },
+  {
+    "Symbol": "REE",
+    "CompanyName": "Công ty Cổ phần Cơ điện lạnh",
+    "TradeCenter": "HSX",
+    "Price": 55,
+    "PE": 39.49,
+    "EPS": 1.39
+  },
+  {
+    "Symbol": "RIC",
+    "CompanyName": "Công ty Cổ phần Quốc tế Hoàng Gia",
+    "TradeCenter": "HSX",
+    "Price": 17.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "ROS",
+    "CompanyName": "Công ty cổ phần Xây dựng FLC Faros",
+    "TradeCenter": "HSX",
+    "Price": 4.97,
+    "PE": 256.19,
+    "EPS": 0.02
+  },
+  {
+    "Symbol": "S4A",
+    "CompanyName": "Công ty Cổ phần Thủy điện Sê San 4A",
+    "TradeCenter": "HSX",
+    "Price": 27.4,
+    "PE": 10.19,
+    "EPS": 2.69
+  },
+  {
+    "Symbol": "SAB",
+    "CompanyName": "Tổng CTCP Bia - Rượu - Nước giải khát Sài Gòn",
+    "TradeCenter": "HSX",
+    "Price": 159,
+    "PE": 18.06,
+    "EPS": 8.8
+  },
+  {
+    "Symbol": "SAM",
+    "CompanyName": "Công ty Cổ phần SAM Holdings",
+    "TradeCenter": "HSX",
+    "Price": 9.35,
+    "PE": 78.77,
+    "EPS": 0.12
+  },
+  {
+    "Symbol": "SAV",
+    "CompanyName": "Công ty Cổ phần Hợp tác kinh tế và Xuất nhập khẩu SAVIMEX",
+    "TradeCenter": "HSX",
+    "Price": 24.5,
+    "PE": 29.84,
+    "EPS": 0.82
+  },
+  {
+    "Symbol": "SBA",
+    "CompanyName": "Công ty Cổ phần Sông Ba",
+    "TradeCenter": "HSX",
+    "Price": 15.8,
+    "PE": 29.02,
+    "EPS": 0.54
+  },
+  {
+    "Symbol": "SBC",
+    "CompanyName": "Công ty Cổ phần Vận tải và Giao nhận bia Sài Gòn",
+    "TradeCenter": "HSX",
+    "Price": 2.01,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SBT",
+    "CompanyName": "Công ty cổ phần Thành Thành Công - Biên Hòa",
+    "TradeCenter": "HSX",
+    "Price": 18.55,
+    "PE": 80.41,
+    "EPS": 0.23
+  },
+  {
+    "Symbol": "SBV",
+    "CompanyName": "CTCP Siam Brothers Việt Nam",
+    "TradeCenter": "HSX",
+    "Price": 13.95,
+    "PE": 10.59,
+    "EPS": 1.32
+  },
+  {
+    "Symbol": "SC5",
+    "CompanyName": "Công ty Cổ phần Xây dựng số 5 ",
+    "TradeCenter": "HSX",
+    "Price": 21,
+    "PE": 7.43,
+    "EPS": 2.83
+  },
+  {
+    "Symbol": "SCD",
+    "CompanyName": "Công ty Cổ phần Nước giải khát Chương Dương",
+    "TradeCenter": "HSX",
+    "Price": 19.05,
+    "PE": 50.79,
+    "EPS": 0.38
+  },
+  {
+    "Symbol": "SCR",
+    "CompanyName": "Công ty Cổ phần Địa ốc Sài Gòn Thương Tín",
+    "TradeCenter": "HSX",
+    "Price": 10.3,
+    "PE": 72.08,
+    "EPS": 0.14
+  },
+  {
+    "Symbol": "SCS",
+    "CompanyName": "Công ty cổ phần Dịch vụ Hàng hóa Sài Gòn",
+    "TradeCenter": "HSX",
+    "Price": 135.1,
+    "PE": 49.93,
+    "EPS": 2.71
+  },
+  {
+    "Symbol": "SEC",
+    "CompanyName": "Công ty Cổ phần Mía đường Nhiệt điện Gia Lai",
+    "TradeCenter": "HSX",
+    "Price": 12.4,
+    "PE": 11.04,
+    "EPS": 1.12
+  },
+  {
+    "Symbol": "SFC",
+    "CompanyName": "Công ty Cổ phần Nhiên liệu Sài Gòn",
+    "TradeCenter": "HSX",
+    "Price": 23.5,
+    "PE": 8.5,
+    "EPS": 2.76
+  },
+  {
+    "Symbol": "SFG",
+    "CompanyName": "Công ty Cổ phần Phân bón Miền Nam",
+    "TradeCenter": "HSX",
+    "Price": 9.26,
+    "PE": 48.41,
+    "EPS": 0.19
+  },
+  {
+    "Symbol": "SFI",
+    "CompanyName": "Công ty Cổ phần Đại lý Vận tải SAFI",
+    "TradeCenter": "HSX",
+    "Price": 39.95,
+    "PE": 60.94,
+    "EPS": 0.66
+  },
+  {
+    "Symbol": "SGN",
+    "CompanyName": "Công ty cổ phần Phục vụ Mặt đất Sài Gòn ",
+    "TradeCenter": "HSX",
+    "Price": 67.8,
+    "PE": 119.83,
+    "EPS": 0.57
+  },
+  {
+    "Symbol": "SGR",
+    "CompanyName": "Công ty cổ phần Địa ốc Sài Gòn",
+    "TradeCenter": "HSX",
+    "Price": 21,
+    "PE": 29.1,
+    "EPS": 0.72
+  },
+  {
+    "Symbol": "SGT",
+    "CompanyName": "Công ty Cổ phần Công nghệ Viễn thông Sài Gòn",
+    "TradeCenter": "HSX",
+    "Price": 18.1,
+    "PE": 54.55,
+    "EPS": 0.33
+  },
+  {
+    "Symbol": "SHA",
+    "CompanyName": "Công ty Cổ phần Sơn Hà Sài Gòn",
+    "TradeCenter": "HSX",
+    "Price": 5.9,
+    "PE": 24.11,
+    "EPS": 0.24
+  },
+  {
+    "Symbol": "SHI",
+    "CompanyName": "Công ty cổ phần Quốc tế Sơn Hà",
+    "TradeCenter": "HSX",
+    "Price": 19.8,
+    "PE": 58.46,
+    "EPS": 0.34
+  },
+  {
+    "Symbol": "SHP",
+    "CompanyName": "Công ty cổ phần Thủy điện Miền Nam",
+    "TradeCenter": "HSX",
+    "Price": 21.5,
+    "PE": 20.18,
+    "EPS": 1.07
+  },
+  {
+    "Symbol": "SII",
+    "CompanyName": "Công ty cổ phần Hạ tầng nước Sài Gòn",
+    "TradeCenter": "HSX",
+    "Price": 18.65,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SJD",
+    "CompanyName": "Công ty Cổ phần Thủy điện Cần Đơn",
+    "TradeCenter": "HSX",
+    "Price": 17.1,
+    "PE": 15.31,
+    "EPS": 1.12
+  },
+  {
+    "Symbol": "SJF",
+    "CompanyName": "CTCP Đầu tư Sao Thái Dương",
+    "TradeCenter": "HSX",
+    "Price": 3.58,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SJS",
+    "CompanyName": "Công ty Cổ phần Đầu tư Phát triển Đô thị và Khu Công nghiệp Sông Đà",
+    "TradeCenter": "HSX",
+    "Price": 62.8,
+    "PE": 123.96,
+    "EPS": 0.51
+  },
+  {
+    "Symbol": "SKG",
+    "CompanyName": "Công ty Cổ phần Tàu cao tốc Superdong – Kiên Giang",
+    "TradeCenter": "HSX",
+    "Price": 10.5,
+    "PE": 36.32,
+    "EPS": 0.29
+  },
+  {
+    "Symbol": "SMA",
+    "CompanyName": "Công ty Cổ phần Thiết bị Phụ tùng Sài Gòn",
+    "TradeCenter": "HSX",
+    "Price": 9.77,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SMB",
+    "CompanyName": "Công ty Cổ phần Bia Sài Gòn - Miền Trung",
+    "TradeCenter": "HSX",
+    "Price": 41,
+    "PE": 6.93,
+    "EPS": 5.91
+  },
+  {
+    "Symbol": "SMC",
+    "CompanyName": "Công ty Cổ phần Ðầu tư Thương mại SMC",
+    "TradeCenter": "HSX",
+    "Price": 44.35,
+    "PE": 15.22,
+    "EPS": 2.91
+  },
+  {
+    "Symbol": "SPM",
+    "CompanyName": "Công ty Cổ phần S.P.M",
+    "TradeCenter": "HSX",
+    "Price": 13.2,
+    "PE": 13.11,
+    "EPS": 1.01
+  },
+  {
+    "Symbol": "SRC",
+    "CompanyName": "Công ty Cổ phần Cao Su Sao Vàng",
+    "TradeCenter": "HSX",
+    "Price": 17.45,
+    "PE": 11.04,
+    "EPS": 1.58
+  },
+  {
+    "Symbol": "SRF",
+    "CompanyName": "Công ty Cổ phần Kỹ Nghệ Lạnh",
+    "TradeCenter": "HSX",
+    "Price": 12.85,
+    "PE": 27.86,
+    "EPS": 0.46
+  },
+  {
+    "Symbol": "SSB",
+    "CompanyName": "Ngân hàng Thương mại cổ phần Đông Nam Á",
+    "TradeCenter": "HSX",
+    "Price": 36.6,
+    "PE": 23.09,
+    "EPS": 1.58
+  },
+  {
+    "Symbol": "SSI",
+    "CompanyName": "Công ty cổ phần Chứng khoán SSI",
+    "TradeCenter": "HSX",
+    "Price": 54.6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "ST8",
+    "CompanyName": "Công ty Cổ phần Siêu Thanh ",
+    "TradeCenter": "HSX",
+    "Price": 10.05,
+    "PE": 37.17,
+    "EPS": 0.27
+  },
+  {
+    "Symbol": "STB",
+    "CompanyName": "Ngân hàng Thương mại Cổ phần Sài Gòn Thương Tín",
+    "TradeCenter": "HSX",
+    "Price": 29.9,
+    "PE": 44.41,
+    "EPS": 0.67
+  },
+  {
+    "Symbol": "STG",
+    "CompanyName": "Công ty Cổ phần Kho vận Miền Nam",
+    "TradeCenter": "HSX",
+    "Price": 17.7,
+    "PE": 13.97,
+    "EPS": 1.27
+  },
+  {
+    "Symbol": "STK",
+    "CompanyName": "Công ty cổ phần Sợi Thế Kỷ",
+    "TradeCenter": "HSX",
+    "Price": 42.2,
+    "PE": 47.73,
+    "EPS": 0.88
+  },
+  {
+    "Symbol": "SVC",
+    "CompanyName": "Công ty Cổ phần Dịch vụ tổng hợp Sài Gòn",
+    "TradeCenter": "HSX",
+    "Price": 71.9,
+    "PE": 22.38,
+    "EPS": 3.21
+  },
+  {
+    "Symbol": "SVD",
+    "CompanyName": "Công ty Cổ phần Đầu tư và Thương mại Vũ Đăng",
+    "TradeCenter": "HSX",
+    "Price": 7.86,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "SVI",
+    "CompanyName": "Công ty Cổ phần Bao bì Biên Hòa",
+    "TradeCenter": "HSX",
+    "Price": 70.1,
+    "PE": 13.82,
+    "EPS": 5.07
+  },
+  {
+    "Symbol": "SVT",
+    "CompanyName": "Công ty Cổ phần Công nghệ Sài Gòn Viễn Đông",
+    "TradeCenter": "HSX",
+    "Price": 15.9,
+    "PE": 7.01,
+    "EPS": 2.27
+  },
+  {
+    "Symbol": "SZC",
+    "CompanyName": "Công ty cổ phần Sonadezi Châu Đức",
+    "TradeCenter": "HSX",
+    "Price": 40.95,
+    "PE": 16.29,
+    "EPS": 2.51
+  },
+  {
+    "Symbol": "SZL",
+    "CompanyName": "Công ty cổ phần Sonadezi Long Thành",
+    "TradeCenter": "HSX",
+    "Price": 51.4,
+    "PE": 9.25,
+    "EPS": 5.56
+  },
+  {
+    "Symbol": "TAC",
+    "CompanyName": "Công ty Cổ phần Dầu Thực vật Tường An",
+    "TradeCenter": "HSX",
+    "Price": 57.8,
+    "PE": 30.35,
+    "EPS": 1.9
+  },
+  {
+    "Symbol": "TBC",
+    "CompanyName": "Công ty cổ phần Thủy điện Thác Bà",
+    "TradeCenter": "HSX",
+    "Price": 27.4,
+    "PE": 7.72,
+    "EPS": 3.55
+  },
+  {
+    "Symbol": "TCB",
+    "CompanyName": "Ngân hàng TMCP Kỹ Thương Việt Nam (Techcombank)",
+    "TradeCenter": "HSX",
+    "Price": 51.1,
+    "PE": 33.76,
+    "EPS": 1.51
+  },
+  {
+    "Symbol": "TCD",
+    "CompanyName": "Công ty Cổ phần Đầu tư Phát triển Công nghiệp và Vận tải",
+    "TradeCenter": "HSX",
+    "Price": 13.3,
+    "PE": 16.89,
+    "EPS": 0.79
+  },
+  {
+    "Symbol": "TCH",
+    "CompanyName": "Công ty cổ phần Đầu tư Dịch vụ Tài chính Hoàng Huy",
+    "TradeCenter": "HSX",
+    "Price": 19.15,
+    "PE": 23.06,
+    "EPS": 0.83
+  },
+  {
+    "Symbol": "TCL",
+    "CompanyName": "Công ty Cổ phần Đại lý Giao nhận Vận tải Xếp dỡ Tân Cảng",
+    "TradeCenter": "HSX",
+    "Price": 34.15,
+    "PE": 8.81,
+    "EPS": 3.88
+  },
+  {
+    "Symbol": "TCM",
+    "CompanyName": "Công ty Cổ phần Dệt may - Đầu tư - Thương mại Thành Công",
+    "TradeCenter": "HSX",
+    "Price": 75.9,
+    "PE": 24.7,
+    "EPS": 3.07
+  },
+  {
+    "Symbol": "TCO",
+    "CompanyName": "Công ty Cổ phần Vận tải Đa phương thức Duyên Hải",
+    "TradeCenter": "HSX",
+    "Price": 19.15,
+    "PE": 32.53,
+    "EPS": 0.59
+  },
+  {
+    "Symbol": "TCR",
+    "CompanyName": "Công ty Cổ phần Công nghiệp Gốm sứ Taicera",
+    "TradeCenter": "HSX",
+    "Price": 3.86,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "TCT",
+    "CompanyName": "Công ty Cổ phần Cáp treo Núi Bà Tây Ninh ",
+    "TradeCenter": "HSX",
+    "Price": 26.2,
+    "PE": 40.58,
+    "EPS": 0.65
+  },
+  {
+    "Symbol": "TDC",
+    "CompanyName": "Công ty Cổ phần Kinh doanh và Phát triển Bình Dương",
+    "TradeCenter": "HSX",
+    "Price": 17.5,
+    "PE": 8.87,
+    "EPS": 1.97
+  },
+  {
+    "Symbol": "TDG",
+    "CompanyName": "Công ty Cổ phần Dầu khí Thái Dương",
+    "TradeCenter": "HSX",
+    "Price": 3.97,
+    "PE": 23.24,
+    "EPS": 0.17
+  },
+  {
+    "Symbol": "TDH",
+    "CompanyName": "Công ty Cổ phần Phát triển Nhà Thủ Đức",
+    "TradeCenter": "HSX",
+    "Price": 6.57,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "TDM",
+    "CompanyName": "Công ty cổ phần Nước Thủ Dầu Một",
+    "TradeCenter": "HSX",
+    "Price": 30.05,
+    "PE": 36.67,
+    "EPS": 0.82
+  },
+  {
+    "Symbol": "TDP",
+    "CompanyName": "Công ty cổ phần Thuận Đức",
+    "TradeCenter": "HSX",
+    "Price": 27.1,
+    "PE": 29.73,
+    "EPS": 0.91
+  },
+  {
+    "Symbol": "TDW",
+    "CompanyName": "Công ty Cổ phần Cấp nước Thủ Đức",
+    "TradeCenter": "HSX",
+    "Price": 34.9,
+    "PE": 7.3,
+    "EPS": 4.78
+  },
+  {
+    "Symbol": "TEG",
+    "CompanyName": "Công ty cổ phần Năng lượng và Bất động sản Trường Thành",
+    "TradeCenter": "HSX",
+    "Price": 15.5,
+    "PE": 273.37,
+    "EPS": 0.06
+  },
+  {
+    "Symbol": "TGG",
+    "CompanyName": "Công ty Cổ phần Louis Capital",
+    "TradeCenter": "HSX",
+    "Price": 11.9,
+    "PE": 7.77,
+    "EPS": 1.53
+  },
+  {
+    "Symbol": "THG",
+    "CompanyName": "Công ty Cổ phần Đầu tư và Xây dựng Tiền Giang",
+    "TradeCenter": "HSX",
+    "Price": 66.8,
+    "PE": 6.85,
+    "EPS": 9.75
+  },
+  {
+    "Symbol": "TIC",
+    "CompanyName": "Công ty Cổ phần Đầu tư Điện Tây Nguyên ",
+    "TradeCenter": "HSX",
+    "Price": 13.95,
+    "PE": 7.51,
+    "EPS": 1.86
+  },
+  {
+    "Symbol": "TIP",
+    "CompanyName": "Công ty cổ phần Phát triển Khu Công nghiệp Tín Nghĩa",
+    "TradeCenter": "HSX",
+    "Price": 37.15,
+    "PE": 5.52,
+    "EPS": 6.72
+  },
+  {
+    "Symbol": "TIX",
+    "CompanyName": "CTCP Sản xuất Kinh doanh Xuất nhập khẩu Dịch vụ và Đầu tư Tân Bình",
+    "TradeCenter": "HSX",
+    "Price": 31.2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "TLD",
+    "CompanyName": "Công ty Cổ phần Đầu tư Xây dựng và Phát triển Đô thị Thăng Long",
+    "TradeCenter": "HSX",
+    "Price": 5.25,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "TLG",
+    "CompanyName": "Công ty Cổ phần Tập đoàn Thiên Long",
+    "TradeCenter": "HSX",
+    "Price": 38.15,
+    "PE": 42.64,
+    "EPS": 0.89
+  },
+  {
+    "Symbol": "TLH",
+    "CompanyName": "Công ty Cổ phần Tập đoàn Thép Tiến Lên",
+    "TradeCenter": "HSX",
+    "Price": 14.7,
+    "PE": 13.89,
+    "EPS": 1.06
+  },
+  {
+    "Symbol": "TMP",
+    "CompanyName": "Công ty cổ phần Thủy điện Thác Mơ",
+    "TradeCenter": "HSX",
+    "Price": 40.35,
+    "PE": 11.49,
+    "EPS": 3.51
+  },
+  {
+    "Symbol": "TMS",
+    "CompanyName": "Công ty Cổ phần Transimex",
+    "TradeCenter": "HSX",
+    "Price": 61.2,
+    "PE": 40.44,
+    "EPS": 1.51
+  },
+  {
+    "Symbol": "TMT",
+    "CompanyName": "Công ty Cổ phần Ô tô TMT",
+    "TradeCenter": "HSX",
+    "Price": 9.35,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "TN1",
+    "CompanyName": "Công ty Cổ phần Thương mại Dịch vụ TNS Holdings",
+    "TradeCenter": "HSX",
+    "Price": 38.7,
+    "PE": 17.79,
+    "EPS": 2.18
+  },
+  {
+    "Symbol": "TNA",
+    "CompanyName": "Công ty Cổ phần Thương mại Xuất nhập khẩu Thiên Nam ",
+    "TradeCenter": "HSX",
+    "Price": 11.6,
+    "PE": 18.6,
+    "EPS": 0.62
+  },
+  {
+    "Symbol": "TNC",
+    "CompanyName": "Công ty Cổ phần Cao su Thống Nhất",
+    "TradeCenter": "HSX",
+    "Price": 25.65,
+    "PE": 18.04,
+    "EPS": 1.42
+  },
+  {
+    "Symbol": "TNH",
+    "CompanyName": "Công ty Cổ phần Bệnh viện Quốc tế Thái Nguyên",
+    "TradeCenter": "HSX",
+    "Price": 29.1,
+    "PE": 10.97,
+    "EPS": 2.65
+  },
+  {
+    "Symbol": "TNI",
+    "CompanyName": "Công ty cổ phần Tập đoàn Thành Nam",
+    "TradeCenter": "HSX",
+    "Price": 3.31,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "TNT",
+    "CompanyName": "Công ty Cổ phần Tập đoàn TNT",
+    "TradeCenter": "HSX",
+    "Price": 9.2,
+    "PE": 39.97,
+    "EPS": 0.23
+  },
+  {
+    "Symbol": "TPB",
+    "CompanyName": "Ngân hàng Thương mại cổ phần Tiên Phong",
+    "TradeCenter": "HSX",
+    "Price": 35,
+    "PE": 45.94,
+    "EPS": 0.76
+  },
+  {
+    "Symbol": "TPC",
+    "CompanyName": "Công ty Cổ phần Nhựa Tân Đại Hưng",
+    "TradeCenter": "HSX",
+    "Price": 9.29,
+    "PE": 16.03,
+    "EPS": 0.58
+  },
+  {
+    "Symbol": "TRA",
+    "CompanyName": "Công ty Cổ phần TRAPHACO",
+    "TradeCenter": "HSX",
+    "Price": 76.4,
+    "PE": 13.84,
+    "EPS": 5.52
+  },
+  {
+    "Symbol": "TRC",
+    "CompanyName": "Công ty Cổ phần Cao su Tây Ninh",
+    "TradeCenter": "HSX",
+    "Price": 36.1,
+    "PE": 12.76,
+    "EPS": 2.83
+  },
+  {
+    "Symbol": "TRI",
+    "CompanyName": "Công ty Cổ phần Nước giải khát Sài Gòn",
+    "TradeCenter": "HSX",
+    "Price": 1.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "TS4",
+    "CompanyName": "Công ty cổ phần Thủy sản số 4",
+    "TradeCenter": "HSX",
+    "Price": 3.63,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "TSC",
+    "CompanyName": "Công ty Cổ phần Vật tư kỹ thuật Nông nghiệp Cần Thơ",
+    "TradeCenter": "HSX",
+    "Price": 9.56,
+    "PE": 167.43,
+    "EPS": 0.06
+  },
+  {
+    "Symbol": "TTA",
+    "CompanyName": "Công ty Cổ phần Đầu tư Xây dựng và Phát triển Trường Thành",
+    "TradeCenter": "HSX",
+    "Price": 13.9,
+    "PE": 11.69,
+    "EPS": 1.19
+  },
+  {
+    "Symbol": "TTB",
+    "CompanyName": "Công ty cổ phần Tập đoàn Tiến Bộ",
+    "TradeCenter": "HSX",
+    "Price": 5.11,
+    "PE": 42.65,
+    "EPS": 0.12
+  },
+  {
+    "Symbol": "TTE",
+    "CompanyName": "Công ty Cổ phần Đầu tư Năng lượng Trường Thịnh",
+    "TradeCenter": "HSX",
+    "Price": 9.33,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "TTF",
+    "CompanyName": "Công ty Cổ phần Tập đoàn Kỹ nghệ Gỗ Trường Thành",
+    "TradeCenter": "HSX",
+    "Price": 7.13,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "TV2",
+    "CompanyName": "Công ty Cổ phần Tư vấn Xây dựng Điện 2",
+    "TradeCenter": "HSX",
+    "Price": 42.65,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "TVS",
+    "CompanyName": "Công ty Cổ phần Chứng khoán Thiên Việt",
+    "TradeCenter": "HSX",
+    "Price": 25,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "TVT",
+    "CompanyName": "Tổng Công ty Việt Thắng - CTCP",
+    "TradeCenter": "HSX",
+    "Price": 25.6,
+    "PE": 5.32,
+    "EPS": 4.81
+  },
+  {
+    "Symbol": "TYA",
+    "CompanyName": "Công ty Cổ phần Dây và Cáp điện Taya Việt Nam ",
+    "TradeCenter": "HSX",
+    "Price": 15.4,
+    "PE": 5.54,
+    "EPS": 2.78
+  },
+  {
+    "Symbol": "UDC",
+    "CompanyName": "Công ty cổ phần Xây dựng và Phát triển Đô thị tỉnh Bà Rịa-Vũng Tàu",
+    "TradeCenter": "HSX",
+    "Price": 5.88,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "UIC",
+    "CompanyName": "Công ty Cổ phần Đầu tư Phát triển Nhà và Đô thị Idico",
+    "TradeCenter": "HSX",
+    "Price": 48.65,
+    "PE": 5.54,
+    "EPS": 8.78
+  },
+  {
+    "Symbol": "VAF",
+    "CompanyName": "Công ty cổ phần Phân lân nung chảy Văn Điển",
+    "TradeCenter": "HSX",
+    "Price": 10.8,
+    "PE": 15.37,
+    "EPS": 0.7
+  },
+  {
+    "Symbol": "VCA",
+    "CompanyName": "Công ty Cổ phần Thép VICASA - VNSTEEL",
+    "TradeCenter": "HSX",
+    "Price": 13.5,
+    "PE": 4.24,
+    "EPS": 3.19
+  },
+  {
+    "Symbol": "VCB",
+    "CompanyName": "Ngân hàng Thương mại cổ phần Ngoại thương Việt Nam",
+    "TradeCenter": "HSX",
+    "Price": 98,
+    "PE": 28.25,
+    "EPS": 3.47
+  },
+  {
+    "Symbol": "VCF",
+    "CompanyName": "Công ty Cổ phần VinaCafé Biên Hòa",
+    "TradeCenter": "HSX",
+    "Price": 252,
+    "PE": 8.37,
+    "EPS": 30.1
+  },
+  {
+    "Symbol": "VCG",
+    "CompanyName": "Tổng Công ty Cổ phần Xuất nhập khẩu và Xây dựng Việt Nam",
+    "TradeCenter": "HSX",
+    "Price": 44.1,
+    "PE": 18.81,
+    "EPS": 2.34
+  },
+  {
+    "Symbol": "VCI",
+    "CompanyName": "Công ty cổ phần Chứng khoán Bản Việt",
+    "TradeCenter": "HSX",
+    "Price": 49.8,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VDP",
+    "CompanyName": "Công ty Cổ phần Dược phẩm Trung ương VIDIPHA",
+    "TradeCenter": "HSX",
+    "Price": 37.3,
+    "PE": 27.85,
+    "EPS": 1.34
+  },
+  {
+    "Symbol": "VDS",
+    "CompanyName": "Công ty Cổ phần Chứng khoán Rồng Việt",
+    "TradeCenter": "HSX",
+    "Price": 23.6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VFMVF1",
+    "CompanyName": "Quỹ Đầu tư Chứng khoán Việt Nam  ",
+    "TradeCenter": "HSX",
+    "Price": 16.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VFMVF4",
+    "CompanyName": "Quỹ đầu tư Doanh nghiệp Hàng đầu Việt Nam",
+    "TradeCenter": "HSX",
+    "Price": 7.9,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VFMVFA",
+    "CompanyName": "Quỹ Đầu tư Năng động Việt Nam",
+    "TradeCenter": "HSX",
+    "Price": 7,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VFMVN30",
+    "CompanyName": "Quỹ ETF VFMVN30",
+    "TradeCenter": "HSX",
+    "Price": 0,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VGC",
+    "CompanyName": "Tổng Công ty Viglacera - CTCP",
+    "TradeCenter": "HSX",
+    "Price": 30.45,
+    "PE": 42.11,
+    "EPS": 0.72
+  },
+  {
+    "Symbol": "VHC",
+    "CompanyName": "Công ty Cổ phần Vĩnh Hoàn",
+    "TradeCenter": "HSX",
+    "Price": 41.1,
+    "PE": 31.39,
+    "EPS": 1.31
+  },
+  {
+    "Symbol": "VHM",
+    "CompanyName": "Công ty cổ phần Vinhomes",
+    "TradeCenter": "HSX",
+    "Price": 108.3,
+    "PE": 21.66,
+    "EPS": 5
+  },
+  {
+    "Symbol": "VIB",
+    "CompanyName": "Ngân hàng Thương mại cổ phần Quốc tế Việt Nam",
+    "TradeCenter": "HSX",
+    "Price": 41.6,
+    "PE": 27.55,
+    "EPS": 1.51
+  },
+  {
+    "Symbol": "VIC",
+    "CompanyName": "Tập đoàn Vingroup - Công ty Cổ phần",
+    "TradeCenter": "HSX",
+    "Price": 107.2,
+    "PE": 585.79,
+    "EPS": 0.18
+  },
+  {
+    "Symbol": "VIC11501",
+    "CompanyName": "Trái phiếu Vingroup 062015",
+    "TradeCenter": "HSX",
+    "Price": 0,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VIC11504",
+    "CompanyName": "Trái phiếu VIC11201802",
+    "TradeCenter": "HSX",
+    "Price": 0,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VID",
+    "CompanyName": "Công ty Cổ phần Đầu tư Phát triển Thương mại Viễn Đông",
+    "TradeCenter": "HSX",
+    "Price": 8.97,
+    "PE": 16.19,
+    "EPS": 0.55
+  },
+  {
+    "Symbol": "VIP",
+    "CompanyName": "Công ty Cổ phần Vận tải Xăng dầu VIPCO",
+    "TradeCenter": "HSX",
+    "Price": 7.52,
+    "PE": 26.96,
+    "EPS": 0.28
+  },
+  {
+    "Symbol": "VIS",
+    "CompanyName": "Công ty Cổ phần Thép Việt Ý",
+    "TradeCenter": "HSX",
+    "Price": 17.2,
+    "PE": 17.6,
+    "EPS": 0.98
+  },
+  {
+    "Symbol": "VIX",
+    "CompanyName": "Công ty cổ phần Chứng khoán VIX",
+    "TradeCenter": "HSX",
+    "Price": 22.2,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VJC",
+    "CompanyName": "Công ty cổ phần Hàng không VietJet ",
+    "TradeCenter": "HSX",
+    "Price": 113,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VMD",
+    "CompanyName": "Công ty cổ phần Y Dược phẩm Vimedimex",
+    "TradeCenter": "HSX",
+    "Price": 25,
+    "PE": 19.36,
+    "EPS": 1.29
+  },
+  {
+    "Symbol": "VNE",
+    "CompanyName": "Tổng công ty Cổ phần Xây dựng điện Việt Nam ",
+    "TradeCenter": "HSX",
+    "Price": 7.8,
+    "PE": 107,
+    "EPS": 0.07
+  },
+  {
+    "Symbol": "VNG",
+    "CompanyName": "Công ty Cổ phần Du lịch Thành Thành Công",
+    "TradeCenter": "HSX",
+    "Price": 11.6,
+    "PE": 563.11,
+    "EPS": 0.02
+  },
+  {
+    "Symbol": "VNL",
+    "CompanyName": "Công ty cổ phần Logistics Vinalink",
+    "TradeCenter": "HSX",
+    "Price": 18.6,
+    "PE": 4.88,
+    "EPS": 3.81
+  },
+  {
+    "Symbol": "VNM",
+    "CompanyName": "Công ty Cổ phần Sữa Việt Nam ",
+    "TradeCenter": "HSX",
+    "Price": 86.1,
+    "PE": 467.93,
+    "EPS": 0.18
+  },
+  {
+    "Symbol": "VNS",
+    "CompanyName": "Công ty Cổ phần Ánh Dương Việt Nam ",
+    "TradeCenter": "HSX",
+    "Price": 9.01,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VOS",
+    "CompanyName": "Công ty Cổ phần Vận tải biển Việt Nam",
+    "TradeCenter": "HSX",
+    "Price": 7.77,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VPB",
+    "CompanyName": "Ngân hàng Thương mại Cổ phần Việt Nam Thịnh Vượng",
+    "TradeCenter": "HSX",
+    "Price": 61,
+    "PE": 38.53,
+    "EPS": 1.58
+  },
+  {
+    "Symbol": "VPD",
+    "CompanyName": "Công ty cổ phần Phát triển Điện lực Việt Nam",
+    "TradeCenter": "HSX",
+    "Price": 14.2,
+    "PE": 15.19,
+    "EPS": 0.94
+  },
+  {
+    "Symbol": "VPG",
+    "CompanyName": "Công ty Cổ phần Đầu tư Thương mại Xuất nhập khẩu Việt Phát",
+    "TradeCenter": "HSX",
+    "Price": 46.1,
+    "PE": 8.75,
+    "EPS": 5.27
+  },
+  {
+    "Symbol": "VPH",
+    "CompanyName": "Công ty Cổ phần Vạn Phát Hưng",
+    "TradeCenter": "HSX",
+    "Price": 5.07,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VPI",
+    "CompanyName": "Công ty Cổ phần Đầu tư Văn Phú - Invest",
+    "TradeCenter": "HSX",
+    "Price": 39.05,
+    "PE": 56.46,
+    "EPS": 0.69
+  },
+  {
+    "Symbol": "VPL",
+    "CompanyName": "Công ty TNHH Một thành viên Vinpearl",
+    "TradeCenter": "HSX",
+    "Price": 80.5,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VPS",
+    "CompanyName": "CTCP Thuốc sát trùng Việt Nam",
+    "TradeCenter": "HSX",
+    "Price": 15,
+    "PE": 48.88,
+    "EPS": 0.31
+  },
+  {
+    "Symbol": "VRC",
+    "CompanyName": "Công ty Cổ phần Bất động sản và Đầu tư VRC",
+    "TradeCenter": "HSX",
+    "Price": 7,
+    "PE": 300.43,
+    "EPS": 0.02
+  },
+  {
+    "Symbol": "VRE",
+    "CompanyName": "Công ty Cổ phần Vincom Retail ",
+    "TradeCenter": "HSX",
+    "Price": 27.65,
+    "PE": 46.86,
+    "EPS": 0.59
+  },
+  {
+    "Symbol": "VSC",
+    "CompanyName": "Công ty cổ phần Tập đoàn Container Việt Nam",
+    "TradeCenter": "HSX",
+    "Price": 67.4,
+    "PE": 12.19,
+    "EPS": 5.53
+  },
+  {
+    "Symbol": "VSH",
+    "CompanyName": "Công ty Cổ phần Thủy điện Vĩnh Sơn - Sông Hinh",
+    "TradeCenter": "HSX",
+    "Price": 21.3,
+    "PE": 31.13,
+    "EPS": 0.68
+  },
+  {
+    "Symbol": "VSI",
+    "CompanyName": "Công ty Cổ phần Đầu tư và Xây dựng Cấp thoát nước",
+    "TradeCenter": "HSX",
+    "Price": 18.6,
+    "PE": 0,
+    "EPS": 0
+  },
+  {
+    "Symbol": "VTB",
+    "CompanyName": "Công ty Cổ phần Viettronics Tân Bình",
+    "TradeCenter": "HSX",
+    "Price": 11.4,
+    "PE": 9.58,
+    "EPS": 1.19
+  },
+  {
+    "Symbol": "VTF",
+    "CompanyName": "Công ty Cổ phần Thức ăn Chăn nuôi Việt Thắng",
+    "TradeCenter": "HSX",
+    "Price": 33,
+    "PE": 33.18,
+    "EPS": 0.99
+  },
+  {
+    "Symbol": "VTO",
+    "CompanyName": "Công ty Cổ phần Vận tải Xăng dầu VITACO",
+    "TradeCenter": "HSX",
+    "Price": 9.24,
+    "PE": 7.94,
+    "EPS": 1.16
+  },
+  {
+    "Symbol": "YBM",
+    "CompanyName": "Công ty Cổ phần Khoáng sản Công nghiệp Yên Bái",
+    "TradeCenter": "HSX",
+    "Price": 6.6,
+    "PE": 7.11,
+    "EPS": 0.93
+  },
+  {
+    "Symbol": "YEG",
+    "CompanyName": "Công ty Cổ phần Tập đoàn Yeah1",
+    "TradeCenter": "HSX",
+    "Price": 15.4,
+    "PE": 0,
+    "EPS": 0
+  }
