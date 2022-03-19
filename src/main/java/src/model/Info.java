@@ -9,8 +9,8 @@ public class Info {
     private Double currentPrice;
     private Integer pointBigMoney;
     private Integer pf = 0;
-    private double maxBigPoint = 0;
-    private double maxPointOfDay = 0;
+    private Double maxBigPoint = 0d;
+    private Double maxPointOfDay = 0d;
 //    String today
 
 

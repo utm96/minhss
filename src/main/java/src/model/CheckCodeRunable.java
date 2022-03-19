@@ -16,13 +16,15 @@ public class CheckCodeRunable implements Runnable {
     private int threshHold = 3;
     private int volDefault = 20;
     private int dayLast = 0;
+    private int responseSize = 2000;
 
-    public CheckCodeRunable(ConcurrentHashMap<String, Info> listCode, String code, int threshHold, int volDefault, int dayLast) {
+    public CheckCodeRunable(ConcurrentHashMap<String, Info> listCode, String code, int threshHold, int volDefault, int dayLast, int responseSize) {
         this.listCode = listCode;
         this.code = code;
         this.threshHold = threshHold;
         this.volDefault = volDefault;
         this.dayLast = dayLast;
+        this.responseSize = responseSize;
     }
 
     @Override
@@ -54,7 +56,7 @@ public class CheckCodeRunable implements Runnable {
             StringBuilder stringBuilderBigMoney = new StringBuilder();
             double maxPoint = 0;
             double maxPointOfDay = 0;
-            for (int i = 1500; i > -1; i--) {
+            for (int i = responseSize; i > -1; i--) {
                 DataFrame s = MyGETRequest.checkRequestBuy(response, i, threshHold);
                 if (s != null) {
                     if (maxPoint < s.getPoint()) {
